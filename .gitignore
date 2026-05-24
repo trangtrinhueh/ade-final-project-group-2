@@ -1,0 +1,22 @@
+# Models và data lớn
+resources/models/*.pkl
+resources/feature_store/*.pkl
+models/*.pkl
+feature_store/*.pkl
+output/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Thông tin nhạy cảm
+config/config.py
+config.py
+
+# File tạm
+*.log
+.env
+
+# Claude Code local settings
+.claude/
