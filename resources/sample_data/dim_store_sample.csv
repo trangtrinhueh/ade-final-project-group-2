@@ -1,0 +1,3017 @@
+﻿store_key,store_id,store_name,province_id,province_name
+1,14362,BHX_HCM_BTA - 50 Trương Phước Phan,1027,Thành phố Hồ Chí Minh
+2,5978,BHX_HGI_CTA - Thửa 1224 Tân Phú Thạnh,1032,Thành phố Cần Thơ
+3,14574,BHX_TTH_HUE - 11 Đặng Tất,1019,Thành phố Huế
+4,14564,BHX_STR_VCH - Lạc Hoà,1032,Thành phố Cần Thơ
+5,6966,BHX_BRV_XMO - 315/12 Phú Bình (Hòa Hiệp),1027,Thành phố Hồ Chí Minh
+6,15689,BHX_HCM_BHI - Ni Sư Huỳnh Liên,1027,Thành phố Hồ Chí Minh
+7,4659,BHX_BTR_TPH - Thửa 66 An Hội A (Chợ Giồng Ớt),1030,Tỉnh Vĩnh Long
+8,14717,BHX_KGI_GRI - Ngọc Hoà,1031,Tỉnh An Giang
+9,8363,BHX_STR_CLD - Thửa 1289 An Nghiệp,1032,Thành phố Cần Thơ
+10,29793,BHX_QTR_LNI - TT. Nông Trường Lệ Ninh,1018,Tỉnh Quảng Trị
+11,30058,BHX_AGI_PTA - Chu Văn An,1031,Tỉnh An Giang
+12,6189,BHX_HCM_TDU - 418 Quốc Lộ 13,1027,Thành phố Hồ Chí Minh
+13,4993,BHX_BRV_VTA - 5 Nguyễn Hữu Cảnh,1027,Thành phố Hồ Chí Minh
+14,15708,BHX_NAN_TVI - Trường Vinh,1016,Tỉnh Nghệ An
+15,30247,BHX_HCM_TMT - 79 Võ Oanh,1027,Thành phố Hồ Chí Minh
+16,10354,BHX_LAN_DHU - Mỹ Thạnh Bắc,1028,Tỉnh Tây Ninh
+17,4658,BHX_TNI_HTH - Thửa 01 Long Thời,1028,Tỉnh Tây Ninh
+18,5680,BHX_KHH_VNI - Tân Phước Tây (Chợ Tu Bông),1023,Tỉnh Khánh Hòa
+19,15743,BHX_HCM_BLT - 399 Phan Văn Trị,1027,Thành phố Hồ Chí Minh
+20,13460,BHX_BTR_CTH - Kho Bến Tre (HUB),1030,Tỉnh Vĩnh Long
+21,15072,BHX_THO_QXU - Kho Thanh Hóa (HUB),1015,Tỉnh Thanh Hóa
+22,15633,BHX_HUE_THO - 87-89 Nguyễn Sinh Cung,1019,Thành phố Huế
+23,30026,BHX_HCM_VTA - đường DB4,1027,Thành phố Hồ Chí Minh
+24,29923,BHX_HCM_HLO - A2/3 Hưng Long,1027,Thành phố Hồ Chí Minh
+25,7917,BHX_TGI_CBE - Thái Hòa (An Thái Đông),1029,Tỉnh Đồng Tháp
+26,4705,BHX_VLO_TBI - Tổ 11 Mỹ Phú,1030,Tỉnh Vĩnh Long
+27,5298,BHX_KHH_NTR - Thửa 690 Vĩnh Ngọc,1023,Tỉnh Khánh Hòa
+28,28657,BHX_HCM_PLA - 178G Tân Hoà Đông,1027,Thành phố Hồ Chí Minh
+29,28673,BHX_DNA_DBT - Điện Bàn Tây,1020,Thành phố Đà Nẵng
+30,4778,BHX_LAN_TAN - Thửa 76 Phường 4,1028,Tỉnh Tây Ninh
+31,7817,BHX_LDO_DHU - 276 Lê Lợi,1025,Tỉnh Lâm Đồng
+32,5226,BHX_CTH_NKI - Thửa 573 Nguyễn Tri Phương,1032,Thành phố Cần Thơ
+33,4665,BHX_LAN_THO - Thửa 35 Thạnh Hóa,1028,Tỉnh Tây Ninh
+34,4897,BHX_VLO_VLI - Thửa 884 Phú Cường,1030,Tỉnh Vĩnh Long
+35,4341,BHX_BTR_CLA - Thửa 2 Đường QL57 (Chợ Lách),1030,Tỉnh Vĩnh Long
+36,4928,BHX_BDU_TDM - Thửa 227 Phú Cường,1027,Thành phố Hồ Chí Minh
+37,8896,BHX_HCM_BCH - 1A/94 Vĩnh Lộc,1027,Thành phố Hồ Chí Minh
+38,4685,BHX_AGI_CMO - Lê Lợi,1031,Tỉnh An Giang
+39,3768,BHX_HCM_Q12 - 1/44A1 Nguyễn Văn Quá,1027,Thành phố Hồ Chí Minh
+40,7335,BHX_HCM_PNH - 223 Nguyễn Trọng Tuyển,1027,Thành phố Hồ Chí Minh
+41,13651,BHX_DON_BHO - Kho Lạnh Trần Đại Nghĩa (HUB),1026,Tỉnh Đồng Nai
+42,14768,BHX_QTR_CLO - TT Cam Lộ,1018,Tỉnh Quảng Trị
+43,6114,BHX_DLA_KPA - 501 Giải Phóng,1024,Tỉnh Đắk Lắk
+44,28841,BHX_NBI_PLY - Phủ Lý,1014,Tỉnh Ninh Bình
+45,6747,BHX_HCM_TDU - 443 Kha Vạn Cân,1027,Thành phố Hồ Chí Minh
+46,5067,BHX_DON_BHO - 116A Phan Đình Phùng,1026,Tỉnh Đồng Nai
+47,6403,BHX_HCM_BTA - 172 Đường Số 8,1027,Thành phố Hồ Chí Minh
+48,14587,BHX_THO_NSO - Nguyễn Bá Ngọc,1015,Tỉnh Thanh Hóa
+49,4075,BHX_HCM_PNH - 2C-2D Phùng Văn Cung,1027,Thành phố Hồ Chí Minh
+50,14169,BHX_QNA_NTH - Tam Quang,1020,Thành phố Đà Nẵng
+51,4385,BHX_CTH_BTH - Thửa 141 Nguyễn Chí Thanh (KCN Trà Nóc),1032,Thành phố Cần Thơ
+52,3712,BHX_HCM_TDU - 42 Lê Văn Chí,1027,Thành phố Hồ Chí Minh
+53,4461,BHX_BDU_TAN - 13C/1F Đồng An 2,1027,Thành phố Hồ Chí Minh
+54,14984,BHX_KGI_THI - Thạnh Đông A,1031,Tỉnh An Giang
+55,8210,BHX_LDO_LHA - Thửa 368 Đinh Văn,1025,Tỉnh Lâm Đồng
+56,28271,BHX_TNI_MYE - Mỹ Yên,1028,Tỉnh Tây Ninh
+57,4288,BHX_HCM_TDU - 87 Man Thiện,1027,Thành phố Hồ Chí Minh
+58,8576,BHX_HCM_BTA - 331 Lê Văn Quới,1027,Thành phố Hồ Chí Minh
+59,8924,BHX_KGI_RGI - 04 Nguyễn Chí Thanh,1031,Tỉnh An Giang
+60,5486,BHX_TGI_CTH - Ấp Tân Phú 1 (Tân Lý Đông),1029,Tỉnh Đồng Tháp
+61,9287,BHX_HCM_BCH - F1/1 Lê Minh Xuân,1027,Thành phố Hồ Chí Minh
+62,4250,BHX_BTR_BTR - Thửa 213 Đoàn Hoàng Minh,1030,Tỉnh Vĩnh Long
+63,6026,BHX_KGI_RGI - 1066 Nguyễn Trung Trực,1031,Tỉnh An Giang
+64,3590,BHX_HCM_GVA - 288 Phan Huy Ích,1027,Thành phố Hồ Chí Minh
+65,28634,BHX_CTH_ABI - Nguyễn Văn Trường,1032,Thành phố Cần Thơ
+66,14767,BHX_QTR_HLA - TT Hải Lăng,1018,Tỉnh Quảng Trị
+67,6259,BHX_TNI_DMC - Phước Lộc (Phước Minh),1028,Tỉnh Tây Ninh
+68,6877,BHX_LAN_KTU - Khu Phố 1 (Phường 3),1028,Tỉnh Tây Ninh
+69,28675,BHX_VLO_HMI - Hòa Minh,1030,Tỉnh Vĩnh Long
+70,6148,BHX_DLA_BMT - 385 Võ Văn Kiệt,1024,Tỉnh Đắk Lắk
+71,10520,BHX_BTR_BTR - Phú Nhuận,1030,Tỉnh Vĩnh Long
+72,4320,BHX_TGI_GCO - Thửa 01 và 03 Thuận An,1029,Tỉnh Đồng Tháp
+73,5056,BHX_HCM_GVA - 91/2 Đường Số 1,1027,Thành phố Hồ Chí Minh
+74,15111,BHX_HCM_BCH - C9/17A Dương Đình Cúc,1027,Thành phố Hồ Chí Minh
+75,28564,BHX_HYE_TLA - Lý Thường Kiệt,1013,Tỉnh Hưng Yên
+76,28159,BHX_NAN_TVI - Lý Thường Kiệt,1016,Tỉnh Nghệ An
+77,3990,BHX_BDU_TDM - Thửa 2051 An Mỹ,1027,Thành phố Hồ Chí Minh
+78,8656,BHX_HCM_Q07 - 27 Đường Số 19,1027,Thành phố Hồ Chí Minh
+79,5759,BHX_AGI_TCH - Nguyễn Văn Linh,1031,Tỉnh An Giang
+80,2236,BHX_HCM_BTA - 66/18 Bình Thành,1027,Thành phố Hồ Chí Minh
+81,14170,BHX_QNG_BSO - Châu Ổ,1021,Tỉnh Quảng Ngãi
+82,6025,BHX_KGI_RGI - 335 Lâm Quang Ky,1031,Tỉnh An Giang
+83,14965,BHX_NAN_TKY - Tân Kỳ,1016,Tỉnh Nghệ An
+84,14364,BHX_PYE_SHO - Củng Sơn,1024,Tỉnh Đắk Lắk
+85,6057,BHX_KGI_RGI - 219 Nguyễn Bỉnh Khiêm,1031,Tỉnh An Giang
+86,15522,BHX_BTH_LGI - Võ Thị Sáu,1025,Tỉnh Lâm Đồng
+87,10109,BHX_HCM_TDU - 81A Đường 339,1027,Thành phố Hồ Chí Minh
+88,14771,BHX_QNA_TKY - 44 Lê Lợi,1020,Thành phố Đà Nẵng
+89,8105,BHX_HCM_NBE - Thửa 1886 Phước Kiển,1027,Thành phố Hồ Chí Minh
+90,7747,BHX_HCM_GVA - 80 Nguyễn Văn Khối,1027,Thành phố Hồ Chí Minh
+91,28020,BHX_CMA_TTH - Đường 3/2,1033,Tỉnh Cà Mau
+92,15746,BHX_QNG_TNG -  Nghĩa Hòa,1021,Tỉnh Quảng Ngãi
+93,9374,BHX_BDU_TDM - Hòa Phú,1027,Thành phố Hồ Chí Minh
+94,6540,BHX_BTH_HTN - Thửa 184 (Chợ Thuận Nam),1025,Tỉnh Lâm Đồng
+95,5118,BHX_AGI_CTH - Thửa 17 Vĩnh Bình,1031,Tỉnh An Giang
+96,14588,BHX_LAN_TAN - Phường 3,1028,Tỉnh Tây Ninh
+97,5827,BHX_KHH_NHO - 07 Lê Hồng Phong (Chợ Ninh Diêm),1023,Tỉnh Khánh Hòa
+98,3828,BHX_HCM_Q08 - 117 Âu Dương Lân,1027,Thành phố Hồ Chí Minh
+99,1489,BHX_HCM_BTA - 2 Đường 16,1027,Thành phố Hồ Chí Minh
+100,2792,BHX_HCM_GVA - 95 Đường Số 13,1027,Thành phố Hồ Chí Minh
+101,5811,BHX_BTH_DLI - Thửa 198 Đức Tài (Cây Xăng Võ Đắc),1025,Tỉnh Lâm Đồng
+102,14832,BHX_KHH_NTR - Vĩnh Trường,1023,Tỉnh Khánh Hòa
+103,2470,BHX_HCM_Q12 - 82/1 Tân Thới Nhất 8,1027,Thành phố Hồ Chí Minh
+104,29755,BHX_THO_HTH - 1128 Quang Trung 3,1015,Tỉnh Thanh Hóa
+105,5178,BHX_BTR_BDA - Thửa 48 Lộc Hòa,1030,Tỉnh Vĩnh Long
+106,4774,BHX_BTR_BDA - Thửa 98 ĐT883 Bình Đại,1030,Tỉnh Vĩnh Long
+107,4898,BHX_HCM_Q08 - 118 Bùi Minh Trực,1027,Thành phố Hồ Chí Minh
+108,6812,BHX_TGI_GCO - 8 Võ Duy Linh,1029,Tỉnh Đồng Tháp
+109,28017,BHX_QNG_DTO -  Hùng Vương,1021,Tỉnh Quảng Ngãi
+110,14149,BHX_DNA_HCH - 600 Núi Thành,1020,Thành phố Đà Nẵng
+111,28721,BHX_NBI_NMI - Nam Minh ( Chợ Viềng),1014,Tỉnh Ninh Bình
+112,15723,BHX_HCM_DHT - 386 - 388 Nguyễn Văn Quá,1027,Thành phố Hồ Chí Minh
+113,14163,BHX_QNA_DBA - Kho DC Điện Bàn (Đổi -Trả NCC),1020,Thành phố Đà Nẵng
+114,8776,BHX_HCM_Q08 - 336 Tạ Quang Bửu,1027,Thành phố Hồ Chí Minh
+115,14788,BHX_DNA_LCH - 106 Âu Cơ,1020,Thành phố Đà Nẵng
+116,13718,BHX_BDU_BBA - Lai Uyên,1027,Thành phố Hồ Chí Minh
+117,7669,BHX_LDO_DTR - Tân Hội,1025,Tỉnh Lâm Đồng
+118,28091,BHX_VLO_LDU - Long Đức,1030,Tỉnh Vĩnh Long
+119,28845,BHX_DLA_VBO - Vụ Bổn,1024,Tỉnh Đắk Lắk
+120,30151,BHX_HCM_GDI - 72-74 Vạn Kiếp,1027,Thành phố Hồ Chí Minh
+121,4997,BHX_HCM_TDU - 448 Nguyễn Văn Tăng,1027,Thành phố Hồ Chí Minh
+122,4409,"BHX_BPH_BLO - Thửa 37, 36, 48 Hùng Vương",1026,Tỉnh Đồng Nai
+123,8890,BHX_DON_BHO - Thửa 70 Long Bình,1026,Tỉnh Đồng Nai
+124,6274,BHX_KHH_VNI - Quảng Hội 1 (Chợ Vạn Thắng),1023,Tỉnh Khánh Hòa
+125,28894,BHX_NBI_RDO - Đông Bình,1014,Tỉnh Ninh Bình
+126,3440,BHX_HCM_Q11 - 218 Thái Phiên,1027,Thành phố Hồ Chí Minh
+127,13397,BHX_HCM_BTA - 331 Lê Văn Quới (HUB),1027,Thành phố Hồ Chí Minh
+128,9191,BHX_HCM_HMO - 23/2A Đồng Tâm,1027,Thành phố Hồ Chí Minh
+129,14419,BHX_HCM_BTA - The Privia Khang Điền,1027,Thành phố Hồ Chí Minh
+130,4361,BHX_HCM_TDU - Số 3 Đường Số 6,1027,Thành phố Hồ Chí Minh
+131,28618,BHX_DON_XLO - Gia Ray,1026,Tỉnh Đồng Nai
+132,5096,BHX_BTR_CLA - Thửa 27 Phú Phụng,1030,Tỉnh Vĩnh Long
+133,4325,BHX_VLO_LHO - 347/27 Phước Yên,1030,Tỉnh Vĩnh Long
+134,2900,BHX_HCM_BCH - 222B/7DGV Ấp 2 (An Phú Tây),1027,Thành phố Hồ Chí Minh
+135,5762,BHX_BTH_LGI - Thửa 218 Phước Hội (Chợ Đại Đồng),1025,Tỉnh Lâm Đồng
+136,29915,BHX_HCM_BTA - 9 Liên Khu 5-6,1027,Thành phố Hồ Chí Minh
+137,28832,BHX_HCM_TSO - 77B Nguyễn Sỹ Sách,1027,Thành phố Hồ Chí Minh
+138,15624,BHX_BDU_DAN - Huỳnh Thị Tươi,1027,Thành phố Hồ Chí Minh
+139,6187,BHX_HCM_Q12 - 3A Thạnh Lộc 29,1027,Thành phố Hồ Chí Minh
+140,8347,BHX_BDU_DAN - Thửa số 20A Bình Đường 4,1027,Thành phố Hồ Chí Minh
+141,4992,BHX_HCM_NBE - 2016 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+142,5231,BHX_KGI_HDA - 12 QL80 Hưng Giang,1031,Tỉnh An Giang
+143,13601,BHX_DLA_BMT - Kho Lạnh Trần Đại Nghĩa (HUB),1024,Tỉnh Đắk Lắk
+144,14972,BHX_HUE_PXU - 142 Kim Long,1019,Thành phố Huế
+145,4406,BHX_HCM_Q08 - 797 Hưng Phú,1027,Thành phố Hồ Chí Minh
+146,3235,BHX_HCM_CCH - 85 Liêu Bình Hương,1027,Thành phố Hồ Chí Minh
+147,14178,BHX_DNA_LCH - 153 Âu Cơ,1020,Thành phố Đà Nẵng
+148,15546,BHX_DNA_TKH - Nguyễn Hoàng,1020,Thành phố Đà Nẵng
+149,10168,BHX_HCM_CGI - Bình Khánh,1027,Thành phố Hồ Chí Minh
+150,14983,BHX_KGI_AMI - Đông Hưng A,1031,Tỉnh An Giang
+151,4602,BHX_BTR_BTR - Thửa 16 Nguyễn Thị Định,1030,Tỉnh Vĩnh Long
+152,3250,BHX_HCM_TDU - 51 Đường Số 2,1027,Thành phố Hồ Chí Minh
+153,4891,BHX_LAN_TTR - Thửa 154 Lạc Tấn,1028,Tỉnh Tây Ninh
+154,14669,BHX_BLI_PLO - Vĩnh Thanh (Chợ Trưởng Toà),1033,Tỉnh Cà Mau
+155,15535,BHX_CMA_TBI - đường 3/2,1033,Tỉnh Cà Mau
+156,5776,BHX_HCM_TDU - 30 Đường Số 3,1027,Thành phố Hồ Chí Minh
+157,14305,BHX_DNA_NHS - 17 Bà Huyện Thanh Quan,1020,Thành phố Đà Nẵng
+158,8039,BHX_LDO_DLI - 23 Lý Thường Kiệt,1025,Tỉnh Lâm Đồng
+159,10434,BHX_LAN_BLU - Huỳnh Châu Sổ,1028,Tỉnh Tây Ninh
+160,6418,BHX_DLA_EKA - Tổ Dân Phố 2B (Ea Kar),1024,Tỉnh Đắk Lắk
+161,2715,BHX_HCM_Q12 - Thửa 547 Tân Chánh Hiệp,1027,Thành phố Hồ Chí Minh
+162,28281,BHX_NBI_HHU - Hải Hưng,1014,Tỉnh Ninh Bình
+163,4814,BHX_DON_TBO - Đường 767 Bắc Sơn (Chợ Sông Mây),1026,Tỉnh Đồng Nai
+164,4365,BHX_TNI_TBA - Thửa 89-101 Gia Huỳnh,1028,Tỉnh Tây Ninh
+165,14779,BHX_KGI_HDA - Sơn Kiên,1031,Tỉnh An Giang
+166,9508,BHX_HCM_CGI - Long Hòa,1027,Thành phố Hồ Chí Minh
+167,9521,BHX_BDU_DTI - Minh Thạnh,1027,Thành phố Hồ Chí Minh
+168,7883,BHX_HCM_Q01 - 158 Đề Thám,1027,Thành phố Hồ Chí Minh
+169,28625,BHX_HYE_THA - Chợ Tiểu Hoàng,1013,Tỉnh Hưng Yên
+170,15021,BHX_GLA_PTH - 466-468 Hùng Vương,1022,Tỉnh Gia Lai
+171,6851,BHX_HCM_BCH - 1/23 Tân Quý Tây,1027,Thành phố Hồ Chí Minh
+172,30034,BHX_HPH_VBA - Vĩnh Bảo,1012,Thành phố Hải Phòng
+173,5006,BHX_TVI_CNG - Thửa 80 Vĩnh Kim,1030,Tỉnh Vĩnh Long
+174,7283,BHX_DNG_DRL - QL14 Quảng Tín,1025,Tỉnh Lâm Đồng
+175,5310,BHX_CTH_PDI - Khu TTTM Phong Điền,1032,Thành phố Cần Thơ
+176,14300,BHX_BDU_BCA - Rạch Bắp,1027,Thành phố Hồ Chí Minh
+177,15696,BHX_NAN_QPH - Quỳnh Phú,1016,Tỉnh Nghệ An
+178,28032,BHX_HCM_PHD - 1426 Tỉnh Lộ 8,1027,Thành phố Hồ Chí Minh
+179,28543,BHX_HYE_LDA - Kho SC Trái Cây (AJHY),1013,Tỉnh Hưng Yên
+180,7326,BHX_HCM_Q07 - 336 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+181,15795,BHX_HCM_TNP - 68 Tăng Nhơn Phú,1027,Thành phố Hồ Chí Minh
+182,29830,BHX_DNA_HKH - 211 Phạm Như Xương,1020,Thành phố Đà Nẵng
+183,28459,BHX_HTI_HLO - Hồng Lộc,1017,Tỉnh Hà Tĩnh
+184,6488,BHX_KHH_NHO - Lạc An (Ninh Thọ),1023,Tỉnh Khánh Hòa
+185,2103,BHX_HCM_BTA - 14 Đường số 2,1027,Thành phố Hồ Chí Minh
+186,28236,BHX_NBI_NHU - Nghĩa Hưng,1014,Tỉnh Ninh Bình
+187,6296,BHX_BRV_CDU - Tổ 47 Xuân Hòa (Sơn Bình),1027,Thành phố Hồ Chí Minh
+188,29884,BHX_HCM_BTH - 219E-219F Nơ Trang Long,1027,Thành phố Hồ Chí Minh
+189,28728,BHX_DTH_MNG - Mỹ Ngãi,1029,Tỉnh Đồng Tháp
+190,28629,BHX_LDO_THO - N' Thôn Hạ,1025,Tỉnh Lâm Đồng
+191,10103,BHX_BTR_CTH - Quới Sơn,1030,Tỉnh Vĩnh Long
+192,28270,BHX_TNI_MHA - Mỹ Hạnh,1028,Tỉnh Tây Ninh
+193,28628,BHX_GLA_DCO - Đức Cơ,1022,Tỉnh Gia Lai
+194,4223,BHX_DON_TBO - 15 Bình Minh,1026,Tỉnh Đồng Nai
+195,8538,BHX_DON_TPH - Thửa 42 Phú Lập,1026,Tỉnh Đồng Nai
+196,5043,BHX_BRV_XMO - 1/1 Nhân Tiến,1027,Thành phố Hồ Chí Minh
+197,28577,BHX_HCM_HBI - 8A  Quốc Lộ 13 cũ,1027,Thành phố Hồ Chí Minh
+198,28687,BHX_NAN_NLO - Xã Đoài,1016,Tỉnh Nghệ An
+199,30119,BHX_HCM_PNH - 310A Huỳnh Văn Bánh,1027,Thành phố Hồ Chí Minh
+200,3856,BHX_DON_BHO - 4 Nguyễn Văn Tiên,1026,Tỉnh Đồng Nai
+201,10461,BHX_HCM_NBE - Kho XLCL Nhà Bè,1027,Thành phố Hồ Chí Minh
+202,7155,BHX_DON_LTH - 26 TL769 (Lộc An),1026,Tỉnh Đồng Nai
+203,28189,BHX_NBI_BMI - Kim Mỹ,1014,Tỉnh Ninh Bình
+204,5293,BHX_BTH_LGI - Thửa 348 Phước Hội (Chợ Sáng La Gi),1025,Tỉnh Lâm Đồng
+205,15042,BHX_HUE_PDI - Điền Lộc,1019,Thành phố Huế
+206,3741,BHX_BDU_TAN - Thửa 134 Bình Đáng,1027,Thành phố Hồ Chí Minh
+207,14592,BHX_STR_KSA - Nhơn Mỹ,1032,Thành phố Cần Thơ
+208,4762,BHX_TGI_MTH - Thửa 1449 Ấp Chợ,1029,Tỉnh Đồng Tháp
+209,14472,BHX_QNA_BTM - Trà My,1020,Thành phố Đà Nẵng
+210,15014,BHX_QNA_DLO - Đại Hoà,1020,Thành phố Đà Nẵng
+211,4754,BHX_DON_NTR - Tổ 10 Ấp 1 (Chợ Long Thọ),1026,Tỉnh Đồng Nai
+212,6895,BHX_CMA_CMA - Nguyễn Công Trứ,1033,Tỉnh Cà Mau
+213,28283,BHX_AGI_BMY - Bình Thủy,1031,Tỉnh An Giang
+214,28859,BHX_QNG_TQT - Trương Quang Trọng,1021,Tỉnh Quảng Ngãi
+215,1933,BHX_HCM_TPH - 871 Âu Cơ,1027,Thành phố Hồ Chí Minh
+216,13719,BHX_BTH_HTN - Kho Lạnh Trần Đại Nghĩa (HUB) 86,1025,Tỉnh Lâm Đồng
+217,28712,BHX_HCM_THU - 32 - 34 Lâm Văn Bền,1027,Thành phố Hồ Chí Minh
+218,8152,BHX_HCM_TPH - 108 Tân Hương,1027,Thành phố Hồ Chí Minh
+219,14591,BHX_CTH_VTH - Thạnh Quới,1032,Thành phố Cần Thơ
+220,14967,BHX_THO_YDI - Quý Lộc,1015,Tỉnh Thanh Hóa
+221,30150,BHX_HCM_TAN - 2/3 Lê Quang Hòa,1027,Thành phố Hồ Chí Minh
+222,15062,BHX_GLA_IHR - Kho Thịt Cá ITL Đà Nẵng (HUB),1022,Tỉnh Gia Lai
+223,1970,BHX_HCM_BTA - 223 Liên Khu 4-5,1027,Thành phố Hồ Chí Minh
+224,4708,BHX_LAN_TAN - Thửa 1384 Phường 6,1028,Tỉnh Tây Ninh
+225,3386,BHX_HCM_TDU - 205 Lã Xuân Oai,1027,Thành phố Hồ Chí Minh
+226,14786,BHX_HCM_Q12 - 82 Thạnh Lộc 19,1027,Thành phố Hồ Chí Minh
+227,13613,BHX_HCM_TBI - 87 Đồng Đen,1027,Thành phố Hồ Chí Minh
+228,13733,BHX_HCM_TDU - 83 đường số 3,1027,Thành phố Hồ Chí Minh
+229,7302,BHX_BDU_BBA - Lai Hưng,1027,Thành phố Hồ Chí Minh
+230,3095,BHX_HCM_TDU - 36 Tây Hòa (Phước Long A),1027,Thành phố Hồ Chí Minh
+231,28303,BHX_HYE_VQU - Vũ Quý (Chợ Niềm),1013,Tỉnh Hưng Yên
+232,4383,BHX_CTH_NKI - 151/6 Trần Hoàng Na,1032,Thành phố Cần Thơ
+233,4611,BHX_BDU_DAN - Thửa 787 Khu Phố Đông B,1027,Thành phố Hồ Chí Minh
+234,7333,BHX_LDO_DTR - Thửa 245 Liên Nghĩa,1025,Tỉnh Lâm Đồng
+235,6140,BHX_HGI_CTH - Thửa 499 Ngã Sáu,1032,Thành phố Cần Thơ
+236,4374,BHX_LAN_BLU - Thửa 7476 KDC Thuận Đạo,1028,Tỉnh Tây Ninh
+237,14420,BHX_DON_TNH - Gia Tân 1,1026,Tỉnh Đồng Nai
+238,8711,BHX_LDO_DLA - Phù Đổng Thiên Vương,1025,Tỉnh Lâm Đồng
+239,6313,BHX_KHH_CRA - Ngô Mây (Chợ Cư Xá),1023,Tỉnh Khánh Hòa
+240,14288,BHX_BDI_QNH - Hải Cảng,1022,Tỉnh Gia Lai
+241,15048,BHX_CTH_NKI - Hoàng Quốc Việt,1032,Thành phố Cần Thơ
+242,29946,BHX_HCM_AHT - 81/17A Đường số 59,1027,Thành phố Hồ Chí Minh
+243,14688,BHX_QBI_DHO - 134 Lê Lợi,1018,Tỉnh Quảng Trị
+244,4820,BHX_TGI_CBE - Thửa 147 Hòa Khánh,1029,Tỉnh Đồng Tháp
+245,4847,BHX_DTH_CLA - Thửa 3397 Phường 11 Cao Lãnh,1029,Tỉnh Đồng Tháp
+246,14489,BHX_NAN_VIN - 113 Nguyễn Thái Học,1016,Tỉnh Nghệ An
+247,14368,BHX_BDI_QNH - Kho Quy Nhơn (HUB),1022,Tỉnh Gia Lai
+248,10048,BHX_BPH_BDA - Đường 10,1026,Tỉnh Đồng Nai
+249,10445,BHX_LAN_DHO - Lộc Giang (Lộc Thạnh),1028,Tỉnh Tây Ninh
+250,4331,BHX_BPH_PRI - Thửa 156 Phú Riềng,1026,Tỉnh Đồng Nai
+251,27976,BHX_NAN_TLO - Nghi Long,1016,Tỉnh Nghệ An
+252,14530,BHX_QTR_VLI - Cửa Tùng,1018,Tỉnh Quảng Trị
+253,3092,BHX_HCM_GVA - 384 Dương Quảng Hàm,1027,Thành phố Hồ Chí Minh
+254,6392,BHX_DTH_TNO - Phú Thành A,1029,Tỉnh Đồng Tháp
+255,6288,BHX_TNI_TBA - An Bình (An Tịnh),1028,Tỉnh Tây Ninh
+256,4555,BHX_DON_TBO - 67 Đường 2/9 (Chợ Bờ Hồ),1026,Tỉnh Đồng Nai
+257,28754,BHX_AGI_CPH - Lê Chánh,1031,Tỉnh An Giang
+258,5236,BHX_DTH_LVO - Thửa 1355 Bình Thành 1 (Chợ Lấp Vò),1029,Tỉnh Đồng Tháp
+259,28745,BHX_THO_HHO - Phố Trung Sơn,1015,Tỉnh Thanh Hóa
+260,28860,BHX_LDO_DLA - 43B Hùng Vương,1025,Tỉnh Lâm Đồng
+261,6516,BHX_DON_TBO - 209 Tổ 10 Sông Trầu,1026,Tỉnh Đồng Nai
+262,12206,BHX_KGI_CTH - Kho Kiên Giang (HUB),1031,Tỉnh An Giang
+263,28090,BHX_GLA_QNN - 401B Nguyễn Thái Học,1022,Tỉnh Gia Lai
+264,5451,BHX_HCM_CCH - 1391 Tỉnh Lộ 7 (Chợ An Nhơn Tây),1027,Thành phố Hồ Chí Minh
+265,3893,BHX_BDU_DAN - Thửa 105 Tân Phú 1,1027,Thành phố Hồ Chí Minh
+266,9451,BHX_AGI_PTA - Tân Hòa,1031,Tỉnh An Giang
+267,29801,BHX_HCM_BTD - 477 Bình Trị  Đông,1027,Thành phố Hồ Chí Minh
+268,1257,BHX_HCM_BTA - 261 Lê Đình Cẩn,1027,Thành phố Hồ Chí Minh
+269,4333,BHX_DON_BHO - 1A Trảng Dài (Bùi Trọng Nghĩa),1026,Tỉnh Đồng Nai
+270,13618,BHX_HCM_CCH - 1649 Tỉnh Lộ 8,1027,Thành phố Hồ Chí Minh
+271,14701,BHX_TGI_GCO - Thủ Khoa Huân,1029,Tỉnh Đồng Tháp
+272,4750,BHX_TNI_HTH - Thửa 192 Long Thới,1028,Tỉnh Tây Ninh
+273,28929,BHX_HCM_LTH - Lái Thiêu OFF,1027,Thành phố Hồ Chí Minh
+274,28123,BHX_VLO_BTR - Tân Thông 2,1030,Tỉnh Vĩnh Long
+275,5238,BHX_LAN_DHO - Thửa 283 Đức Hòa,1028,Tỉnh Tây Ninh
+276,5945,BHX_TGI_CBE - An Bình (An Cư),1029,Tỉnh Đồng Tháp
+277,17864,BHX_HCM_TDU - 454 Võ Chí Công,1027,Thành phố Hồ Chí Minh
+278,4806,BHX_CTH_BTH - 152 Trần Quang Diệu,1032,Thành phố Cần Thơ
+279,15602,BHX_BTR_CTH - Tân Thạch,1030,Tỉnh Vĩnh Long
+280,10301,BHX_BRV_VTA - Số 01 Nguyễn Bỉnh Khiêm,1027,Thành phố Hồ Chí Minh
+281,28212,BHX_NBI_NQU - Bắc Sơn,1014,Tỉnh Ninh Bình
+282,5256,BHX_NTH_PRA - 702 Đường 21/08 (Ngã Tư Ga),1023,Tỉnh Khánh Hòa
+283,14477,BHX_HCM_BTH - 553A Xô Viết Nghệ Tĩnh,1027,Thành phố Hồ Chí Minh
+284,28152,BHX_HTI_DTH - Cầu Kênh,1017,Tỉnh Hà Tĩnh
+285,9874,BHX_LAN_BLU - Phước Lợi,1028,Tỉnh Tây Ninh
+286,5431,BHX_DTH_LVO - Thửa 165 Bình Thành,1029,Tỉnh Đồng Tháp
+287,14665,BHX_NAN_DCH - Diễn Ngọc,1016,Tỉnh Nghệ An
+288,28674,BHX_VLO_HMY - Hòa Lợi,1030,Tỉnh Vĩnh Long
+289,28604,BHX_NAN_DLU - Phan Bội Châu ( Đô Lương ),1016,Tỉnh Nghệ An
+290,30010,BHX_HPH_HAN - Hùng Vương ( Quán Toan),1012,Thành phố Hải Phòng
+291,14795,BHX_LAN_CTH - Hoà Phú,1028,Tỉnh Tây Ninh
+292,5662,BHX_KGI_GRI - Ấp Đồng Tràm (Long Thạnh),1031,Tỉnh An Giang
+293,7672,BHX_HCM_CCH - 143 TL15 (Phú Hòa Đông),1027,Thành phố Hồ Chí Minh
+294,6442,BHX_BDU_BTU - Thửa 371 Đất Cuốc,1027,Thành phố Hồ Chí Minh
+295,1992,BHX_HCM_BTA - 164 Bùi Tư Toàn,1027,Thành phố Hồ Chí Minh
+296,6264,BHX_CMA_CMA - 80 Phạm Hồng Thám,1033,Tỉnh Cà Mau
+297,14346,BHX_QNG_DPH - 379 Nguyễn Nghiêm,1021,Tỉnh Quảng Ngãi
+298,7823,BHX_KGI_UMT - Minh Kiên (Minh Thuận),1031,Tỉnh An Giang
+299,6312,BHX_BTH_HTA - Khu phố 2 (Chợ Tân Minh),1025,Tỉnh Lâm Đồng
+300,9307,BHX_AGI_LXU - Mỹ Hòa Hưng,1031,Tỉnh An Giang
+301,1975,BHX_HCM_TPH - 3 Sơn Kỳ,1027,Thành phố Hồ Chí Minh
+302,5048,BHX_TGI_GCD - Thửa 28 Vàm Láng,1029,Tỉnh Đồng Tháp
+303,28900,BHX_HYE_VQU - Kho DC Thái Bình (Đổi -Trả NCC),1013,Tỉnh Hưng Yên
+304,28262,BHX_HCM_BDO - 1438B Phạm Thế Hiển OFF,1027,Thành phố Hồ Chí Minh
+305,5353,BHX_TGI_MTH - Thửa 39 Phường 8,1029,Tỉnh Đồng Tháp
+306,30102,BHX_HPH_NDN - Hiến Thành,1012,Thành phố Hải Phòng
+307,3999,BHX_HCM_BTA - 159 Chiến Lược,1027,Thành phố Hồ Chí Minh
+308,6330,BHX_TGI_GCO - 65 Đồng Khởi,1029,Tỉnh Đồng Tháp
+309,29949,BHX_HCM_AHD - 468 Phạm Văn Chiêu,1027,Thành phố Hồ Chí Minh
+310,29909,BHX_AGI_VHA - Vĩnh Nhuận,1031,Tỉnh An Giang
+311,5020,BHX_AGI_APH - Lô số 9 Quốc Thái,1031,Tỉnh An Giang
+312,28611,BHX_NBI_XTR - Xuân Trường (Chợ Cầu Cụ),1014,Tỉnh Ninh Bình
+313,30080,BHX_QTR_BDO - Trung Thôn,1018,Tỉnh Quảng Trị
+314,8922,BHX_KGI_RGI - 236 Huỳnh Tấn Phát,1031,Tỉnh An Giang
+315,28647,BHX_KHO_CLA - Cam Hiệp Nam,1023,Tỉnh Khánh Hòa
+316,7277,BHX_HCM_TDU - 419 Kha Vạn Cân,1027,Thành phố Hồ Chí Minh
+317,5661,BHX_TGI_CLA - Ấp 12 Long Trung,1029,Tỉnh Đồng Tháp
+318,15758,BHX_GLA_HPH - 11 Nơ Trang Long,1022,Tỉnh Gia Lai
+319,5803,BHX_HCM_TDU - 6 Lò Lu,1027,Thành phố Hồ Chí Minh
+320,14761,BHX_HCM_Q03 - 45-47 Trần Quang Diệu,1027,Thành phố Hồ Chí Minh
+321,5153,BHX_STR_CTH - Thửa 543 An Hiệp,1032,Thành phố Cần Thơ
+322,14579,BHX_THO_THO - Đông Thọ,1015,Tỉnh Thanh Hóa
+323,7212,BHX_BTH_HTN - Kho DC Hàm Thuận Nam (Đổi -Trả NCC),1025,Tỉnh Lâm Đồng
+324,6864,BHX_TGI_CTH - Tân Hòa (Chợ Tân Hương),1029,Tỉnh Đồng Tháp
+325,15462,BHX_DNA_LCH - 16 Phan Văn Định,1020,Thành phố Đà Nẵng
+326,30155,BHX_VLO_QDI - Cầu Đúc,1030,Tỉnh Vĩnh Long
+327,8602,BHX_HCM_BCH - Quốc Lộ 50 (Đa Phước),1027,Thành phố Hồ Chí Minh
+328,5046,BHX_HCM_HMO - 32/9A Tiền Lân,1027,Thành phố Hồ Chí Minh
+329,7821,BHX_HCM_Q07 - 524B Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+330,6134,BHX_CTH_BTH - Thửa 292 Bình Phó A,1032,Thành phố Cần Thơ
+331,15774,BHX_LDO_HTH - Xuân An,1025,Tỉnh Lâm Đồng
+332,28937,BHX_HYE_ASA -  An Đồng,1013,Tỉnh Hưng Yên
+333,15615,BHX_HCM_Q07 - 163 Trần Trọng Cung,1027,Thành phố Hồ Chí Minh
+334,3682,BHX_BDU_TUY - Thửa 758 Đường DT747B (Thái Hòa),1027,Thành phố Hồ Chí Minh
+335,4990,BHX_BPH_CTH - Thửa 986 QL14 Minh Lập,1026,Tỉnh Đồng Nai
+336,5143,BHX_BTR_BTR - Thửa 224 Phú Hưng (Chợ Giữa),1030,Tỉnh Vĩnh Long
+337,14275,BHX_HCM_BTH - 96 Đặng Thuỳ Trâm,1027,Thành phố Hồ Chí Minh
+338,6841,BHX_BTR_BDA - Thửa 198 Bình Thới,1030,Tỉnh Vĩnh Long
+339,4961,BHX_AGI_CTH - Thửa 737 Cần Thạnh,1031,Tỉnh An Giang
+340,15106,BHX_HCM_Q12 - 23 Bùi Công Trừng,1027,Thành phố Hồ Chí Minh
+341,4271,BHX_BPH_DPH - Thửa 243 ĐT741 Ấp Chợ,1026,Tỉnh Đồng Nai
+342,14650,BHX_HCM_BTH - 58 Lê Văn Duyệt,1027,Thành phố Hồ Chí Minh
+343,28219,BHX_GLA_PLK - Lê Lợi,1022,Tỉnh Gia Lai
+344,30149,BHX_KHH_DKH - Kho Đóng Gói Diên Khánh (HUB),1023,Tỉnh Khánh Hòa
+345,10053,BHX_DTH_TBI - Thanh Bình,1029,Tỉnh Đồng Tháp
+346,14356,BHX_GLA_MYA - Kon Dơng,1022,Tỉnh Gia Lai
+347,14471,BHX_TGI_MTH - 152 Lý Thường Kiệt,1029,Tỉnh Đồng Tháp
+348,15523,BHX_BDI_PMY - Quang Trung,1022,Tỉnh Gia Lai
+349,2423,BHX_HCM_HMO - 93/8A Ấp Mỹ Hòa 1,1027,Thành phố Hồ Chí Minh
+350,6811,BHX_BPH_BLO - Trần Hưng Đạo,1026,Tỉnh Đồng Nai
+351,4220,BHX_HCM_TBI - 66-66A-68A Thân Nhân Trung,1027,Thành phố Hồ Chí Minh
+352,4547,BHX_HCM_NBE - 514C Nguyễn Văn Tạo,1027,Thành phố Hồ Chí Minh
+353,4819,BHX_TGI_CBE - Thửa 94 Tân Hưng (Chợ Tân Thanh),1029,Tỉnh Đồng Tháp
+354,8955,BHX_DON_BHO - Thửa 67 Hóa An,1026,Tỉnh Đồng Nai
+355,7775,BHX_DNG_GNG - Thửa 273 Gia Nghĩa,1025,Tỉnh Lâm Đồng
+356,6680,BHX_TGI_GCT - Thạnh Lạc Đông (Thạnh Nhựt),1029,Tỉnh Đồng Tháp
+357,4723,BHX_BPH_DPH - Thửa 235 Tân Lập,1026,Tỉnh Đồng Nai
+358,4880,BHX_HCM_TPH - 247 Khuông Việt,1027,Thành phố Hồ Chí Minh
+359,14656,BHX_GLA_PLK - 47D Nguyễn Trãi,1022,Tỉnh Gia Lai
+360,14132,BHX_DNA_STR - Trần Duy Chiến,1020,Thành phố Đà Nẵng
+361,10444,BHX_LAN_TAN - Phường 2,1028,Tỉnh Tây Ninh
+362,8344,BHX_DON_LTH - Thửa 06 Cẩm Đường,1026,Tỉnh Đồng Nai
+363,8835,BHX_VLO_LHO - Đồng Phú,1030,Tỉnh Vĩnh Long
+364,28166,BHX_NBI_DHL - Chợ Vệ,1014,Tỉnh Ninh Bình
+365,14693,BHX_TTH_HUE - 87 Nguyễn Chí Thanh,1019,Thành phố Huế
+366,6110,BHX_LDO_BLO - 2 Nguyễn Thái Học,1025,Tỉnh Lâm Đồng
+367,9281,BHX_HCM_Q11 - 423/30/30A Lạc Long Quân,1027,Thành phố Hồ Chí Minh
+368,8668,BHX_DLA_EKA - Ea Knốp,1024,Tỉnh Đắk Lắk
+369,6069,BHX_CMA_CMA - Huỳnh Ngọc Điệp,1033,Tỉnh Cà Mau
+370,4324,BHX_VLO_VLO - 74 Đường 2 Tháng 9,1030,Tỉnh Vĩnh Long
+371,15031,BHX_HCM_GVA - 12 đường số 8,1027,Thành phố Hồ Chí Minh
+372,10774,BHX_LAN_CDU - Kho Cần Đước (HUB),1028,Tỉnh Tây Ninh
+373,14008,BHX_HCM_BCH - Nguyễn Văn Linh (HUB),1027,Thành phố Hồ Chí Minh
+374,6474,BHX_BDU_DAN - Thửa 312B Tân Phước,1027,Thành phố Hồ Chí Minh
+375,9101,BHX_CTH_NKI - Đinh Tiên Hoàng,1032,Thành phố Cần Thơ
+376,4585,BHX_HCM_HMO - 62/20 Quang Trung,1027,Thành phố Hồ Chí Minh
+377,28084,BHX_QNG_NHA - Hành Thuận,1021,Tỉnh Quảng Ngãi
+378,10462,BHX_HCM_BCH - Kho XLCL Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+379,3093,BHX_HCM_TDU - 248 Nguyễn Văn Tăng,1027,Thành phố Hồ Chí Minh
+380,7028,BHX_BPH_PLO - Đường 3/2,1026,Tỉnh Đồng Nai
+381,14175,BHX_DNA_CLE - Văn Tiến Dũng,1020,Thành phố Đà Nẵng
+382,28217,BHX_QNG_TCA -  Trà Câu,1021,Tỉnh Quảng Ngãi
+383,4833,BHX_BDU_DAN - Thửa 4370 Khu Phố Thắng Lợi,1027,Thành phố Hồ Chí Minh
+384,4072,BHX_DON_BHO - 22/79 KP2 Hố Nai,1026,Tỉnh Đồng Nai
+385,4927,BHX_LAN_DHO - Thửa 315 Mỹ Hạnh Bắc,1028,Tỉnh Tây Ninh
+386,6993,BHX_DON_TPH - 2240 Phú Lâm,1026,Tỉnh Đồng Nai
+387,28548,BHX_HCM_NBE - 1307 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+388,6740,BHX_DON_LTH - Ấp 2 Bàu Cạn,1026,Tỉnh Đồng Nai
+389,6582,BHX_HCM_TDU - 227 Đình Phong Phú,1027,Thành phố Hồ Chí Minh
+390,9305,BHX_KGI_HTI - 2 Tháng 9,1031,Tỉnh An Giang
+391,3255,BHX_HCM_TDU - 39 Lê Văn Chí,1027,Thành phố Hồ Chí Minh
+392,28726,BHX_CTH_BTH - Nguyễn Việt Dũng,1032,Thành phố Cần Thơ
+393,4766,BHX_TVI_TVI - 70 Hùng Vương,1030,Tỉnh Vĩnh Long
+394,2208,BHX_HCM_Q12 - 171 Hà Đặc,1027,Thành phố Hồ Chí Minh
+395,9253,BHX_HCM_BTH - 801/89 Xô Viết Nghệ Tĩnh,1027,Thành phố Hồ Chí Minh
+396,15684,BHX_DNA_TBO - La Tháp,1020,Thành phố Đà Nẵng
+397,28826,BHX_LDO_NCO - Trạm Sang Xe Đắk Nông,1025,Tỉnh Lâm Đồng
+398,10485,BHX_CMA_CMA - 232 Lý Văn Lâm,1033,Tỉnh Cà Mau
+399,6417,BHX_VLO_TBI - Bình Ninh (Chợ Ba Phố),1030,Tỉnh Vĩnh Long
+400,4483,"BHX_HGI_VTH - Thửa 270, 291 và 292 Phường 1 Vị Thanh",1032,Thành phố Cần Thơ
+401,14279,BHX_BDI_QNH - Đống Đa,1022,Tỉnh Gia Lai
+402,30127,BHX_CTH_TLT - Trường Long A,1032,Thành phố Cần Thơ
+403,9153,BHX_STR_VCH - Thửa 276 Phường 01 ( Chợ Vĩnh Châu),1032,Thành phố Cần Thơ
+404,14583,BHX_THO_QXU - Quảng Lưu,1015,Tỉnh Thanh Hóa
+405,2272,BHX_HCM_TBI - 633 Phạm Văn Bạch,1027,Thành phố Hồ Chí Minh
+406,6393,BHX_BDU_TDM - Thửa 332 Hiệp Thành,1027,Thành phố Hồ Chí Minh
+407,28711,BHX_TNI_HKH - Hoà Khánh Đông,1028,Tỉnh Tây Ninh
+408,6796,BHX_TNI_BCA - Lợi Thuận (Chợ Bàu Gõ),1028,Tỉnh Tây Ninh
+409,6378,BHX_DLA_KPA - Chợ Km38 (Ea Phê),1024,Tỉnh Đắk Lắk
+410,14343,BHX_BDI_PMY - Bình Dương,1022,Tỉnh Gia Lai
+411,5239,BHX_TGI_CGA - 81 Chợ Gạo,1029,Tỉnh Đồng Tháp
+412,3370,BHX_HCM_BCH - F1/68 Hưng Long,1027,Thành phố Hồ Chí Minh
+413,5314,BHX_DTH_TNO - Thửa 2282 An Long,1029,Tỉnh Đồng Tháp
+414,4500,BHX_TNI_TBA - Thửa 376 An Tịnh (Chợ Suối Sâu),1028,Tỉnh Tây Ninh
+415,5897,BHX_KGI_GRI - DT993 Giồng Riềng,1031,Tỉnh An Giang
+416,7664,BHX_STR_STR - 2 Văn Ngọc Chính,1032,Thành phố Cần Thơ
+417,14385,BHX_DNA_TKH - 707 Trần Cao Vân,1020,Thành phố Đà Nẵng
+418,4623,BHX_LAN_TTH - Thửa 697 Tân Thạnh,1028,Tỉnh Tây Ninh
+419,1699,BHX_HCM_BTA - 19/97B Đường Lô Tư,1027,Thành phố Hồ Chí Minh
+420,9481,BHX_BDU_BCA - Chánh Phú Hòa,1027,Thành phố Hồ Chí Minh
+421,4504,BHX_BDU_DAN - 77-79 Bình Đường,1027,Thành phố Hồ Chí Minh
+422,28200,BHX_NBI_KSO - Quy Hậu,1014,Tỉnh Ninh Bình
+423,14949,BHX_GLA_CPU - 293 Hùng Vương,1022,Tỉnh Gia Lai
+424,15634,BHX_HTI_HTI - 154 Hà Huy Tâp,1017,Tỉnh Hà Tĩnh
+425,6970,BHX_HCM_NBE - 42 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+426,30098,BHX_LDO_TTH - Tân Thuận,1025,Tỉnh Lâm Đồng
+427,6306,BHX_HCM_GVA - 111 Nguyễn Văn Nghi OFF,1027,Thành phố Hồ Chí Minh
+428,6584,BHX_KHH_CRA - Hùng Vương (Chợ Số 9),1023,Tỉnh Khánh Hòa
+429,5219,BHX_BDU_DAN - Thửa 1850 Bình Thung 2,1027,Thành phố Hồ Chí Minh
+430,14807,BHX_LDO_BLO - 1197 Trần Phú,1025,Tỉnh Lâm Đồng
+431,5458,BHX_HCM_BTA - 90 Bùi Dương Lịch,1027,Thành phố Hồ Chí Minh
+432,14604,BHX_BDU_BCA - Mỹ Phước ( Thới Hoà),1027,Thành phố Hồ Chí Minh
+433,30233,BHX_VLO_LCH - Hưng Đạo Vương,1030,Tỉnh Vĩnh Long
+434,9121,BHX_BDU_DTI - Long Hòa,1027,Thành phố Hồ Chí Minh
+435,28087,BHX_HTI_HHT - Nam Bình,1017,Tỉnh Hà Tĩnh
+436,28282,BHX_DTH_HLO - Hoà Long OFF,1029,Tỉnh Đồng Tháp
+437,6286,BHX_BPH_BDA - Thôn 6 Minh Hưng,1026,Tỉnh Đồng Nai
+438,4430,BHX_TGI_GCD - Thửa 431 và 433 Tân Tây,1029,Tỉnh Đồng Tháp
+439,10067,BHX_BDU_DAN - Tân Đông Hiệp,1027,Thành phố Hồ Chí Minh
+440,28641,BHX_QTR_DSO - Đồng Sơn,1018,Tỉnh Quảng Trị
+441,8730,BHX_HCM_BCH - E4/1 Tân Túc,1027,Thành phố Hồ Chí Minh
+442,15621,BHX_GLA_PLK - 144 Quyết Tiến,1022,Tỉnh Gia Lai
+443,10037,BHX_LAN_THU - Hưng Điền B,1028,Tỉnh Tây Ninh
+444,5292,BHX_BTH_LGI - Khu Phố 2 (Chợ Tân An),1025,Tỉnh Lâm Đồng
+445,14836,BHX_HTI_HTI - 63 Nguyễn Chí Thanh,1017,Tỉnh Hà Tĩnh
+446,5812,BHX_BTH_BBI - Thửa 64 Lương Tây,1025,Tỉnh Lâm Đồng
+447,3669,BHX_HCM_BTA - 43A Bình Thành,1027,Thành phố Hồ Chí Minh
+448,1418,BHX_HCM_BTA - 29 Ao Đôi,1027,Thành phố Hồ Chí Minh
+449,30045,BHX_HCM_BHU - E11/305 Ấp 5,1027,Thành phố Hồ Chí Minh
+450,6743,BHX_HCM_TBI - 718 Âu Cơ,1027,Thành phố Hồ Chí Minh
+451,29910,BHX_AGI_DMY - Định Thành (Chợ Kênh F),1031,Tỉnh An Giang
+452,5980,BHX_HCM_TDU - 12/102 Man Thiện,1027,Thành phố Hồ Chí Minh
+453,6022,BHX_HCM_CGI - 375/2 Đào Cử,1027,Thành phố Hồ Chí Minh
+454,6075,BHX_HGI_VTH - Lê Hồng Phong,1032,Thành phố Cần Thơ
+455,13659,BHX_HCM_PNH - 24 Đoàn Thị Điểm,1027,Thành phố Hồ Chí Minh
+456,4643,BHX_DTH_TBI - Thửa 68 Bình Trung (Chợ Bình Thành),1029,Tỉnh Đồng Tháp
+457,5029,BHX_BDU_PGI - Thửa 211 Phước Hòa,1027,Thành phố Hồ Chí Minh
+458,5336,BHX_BDU_BBA - Thửa 22 Trừ Văn Thố,1027,Thành phố Hồ Chí Minh
+459,28194,BHX_HTI_TXU - Thạch Xuân ( Chợ Đồn),1017,Tỉnh Hà Tĩnh
+460,28797,BHX_NBI_VTH -  Cát Đằng,1014,Tỉnh Ninh Bình
+461,8595,BHX_BDU_APH - Kho Thuận An (HUB),1027,Thành phố Hồ Chí Minh
+462,8847,BHX_AGI_TSO - Vĩnh Trạch,1031,Tỉnh An Giang
+463,1610,BHX_HCM_BTA - 456 Lê Văn Quới,1027,Thành phố Hồ Chí Minh
+464,14971,BHX_QNA_HAN - Thanh Hà,1020,Thành phố Đà Nẵng
+465,9452,BHX_DTH_HNG - An Thạnh,1029,Tỉnh Đồng Tháp
+466,14666,BHX_HCM_TDU - 192 Man Thiện,1027,Thành phố Hồ Chí Minh
+467,13846,BHX_DON_LKH - Hàng Gòn,1026,Tỉnh Đồng Nai
+468,4968,BHX_DTH_SDE - Thửa 665 An Hòa (Chợ Nàng Hai),1029,Tỉnh Đồng Tháp
+469,8588,BHX_HCM_HMO - Thửa 383 Tân Hiệp,1027,Thành phố Hồ Chí Minh
+470,28847,BHX_TNI_NHL - Tân Lập,1028,Tỉnh Tây Ninh
+471,10449,BHX_BDU_TAN - Kho XLCL Thuận An,1027,Thành phố Hồ Chí Minh
+472,14815,BHX_HCM_TDU - 40 Dân Chủ,1027,Thành phố Hồ Chí Minh
+473,28924,BHX_THO_KTA - Kim Tân,1015,Tỉnh Thanh Hóa
+474,4345,BHX_HCM_BTA - 135B -135C Bình Long,1027,Thành phố Hồ Chí Minh
+475,3399,BHX_HCM_Q06 - 43A Tân Hòa Đông,1027,Thành phố Hồ Chí Minh
+476,14519,BHX_THO_SSO - Bắc Sơn,1015,Tỉnh Thanh Hóa
+477,2192,BHX_HCM_BTA - 6 Đường Số 40,1027,Thành phố Hồ Chí Minh
+478,14349,BHX_QNG_QNG - Tịnh Khê,1021,Tỉnh Quảng Ngãi
+479,28614,BHX_CMA_TVT - Trần Hợi (ẤP 10A),1033,Tỉnh Cà Mau
+480,6781,BHX_CMA_UMI - Khóm 4 U Minh,1033,Tỉnh Cà Mau
+481,6153,BHX_DTH_LVO - Khánh An (Chợ Mương Điều),1029,Tỉnh Đồng Tháp
+482,14136,BHX_HCM_TDU - 59 đường số 1,1027,Thành phố Hồ Chí Minh
+483,15849,BHX_THO_TPH - Thọ Phú,1015,Tỉnh Thanh Hóa
+484,9078,BHX_DLA_MDR - Thửa số 01 Nguyễn Tất Thành,1024,Tỉnh Đắk Lắk
+485,15646,BHX_HTI_LHA - Ích Hậu,1017,Tỉnh Hà Tĩnh
+486,6381,BHX_CTH_VTH - Phụng Quới A (Thạnh An),1032,Thành phố Cần Thơ
+487,14958,BHX_HTI_CXU - Cẩm Lộc,1017,Tỉnh Hà Tĩnh
+488,27950,BHX_QTR_CVI - Cửa Việt,1018,Tỉnh Quảng Trị
+489,28854,BHX_VLO_LNA - Lưu Nghiệp Anh,1030,Tỉnh Vĩnh Long
+490,6226,BHX_BDU_DAN - Thửa 2266 Bình Đường 1,1027,Thành phố Hồ Chí Minh
+491,5461,BHX_VLO_LHO - 214/18 Phú Long,1030,Tỉnh Vĩnh Long
+492,28731,BHX_DON_XDI - Bảo Hòa,1026,Tỉnh Đồng Nai
+493,5157,BHX_KGI_CTH - Thửa 88 Tà Niên,1031,Tỉnh An Giang
+494,14395,BHX_KHH_NTR - Phước Hải,1023,Tỉnh Khánh Hòa
+495,6519,BHX_BPH_PLO - ĐT741 Thác Mơ,1026,Tỉnh Đồng Nai
+496,4741,BHX_AGI_CMO - Thửa 113 Long Điền B (Chợ Bà Vệ),1031,Tỉnh An Giang
+497,14661,BHX_NAN_VIN - Phan Bội Châu (CC Arita),1016,Tỉnh Nghệ An
+498,30324,BHX_HCM_BLO - TĐN Bình Lợi 2 ( HUB ),1027,Thành phố Hồ Chí Minh
+499,5163,BHX_DTH_LVU - Thửa 1199 Tân Thành,1029,Tỉnh Đồng Tháp
+500,6042,BHX_CTH_NKI - 116A/3 Trần Vĩnh Kiết,1032,Thành phố Cần Thơ
+501,28108,BHX_HCM_XTS - 14/6 Nguyễn Văn Bứa,1027,Thành phố Hồ Chí Minh
+502,14351,BHX_PYE_SCA - Xuân Yên,1024,Tỉnh Đắk Lắk
+503,7790,BHX_HCM_BCH - C9/3A Phạm Hùng,1027,Thành phố Hồ Chí Minh
+504,5065,BHX_HCM_GVA - 75 Đường Số 3,1027,Thành phố Hồ Chí Minh
+505,28620,BHX_NBI_NDI - 276 Trần Thánh Tông,1014,Tỉnh Ninh Bình
+506,5346,BHX_NTH_PRA - 384 Thống Nhất (Mỹ Hương),1023,Tỉnh Khánh Hòa
+507,4480,BHX_DON_TBO - 595 An Chu,1026,Tỉnh Đồng Nai
+508,28204,BHX_DNA_HXU - Bùi Trang Chước,1020,Thành phố Đà Nẵng
+509,28193,BHX_HCM_APH - An Phú,1027,Thành phố Hồ Chí Minh
+510,4780,BHX_LAN_TTH - Thửa 2526 Mỹ An (Chợ Bắc Đông),1028,Tỉnh Tây Ninh
+511,4721,BHX_BTR_MCN - Thửa 743 An Lộc Thị,1030,Tỉnh Vĩnh Long
+512,6410,BHX_DON_BHO - 124B Tân Hạnh,1026,Tỉnh Đồng Nai
+513,8534,BHX_DNG_KNO - Thửa 202 Quốc Lộ 28,1025,Tỉnh Lâm Đồng
+514,4511,BHX_DON_LTH - 620H Lê Duẩn (Chợ Mới Long Thành),1026,Tỉnh Đồng Nai
+515,4713,BHX_BDU_BCA - Thửa 1781 Thới Hòa,1027,Thành phố Hồ Chí Minh
+516,29783,BHX_AGI_NCH - Ngọc Thuận,1031,Tỉnh An Giang
+517,116,BHX_HCM_TPH - 195 Dương Văn Dương,1027,Thành phố Hồ Chí Minh
+518,30156,BHX_VLO_HMY - Kim Hoà,1030,Tỉnh Vĩnh Long
+519,14774,BHX_QNA_NSO - TT Trung Phước,1020,Thành phố Đà Nẵng
+520,28188,BHX_DTH_ATT - Bình Phục Nhứt,1029,Tỉnh Đồng Tháp
+521,29950,BHX_HCM_CHU - 783 Tạ Quang Bửu,1027,Thành phố Hồ Chí Minh
+522,13820,BHX_TGI_MTH - Kho Lạnh Trần Đại Nghĩa (HUB),1029,Tỉnh Đồng Tháp
+523,15568,BHX_BDI_HAN - Tăng Bạt Hổ,1022,Tỉnh Gia Lai
+524,6407,BHX_DLA_CMG - Thôn 5 Ea Kiết,1024,Tỉnh Đắk Lắk
+525,28277,BHX_AGI_GQU - Gò Quao,1031,Tỉnh An Giang
+526,1561,BHX_HCM_BTA - 129 Đường số 4,1027,Thành phố Hồ Chí Minh
+527,3376,BHX_HCM_CCH - 427B Tân Thạnh Đông,1027,Thành phố Hồ Chí Minh
+528,14780,BHX_PYE_DHO - Hoà Vinh,1024,Tỉnh Đắk Lắk
+529,5308,BHX_AGI_LXU - 407/12 Hà Hoàng Hổ,1031,Tỉnh An Giang
+530,5082,BHX_DTH_TMU - Thửa 3227 Đốc Binh Kiều,1029,Tỉnh Đồng Tháp
+531,6897,BHX_TNI_BCA - Long Châu (Long Khánh),1028,Tỉnh Tây Ninh
+532,7214,BHX_BTH_HTN - Hàm Thuận Nam (HUB),1025,Tỉnh Lâm Đồng
+533,14325,BHX_LDO_BLO - 461A Trần Phú,1025,Tỉnh Lâm Đồng
+534,4651,BHX_BTR_BTR - Thửa 233 Sơn Đông,1030,Tỉnh Vĩnh Long
+535,10018,BHX_TNI_BCA - Tiên Thuận,1028,Tỉnh Tây Ninh
+536,15789,BHX_CTH_THU - Thạnh Lộc,1032,Thành phố Cần Thơ
+537,8555,BHX_DNG_TDU - Thửa 386 Đắk Búk So,1025,Tỉnh Lâm Đồng
+538,13246,BHX_HCM_TPH - 359 Tân Hương (HUB),1027,Thành phố Hồ Chí Minh
+539,28945,BHX_HCM_DHO - Nguyễn Ngọc Lộc,1027,Thành phố Hồ Chí Minh
+540,4364,BHX_BPH_DXO - Thửa 55-71-212 Võ Văn Tần,1026,Tỉnh Đồng Nai
+541,14129,BHX_QNA_DLO - Phú Trung,1020,Thành phố Đà Nẵng
+542,9125,BHX_HCM_Q08 - Cảng Sông Phú Định,1027,Thành phố Hồ Chí Minh
+543,161,BHX_HCM_BTA - 20 Trương Phước Phan,1027,Thành phố Hồ Chí Minh
+544,7173,BHX_LAN_DHO - Đức Hòa Đông,1028,Tỉnh Tây Ninh
+545,7746,BHX_HCM_BCH - Thửa 655 Vĩnh Lộc A,1027,Thành phố Hồ Chí Minh
+546,5333,BHX_BTH_BBI - Thửa 24 Chợ Lầu,1025,Tỉnh Lâm Đồng
+547,14459,BHX_TVI_TVI -  105 Nguyễn Thị Minh Khai,1030,Tỉnh Vĩnh Long
+548,5028,BHX_BTR_MCN - Thửa 2384 Bình Tây (Chợ Tân Trung),1030,Tỉnh Vĩnh Long
+549,30046,BHX_HPH_NLB - Thanh Tùng ( Chợ Cầu Vồng ),1012,Thành phố Hải Phòng
+550,5180,BHX_BDU_DAN - Thửa 3233 Đông Chiêu,1027,Thành phố Hồ Chí Minh
+551,4493,BHX_BTR_CTH - Thửa 109 QL57C Tiên Tây Vàm,1030,Tỉnh Vĩnh Long
+552,27987,BHX_DON_LHA - Chợ Long Tân,1026,Tỉnh Đồng Nai
+553,9668,BHX_CTH_NKI - Cái Khế,1032,Thành phố Cần Thơ
+554,14432,BHX_DON_BHO - Tam Phước,1026,Tỉnh Đồng Nai
+555,29792,BHX_QTR_DHO - 3 Phạm Văn Đồng,1018,Tỉnh Quảng Trị
+556,6332,BHX_CMA_TBI - Ấp 3 Tân Lộc,1033,Tỉnh Cà Mau
+557,15566,BHX_LAN_BLU - Nguyễn Văn Tuôi,1028,Tỉnh Tây Ninh
+558,2911,BHX_HCM_TDU - 65/10 Đường Số 5 (Linh Xuân),1027,Thành phố Hồ Chí Minh
+559,7154,BHX_LAN_DHO - Ô 03 Hậu Nghĩa,1028,Tỉnh Tây Ninh
+560,6557,BHX_DON_BHO - 438 Trần Văn Xã,1026,Tỉnh Đồng Nai
+561,3829,BHX_BDU_DAN - 9/3 Lý Thường Kiệt,1027,Thành phố Hồ Chí Minh
+562,4746,BHX_HCM_Q12 - 23C Đường TL13,1027,Thành phố Hồ Chí Minh
+563,29929,BHX_HCM_VLA - 385A Ba Tháng Hai,1027,Thành phố Hồ Chí Minh
+564,5727,BHX_BDU_TAN - Thửa 47 Đồng An 3,1027,Thành phố Hồ Chí Minh
+565,2425,BHX_HCM_HMO - 33/4F Trung Mỹ (Tân Xuân),1027,Thành phố Hồ Chí Minh
+566,14509,BHX_DNA_HCH - 346 Hoàng Diệu,1020,Thành phố Đà Nẵng
+567,14535,BHX_HGI_CTA - TT Một Ngàn,1032,Thành phố Cần Thơ
+568,14823,BHX_STR_TDE - Trung Bình (Chợ Bãi Giá),1032,Thành phố Cần Thơ
+569,5015,BHX_BTR_GTR - Thửa 251 Đường Đô Thị (Chợ Giồng Trôm),1030,Tỉnh Vĩnh Long
+570,8254,BHX_HCM_TDU - 34 Phước Long A,1027,Thành phố Hồ Chí Minh
+571,4634,BHX_BDU_BCA - Thửa 1313 Phú Nghị,1027,Thành phố Hồ Chí Minh
+572,4505,BHX_TGI_CGA - Thửa 91 Khu phố 2 Chợ Gạo,1029,Tỉnh Đồng Tháp
+573,13668,BHX_HCM_Q10 - 222 Nguyễn Chí Thanh,1027,Thành phố Hồ Chí Minh
+574,15748,BHX_QTR_LTH - Lệ Thuỷ,1018,Tỉnh Quảng Trị
+575,3231,BHX_HCM_NBE - 101/5 Ấp 1 (Hiệp Phước),1027,Thành phố Hồ Chí Minh
+576,6245,BHX_HCM_Q07 - 45 Võ Thị Nhờ,1027,Thành phố Hồ Chí Minh
+577,15801,BHX_HTI_TSE - Lê Duẫn,1017,Tỉnh Hà Tĩnh
+578,29944,BHX_HCM_HTH - 107 Nguyễn Văn Nghi,1027,Thành phố Hồ Chí Minh
+579,4090,BHX_DON_BHO - Kho DC Long Bình (Đổi -Trả NCC),1026,Tỉnh Đồng Nai
+580,13593,BHX_HCM_Q08 - 721 Bình Đông,1027,Thành phố Hồ Chí Minh
+581,14127,BHX_QNA_TBI - Hà Lam,1020,Thành phố Đà Nẵng
+582,15825,BHX_TNI_BLU - An Thạnh,1028,Tỉnh Tây Ninh
+583,9965,BHX_LAN_DHO - An Ninh Đông,1028,Tỉnh Tây Ninh
+584,15052,BHX_TNI_GDA - Gò Dầu,1028,Tỉnh Tây Ninh
+585,6438,BHX_KGI_HDA - Mỹ Hưng (Mỹ Lâm),1031,Tỉnh An Giang
+586,7027,BHX_BTH_PTH - 28 Lê Văn Phấn (Phú Thủy),1025,Tỉnh Lâm Đồng
+587,6422,BHX_HCM_CCH - 441 Tỉnh Lộ 7,1027,Thành phố Hồ Chí Minh
+588,7985,BHX_HCM_GVA - 618 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+589,4584,BHX_BDU_DTI - Thửa 13 14 40 Dầu Tiếng,1027,Thành phố Hồ Chí Minh
+590,5725,BHX_HCM_Q08 - 264 Bùi Minh Trực,1027,Thành phố Hồ Chí Minh
+591,9306,BHX_AGI_CTH - Bình Hòa,1031,Tỉnh An Giang
+592,5095,BHX_HCM_TDU - 1D Đường 18 (Phước Bình),1027,Thành phố Hồ Chí Minh
+593,8761,BHX_CMA_CMA - Khóm 06 Phường 1,1033,Tỉnh Cà Mau
+594,6441,BHX_KGI_KLU - Hòn Chông (Bình An),1031,Tỉnh An Giang
+595,6247,BHX_KGI_RGI - 293 Nguyễn Trung Trực,1031,Tỉnh An Giang
+596,5744,BHX_BRV_PMY - 158 Tôn Thất Tùng,1027,Thành phố Hồ Chí Minh
+597,6289,BHX_TNI_TCH - Tân Hà,1028,Tỉnh Tây Ninh
+598,2113,BHX_HCM_BCH - A9/13 Đường 1A (Vĩnh Lộc B),1027,Thành phố Hồ Chí Minh
+599,4936,BHX_HGI_NBA - 83 Lê Lợi (Chợ Ngã Bảy),1032,Thành phố Cần Thơ
+600,15740,BHX_VLO_TPH - Thạnh Phước,1030,Tỉnh Vĩnh Long
+601,5397,BHX_AGI_TSO - Thửa 88 Óc Eo,1031,Tỉnh An Giang
+602,28273,BHX_NBI_CLE - Cổ Lễ,1014,Tỉnh Ninh Bình
+603,6764,BHX_DLA_BMT - 54 Y Nuê,1024,Tỉnh Đắk Lắk
+604,5073,BHX_HCM_BTH - 173 Bùi Đình Túy,1027,Thành phố Hồ Chí Minh
+605,4646,BHX_TGI_CTH - Thửa 1905 Tân Thạnh,1029,Tỉnh Đồng Tháp
+606,28260,BHX_NBI_GTH - Giao Thủy,1014,Tỉnh Ninh Bình
+607,28607,BHX_GLA_TQU - Tam Quan,1022,Tỉnh Gia Lai
+608,15791,BHX_AGI_LXU - Lý Thái Tổ,1031,Tỉnh An Giang
+609,28905,BHX_HYE_VQU - Kho Thịt Cá AJ Hưng Yên (HUB),1013,Tỉnh Hưng Yên
+610,5449,BHX_LAN_TTH - Thửa 78 Thủ Thừa,1028,Tỉnh Tây Ninh
+611,4635,BHX_CTH_BTH - 45/3 Bùi Hữu Nghĩa (Chợ Bình Thủy),1032,Thành phố Cần Thơ
+612,6579,BHX_BDU_TUY - 618A Hội Nghĩa,1027,Thành phố Hồ Chí Minh
+613,4664,BHX_LAN_DHO - Thửa 543 Mỹ Hạnh Nam,1028,Tỉnh Tây Ninh
+614,28004,BHX_QNG_KBR - Kon Braih,1021,Tỉnh Quảng Ngãi
+615,6756,BHX_DLA_BMT - Thửa 424A Cư Êbur,1024,Tỉnh Đắk Lắk
+616,14992,BHX_DTH_LVO - Mỹ An Hưng B,1029,Tỉnh Đồng Tháp
+617,4269,"BHX_BPH_LNI - Thửa 01, 02, 03 đường 7/4 Ninh Phú",1026,Tỉnh Đồng Nai
+618,14987,BHX_HUE_HTH - Thủy Phương,1019,Thành phố Huế
+619,7203,BHX_KHH_DKH - Kho Diên Khánh (HUB),1023,Tỉnh Khánh Hòa
+620,28631,BHX_HCM_THO - Mỹ Phước 3,1027,Thành phố Hồ Chí Minh
+621,29984,BHX_HCM_GVA - 226/28 Nguyễn Văn Lượng,1027,Thành phố Hồ Chí Minh
+622,4678,BHX_DON_TBO - 54/4 Hố Nai 3,1026,Tỉnh Đồng Nai
+623,15678,BHX_DNA_TKH - Hà Huy Tập,1020,Thành phố Đà Nẵng
+624,7601,BHX_HCM_PNH - 1B Thích Quảng Đức,1027,Thành phố Hồ Chí Minh
+625,27993,BHX_NAN_QLU - Cầu Giát 2,1016,Tỉnh Nghệ An
+626,2109,BHX_HCM_Q12 - 110 Đường TCH36,1027,Thành phố Hồ Chí Minh
+627,14575,BHX_QTR_DKR - Krông Klang,1018,Tỉnh Quảng Trị
+628,7301,BHX_HCM_Q12 - 28 Đường TMT13,1027,Thành phố Hồ Chí Minh
+629,6510,BHX_DLA_CKU - Thôn 22 Ea Ning,1024,Tỉnh Đắk Lắk
+630,15793,BHX_QTR_MHO - Minh Hóa,1018,Tỉnh Quảng Trị
+631,7861,BHX_BTH_HTN - 181 Tân Lập (Chợ 37),1025,Tỉnh Lâm Đồng
+632,6499,BHX_KGI_HDA - Tri Tôn (Hòn Đất),1031,Tỉnh An Giang
+633,3094,BHX_HCM_NBE - 2805 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+634,4405,BHX_HCM_TBI - 112 Hoàng Hoa Thám,1027,Thành phố Hồ Chí Minh
+635,5329,BHX_HGI_VTH - Ấp 1 Vị Thanh (Chợ 14 Ngàn),1032,Thành phố Cần Thơ
+636,28775,BHX_NBI_PVA -  Phù Vân,1014,Tỉnh Ninh Bình
+637,14821,BHX_CTH_OMO - Phước Thới,1032,Thành phố Cần Thơ
+638,28168,BHX_VLO_QTH - Thanh Bình,1030,Tỉnh Vĩnh Long
+639,1531,BHX_HCM_BTA - 175 Đường số 8,1027,Thành phố Hồ Chí Minh
+640,6243,BHX_BPH_BDA - Tân Hưng (Đức Phong),1026,Tỉnh Đồng Nai
+641,15668,BHX_HCM_HTH - 21-23 Trần Thị Nghỉ,1027,Thành phố Hồ Chí Minh
+642,28081,BHX_NAN_HNA - Chợ Vực,1016,Tỉnh Nghệ An
+643,9465,BHX_TNI_TBA - Lộc Hưng,1028,Tỉnh Tây Ninh
+644,28796,BHX_VLO_AHO - An Hội,1030,Tỉnh Vĩnh Long
+645,6603,BHX_BDU_TUY - Thửa 43 Khánh Bình,1027,Thành phố Hồ Chí Minh
+646,27968,BHX_CMA_KAN - Khánh An,1033,Tỉnh Cà Mau
+647,7047,BHX_BRV_PMY - Trảng Cát (Hắc Dịch),1027,Thành phố Hồ Chí Minh
+648,5128,BHX_BTR_TPH - Thửa 28 Giao Thạnh,1030,Tỉnh Vĩnh Long
+649,30113,BHX_TNI_LCA - Long Cang,1028,Tỉnh Tây Ninh
+650,28118,BHX_DTH_MTH - Mỹ Thiện,1029,Tỉnh Đồng Tháp
+651,6599,BHX_LAN_CDU - Chợ Long Cang,1028,Tỉnh Tây Ninh
+652,6291,BHX_LDO_BLO - 53 Hà Giang,1025,Tỉnh Lâm Đồng
+653,9376,BHX_AGI_TTO - Lương An Trà (Giồng Cát),1031,Tỉnh An Giang
+654,27997,BHX_QTR_DHO - Lê Thành Đồng,1018,Tỉnh Quảng Trị
+655,6726,BHX_DLA_BMT - 323 Phan Bội Châu,1024,Tỉnh Đắk Lắk
+656,5193,BHX_TNI_GDA - Thửa 401 Cẩm Thắng,1028,Tỉnh Tây Ninh
+657,15686,BHX_HCM_TSN - 17 Hậu Giang,1027,Thành phố Hồ Chí Minh
+658,15036,BHX_TNI_TNI - 106 Huỳnh Tấn Phát,1028,Tỉnh Tây Ninh
+659,9745,BHX_BTH_TPH - Vĩnh Hảo,1025,Tỉnh Lâm Đồng
+660,29777,BHX_LDO_LHA - Phú Sơn,1025,Tỉnh Lâm Đồng
+661,4675,BHX_HCM_Q07 - 412 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+662,2130,BHX_HCM_BTA - 690A Hương Lộ 2,1027,Thành phố Hồ Chí Minh
+663,28750,BHX_HTI_CDU - Cẫm Mỹ (Chợ Kẻ Gỗ),1017,Tỉnh Hà Tĩnh
+664,15824,BHX_DLA_TNH - Nguyễn Thị Định,1024,Tỉnh Đắk Lắk
+665,2736,BHX_HCM_Q12 - 30A Đường HT27,1027,Thành phố Hồ Chí Minh
+666,28170,BHX_NAN_QAN - Quỳnh Bảng,1016,Tỉnh Nghệ An
+667,28896,BHX_NBI_PLY - Lê Duẩn,1014,Tỉnh Ninh Bình
+668,9259,BHX_CTH_PDI - Giai Xuân,1032,Thành phố Cần Thơ
+669,13775,BHX_AGI_LXU - Mỹ Bình,1031,Tỉnh An Giang
+670,4889,BHX_LAN_VHU - Thửa 333 Vĩnh Hưng,1028,Tỉnh Tây Ninh
+671,4459,BHX_BTR_TPH - Thửa 152  Đường Thủy Sản,1030,Tỉnh Vĩnh Long
+672,6574,BHX_KGI_RGI - 180 Lâm Quang Ky,1031,Tỉnh An Giang
+673,7285,BHX_DNG_DSO - Nam Bình,1025,Tỉnh Lâm Đồng
+674,2452,BHX_HCM_Q12 - 16A/B4 Hà Thị Khiêm,1027,Thành phố Hồ Chí Minh
+675,6279,BHX_VLO_BTA - Tổ 12 Tân Lược,1030,Tỉnh Vĩnh Long
+676,8343,BHX_CTH_TNO - Thửa 10 Long Thạnh A,1032,Thành phố Cần Thơ
+677,4384,BHX_CTH_NKI - Thửa 108 Nguyễn Văn Linh,1032,Thành phố Cần Thơ
+678,14339,BHX_DNA_CLE - Hoà Phát,1020,Thành phố Đà Nẵng
+679,9294,BHX_HCM_TDU - Hiệp Phú,1027,Thành phố Hồ Chí Minh
+680,6030,BHX_KHH_NTR - 34 Trường Sa,1023,Tỉnh Khánh Hòa
+681,29960,BHX_HCM_TKH - Lý Tự Trọng,1027,Thành phố Hồ Chí Minh
+682,6630,BHX_DON_CMY - Cam Tiên (Nhân Nghĩa),1026,Tỉnh Đồng Nai
+683,15738,BHX_GLA_TNH - 573 Lê Đại Hành,1022,Tỉnh Gia Lai
+684,30016,BHX_DON_LTH - Bình Sơn 2,1026,Tỉnh Đồng Nai
+685,2338,BHX_HCM_Q12 - 111 Tân Chánh Hiệp,1027,Thành phố Hồ Chí Minh
+686,28250,BHX_DON_LNI - Lộc Ninh,1026,Tỉnh Đồng Nai
+687,4478,BHX_HCM_NBE - 44 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+688,14734,BHX_QBI_QNI - Gia Ninh,1018,Tỉnh Quảng Trị
+689,3371,BHX_HCM_TBI - 166A Trần Văn Quang,1027,Thành phố Hồ Chí Minh
+690,30138,BHX_DON_THI - 555  Phạm Văn Thuận,1026,Tỉnh Đồng Nai
+691,5425,BHX_DON_LTH - 99 An Phước,1026,Tỉnh Đồng Nai
+692,4742,BHX_AGI_CPH - 416 Quốc Lộ 91 (Cổng KĐT Sao Mai),1031,Tỉnh An Giang
+693,27991,BHX_GLA_PCA - Chợ Chiều Phù Cát,1022,Tỉnh Gia Lai
+694,6065,BHX_HCM_CCH - 264A Nguyễn Thị Lắng,1027,Thành phố Hồ Chí Minh
+695,28590,BHX_TNI_BLU - Kho SC Trái Cây (NECS),1028,Tỉnh Tây Ninh
+696,14622,BHX_BDI_ANH - 200 Phạm Văn Đồng,1022,Tỉnh Gia Lai
+697,28560,BHX_CTH_HPH - Hưng Phú,1032,Thành phố Cần Thơ
+698,14112,BHX_HCM_BTH - 41 Nguyễn Văn Lạc,1027,Thành phố Hồ Chí Minh
+699,14152,BHX_QNA_TKY - 05 Nguyễn Văn Trỗi,1020,Thành phố Đà Nẵng
+700,4781,BHX_BPH_CTH - Thửa 33 QL13 Minh Hưng,1026,Tỉnh Đồng Nai
+701,2854,BHX_HCM_GVA - 730 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+702,15822,BHX_HCM_TVL - An Hạ,1027,Thành phố Hồ Chí Minh
+703,10380,BHX_LAN_BLU - Long Hiệp,1028,Tỉnh Tây Ninh
+704,4749,BHX_BDU_TUY - Thửa 78 Tân Phước Khánh,1027,Thành phố Hồ Chí Minh
+705,9954,BHX_LAN_CDU - Long Định,1028,Tỉnh Tây Ninh
+706,28165,BHX_KHH_NHO - Đường 2/4,1023,Tỉnh Khánh Hòa
+707,28066,BHX_LDO_HDU - 139 Trần Hưng Đạo,1025,Tỉnh Lâm Đồng
+708,29932,BHX_HCM_BHU - Đường Số 10,1027,Thành phố Hồ Chí Minh
+709,6834,BHX_HCM_Q08 - 821A Tạ Quang Bửu,1027,Thành phố Hồ Chí Minh
+710,4476,BHX_HCM_Q12 - 243B Đường TA32,1027,Thành phố Hồ Chí Minh
+711,14442,BHX_BDI_QNH - Kho Thịt Cá ITL Đà Nẵng (HUB),1022,Tỉnh Gia Lai
+712,6260,BHX_BTR_MCN - Thửa 201 Minh Đức (Chợ Tân Hương),1030,Tỉnh Vĩnh Long
+713,3391,BHX_HCM_TDU - 323 Lê Văn Thịnh,1027,Thành phố Hồ Chí Minh
+714,14839,BHX_KGI_CTH - Giục Tượng,1031,Tỉnh An Giang
+715,14925,BHX_HUE_PVA -  Phú Hải,1019,Thành phố Huế
+716,2596,BHX_HCM_BCH - B14/12/2-B14A/13A/1L Cây Cám,1027,Thành phố Hồ Chí Minh
+717,6265,BHX_DLA_BMT - 151 Y Moan Ênuôl,1024,Tỉnh Đắk Lắk
+718,14198,BHX_BDI_PCA - khu An Thọ,1022,Tỉnh Gia Lai
+719,5093,BHX_CTH_BTH - 774 Bùi Hữu Nghĩa,1032,Thành phố Cần Thơ
+720,15623,BHX_BDU_BCA - Mỹ Phước,1027,Thành phố Hồ Chí Minh
+721,15715,BHX_LDO_SLU - chợ Bình Tân,1025,Tỉnh Lâm Đồng
+722,14619,BHX_STR_VCH - Nguyễn Huệ,1032,Thành phố Cần Thơ
+723,5022,BHX_TVI_CTH - Thửa 313 Châu Thành,1030,Tỉnh Vĩnh Long
+724,15720,BHX_LDO_BTH - Đặng Văn Lãnh,1025,Tỉnh Lâm Đồng
+725,15095,BHX_LAN_CGI -  Kho SC AJ TOTAL,1028,Tỉnh Tây Ninh
+726,4730,BHX_BDU_TDM - Số 945 Phú Thọ (Chợ Phú Văn),1027,Thành phố Hồ Chí Minh
+727,6391,BHX_LAN_CGI - Thửa 675 Đông Thạnh,1028,Tỉnh Tây Ninh
+728,14662,BHX_THO_NCO - Thái Hoà,1015,Tỉnh Thanh Hóa
+729,6217,BHX_BLI_GRA - 276 Khóm 2 (Láng Tròn),1033,Tỉnh Cà Mau
+730,15661,BHX_NAN_ĐĐO - Thị Trấn Thanh Chương,1016,Tỉnh Nghệ An
+731,28175,BHX_CTH_TAD - Lê Hồng Phong,1032,Thành phố Cần Thơ
+732,27949,BHX_DON_XLO - Xuân Lữ,1026,Tỉnh Đồng Nai
+733,5490,BHX_CTH_NKI - 172B/20 An Khánh,1032,Thành phố Cần Thơ
+734,5203,BHX_VLO_VLI - Tổ 10 Trung Hiếu,1030,Tỉnh Vĩnh Long
+735,4595,BHX_DON_BHO - 261 Nguyễn Văn Tiên,1026,Tỉnh Đồng Nai
+736,6219,BHX_AGI_LXU - Thửa 59 Đông Xuyên,1031,Tỉnh An Giang
+737,3320,BHX_HCM_CCH - 02 Giồng Cát,1027,Thành phố Hồ Chí Minh
+738,28637,BHX_HCM_NBE - 404 Nguyễn Bình,1027,Thành phố Hồ Chí Minh
+739,28251,BHX_CTH_TAD - Thới An Đông,1032,Thành phố Cần Thơ
+740,6188,BHX_HCM_TDU - 623H Đỗ Xuân Hợp,1027,Thành phố Hồ Chí Minh
+741,6746,BHX_BDU_TUY - Thửa 1 Uyên Hưng,1027,Thành phố Hồ Chí Minh
+742,3199,BHX_HCM_TBI - 55 Cống Lỡ,1027,Thành phố Hồ Chí Minh
+743,7226,BHX_DLA_KNA - Ea Tóh,1024,Tỉnh Đắk Lắk
+744,29987,BHX_HCM_CKI - 49 Phan Đình Phùng,1027,Thành phố Hồ Chí Minh
+745,29966,BHX_HPH_APH - An Phong,1012,Thành phố Hải Phòng
+746,13683,BHX_LAN_DHO - Kho Lạnh Trần Đại Nghĩa (HUB),1028,Tỉnh Tây Ninh
+747,3871,BHX_BDU_TAN - Thửa 1610 KDC Thuận Giao,1027,Thành phố Hồ Chí Minh
+748,5485,BHX_HCM_TPH - 216 Kênh Tân Hóa,1027,Thành phố Hồ Chí Minh
+749,14353,BHX_QNG_QNG - Nguyễn Thuỵ,1021,Tỉnh Quảng Ngãi
+750,5083,BHX_DTH_TMU - Thửa 420 Trường Xuân,1029,Tỉnh Đồng Tháp
+751,3696,BHX_HCM_GVA - 44 Phạm Văn Chiêu,1027,Thành phố Hồ Chí Minh
+752,5091,BHX_LAN_CDU - Thửa 1511 Long Trạch,1028,Tỉnh Tây Ninh
+753,15655,BHX_HCM_BTD - 165 Lê Văn Quới,1027,Thành phố Hồ Chí Minh
+754,6316,BHX_LAN_CGI - Thuận Thành (Ngã 4 Chợ Trạm),1028,Tỉnh Tây Ninh
+755,9200,BHX_TNI_GDA - Phước Đông,1028,Tỉnh Tây Ninh
+756,28164,BHX_DLA_TNH - Phan Huy Chú,1024,Tỉnh Đắk Lắk
+757,4701,BHX_HCM_TDU - 1311 Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+758,28191,BHX_LDO_HKI - Hàm Cường,1025,Tỉnh Lâm Đồng
+759,13035,BHX_HCM_TDU - Sunview Town,1027,Thành phố Hồ Chí Minh
+760,5896,BHX_NTH_PRA - 64 Trần Nhân Tông,1023,Tỉnh Khánh Hòa
+761,28173,BHX_HCM_BHI - 210 Nguyễn Thái Bình,1027,Thành phố Hồ Chí Minh
+762,14570,BHX_HCM_TDU - 99A Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+763,28205,BHX_NBI_HLU - 146 Xuân Thành,1014,Tỉnh Ninh Bình
+764,14969,BHX_THO_TSO - Dân Lực,1015,Tỉnh Thanh Hóa
+765,4512,"BHX_BDU_PGI - Thửa 112, 142, 229 Độc Lập",1027,Thành phố Hồ Chí Minh
+766,2882,BHX_HCM_Q12 - 22I-22I/2 Hiệp Thành 13,1027,Thành phố Hồ Chí Minh
+767,5076,BHX_HCM_HMO - 85/2 Xuân Thới Đông,1027,Thành phố Hồ Chí Minh
+768,6119,BHX_AGI_TTO - Thửa 368 Tri Tôn,1031,Tỉnh An Giang
+769,14197,BHX_ĐNA_HVA - Kho SC ITL Đà Nẵng,1020,Thành phố Đà Nẵng
+770,28161,BHX_THO_HTH - Hạc Thành,1015,Tỉnh Thanh Hóa
+771,15662,BHX_TNI_HNG - Ấp Chánh,1028,Tỉnh Tây Ninh
+772,15519,BHX_CTH_BTH - Nguyễn Truyền Thanh,1032,Thành phố Cần Thơ
+773,5221,BHX_AGI_CTH - Thửa 387 An Châu,1031,Tỉnh An Giang
+774,9237,BHX_DTH_CLA - Thửa 138 Nguyễn Thái Học,1029,Tỉnh Đồng Tháp
+775,7842,BHX_BTR_BTR - 349D Phường 8,1030,Tỉnh Vĩnh Long
+776,5098,BHX_BPH_DXO - Thửa 23 Trường Chinh,1026,Tỉnh Đồng Nai
+777,1694,BHX_HCM_BTA - 11 Miếu Gò Xoài,1027,Thành phố Hồ Chí Minh
+778,28571,BHX_NAN_VHI - Chợ Đình ( Tân Sơn ),1016,Tỉnh Nghệ An
+779,2798,BHX_HCM_Q12 - 845 Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+780,2265,BHX_HCM_HMO - 22/5 Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+781,14153,BHX_QNA_DLO -  Ái Nghĩa,1020,Thành phố Đà Nẵng
+782,4247,BHX_TGI_CTH - Thửa 99 Dưỡng Điềm,1029,Tỉnh Đồng Tháp
+783,15713,BHX_HCM_APH - KDC Vietsing,1027,Thành phố Hồ Chí Minh
+784,9746,BHX_AGI_CMO - Nhơn Mỹ,1031,Tỉnh An Giang
+785,15558,BHX_LAN_TTH - Hậu Thạnh Đông,1028,Tỉnh Tây Ninh
+786,28117,BHX_NAN_CLO - Nghi Hương,1016,Tỉnh Nghệ An
+787,29766,BHX_NAN_VKI - Nghi Văn,1016,Tỉnh Nghệ An
+788,15785,BHX_HCM_TNH - 1425 Nguyễn Cửu Phú,1027,Thành phố Hồ Chí Minh
+789,14703,BHX_TTH_THO - 228 Điện Biên Phủ,1019,Thành phố Huế
+790,9271,BHX_HCM_TDU - Thạnh Mỹ Lợi,1027,Thành phố Hồ Chí Minh
+791,15716,BHX_HTI_DTH - Đức Thọ,1017,Tỉnh Hà Tĩnh
+792,29846,BHX_NBI_YDO - Yên Đồng,1014,Tỉnh Ninh Bình
+793,5179,BHX_HCM_CCH - 415 Quốc Lộ 22 (Phước Hiệp),1027,Thành phố Hồ Chí Minh
+794,14447,BHX_DNA_NHS - 45-47 Châu Thị Vĩnh Tế,1020,Thành phố Đà Nẵng
+795,13624,BHX_KHH_DKH - Kho Lạnh Trần Đại Nghĩa (HUB),1023,Tỉnh Khánh Hòa
+796,4272,BHX_DON_VCU - 1971E ĐT768 Thạnh Phú,1026,Tỉnh Đồng Nai
+797,8754,BHX_KHH_NTR - 01 Mai Xuân Thưởng,1023,Tỉnh Khánh Hòa
+798,2271,BHX_HCM_HMO - 170 Trịnh Thị Miếng,1027,Thành phố Hồ Chí Minh
+799,6211,BHX_CTH_CRA - Thửa 1 Yên Trung,1032,Thành phố Cần Thơ
+800,3852,BHX_HCM_BCH - 04 Phạm Hùng,1027,Thành phố Hồ Chí Minh
+801,1521,BHX_HCM_BTA - 131 Chiến Lược,1027,Thành phố Hồ Chí Minh
+802,14762,BHX_HCM_TDU - 224 Tô Ngọc Vân,1027,Thành phố Hồ Chí Minh
+803,3667,BHX_BDU_DAN - 42/27 Nguyễn Tri Phương,1027,Thành phố Hồ Chí Minh
+804,7139,BHX_CMA_CMA - Nguyễn Thái Học,1033,Tỉnh Cà Mau
+805,4883,BHX_HCM_Q12 - 42E Hiệp Thành 22,1027,Thành phố Hồ Chí Minh
+806,28014,BHX_QNG_KTU - 690 Phan Đình Phùng,1021,Tỉnh Quảng Ngãi
+807,9190,BHX_HCM_BTA - 66 Đường số 1,1027,Thành phố Hồ Chí Minh
+808,3616,BHX_BDU_TDM - 258 Lê Hồng Phong,1027,Thành phố Hồ Chí Minh
+809,9952,BHX_BDU_BBA - Trừ Văn Thố,1027,Thành phố Hồ Chí Minh
+810,28264,BHX_AGI_HAN - Hoà Bình,1031,Tỉnh An Giang
+811,15766,BHX_HCM_TTA - 222A Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+812,14676,BHX_NAN_VIN - Kho DC Vinh (Đổi -Trả NCC),1016,Tỉnh Nghệ An
+813,28615,BHX_CMA_BBA - Nguyễn Huế,1033,Tỉnh Cà Mau
+814,5191,BHX_DTH_SDE - Thửa 32 Tân Quy Đông,1029,Tỉnh Đồng Tháp
+815,3447,BHX_HCM_TBI - 373 Lý Thường Kiệt,1027,Thành phố Hồ Chí Minh
+816,6632,BHX_BRV_VTA - 110C Đô Lương,1027,Thành phố Hồ Chí Minh
+817,14557,BHX_CMA_PTA - Phú Tân,1033,Tỉnh Cà Mau
+818,14975,BHX_LDO_DLA - 39 La Sơn Phu Tử,1025,Tỉnh Lâm Đồng
+819,28245,BHX_NBI_VBA - Thị trấn Gôi,1014,Tỉnh Ninh Bình
+820,30028,BHX_VLO_KHT - Phú Long,1030,Tỉnh Vĩnh Long
+821,14781,BHX_HGI_VTH - Vĩnh Thuận Tây,1032,Thành phố Cần Thơ
+822,5275,BHX_KGI_HDA - 994 Quốc Lộ 80,1031,Tỉnh An Giang
+823,29754,BHX_HCM_BBA - Bàu Bàng (chợ Đêm),1027,Thành phố Hồ Chí Minh
+824,6554,BHX_DON_BHO - K4/278 Bửu Hòa,1026,Tỉnh Đồng Nai
+825,13656,BHX_HCM_Q05 - 236A Nguyễn Trãi,1027,Thành phố Hồ Chí Minh
+826,8727,BHX_HCM_NBE - 1554 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+827,28635,BHX_CTH_OMO - Thới Bình B,1032,Thành phố Cần Thơ
+828,6842,BHX_BTR_MCN - Thửa 38 An Thới,1030,Tỉnh Vĩnh Long
+829,14624,BHX_CTH_NKI - Nguyễn Văn Cừ Nối Dài,1032,Thành phố Cần Thơ
+830,5687,BHX_BPH_HQU - Khu Phố 2 (Tân Khai),1026,Tỉnh Đồng Nai
+831,5204,BHX_BDU_TUY - 36 Khánh Long,1027,Thành phố Hồ Chí Minh
+832,28132,BHX_QNG_DBL - 145 Phạm Văn Đồng,1021,Tỉnh Quảng Ngãi
+833,6536,BHX_KHH_NHO - Tân Khánh 1 (Ninh Sim),1023,Tỉnh Khánh Hòa
+834,14793,BHX_BDI_TSO - Tây Giang ( Chợ Đồng Phó),1022,Tỉnh Gia Lai
+835,5808,BHX_BTH_HTN - Thửa 1064 Thuận Nam (Chợ 30),1025,Tỉnh Lâm Đồng
+836,5852,BHX_BDU_TAN - Kho DC Thuận An (Đổi -Trả NCC),1027,Thành phố Hồ Chí Minh
+837,29824,BHX_HCM_APD - Vườn Lài,1027,Thành phố Hồ Chí Minh
+838,15115,BHX_THO_TGI - Hải Bình,1015,Tỉnh Thanh Hóa
+839,1642,BHX_HCM_BTA - 132 Liên khu 10-11,1027,Thành phố Hồ Chí Minh
+840,14310,BHX_DNA_STR - Nguyễn Thị Định,1020,Thành phố Đà Nẵng
+841,6457,BHX_LAN_DHO - Nhơn Hòa 1 (Đức Hòa Thượng),1028,Tỉnh Tây Ninh
+842,16861,BHX_HCM_TDU - 206 Tam Bình,1027,Thành phố Hồ Chí Minh
+843,28599,BHX_NAN_TMA - Quỳnh Dị ( Chợ Yên Trung ),1016,Tỉnh Nghệ An
+844,14748,BHX_HCM_TDU - 68A-68B đường Đình Phong Phú,1027,Thành phố Hồ Chí Minh
+845,5743,BHX_LAN_BLU - Thửa 289 Thanh Phú,1028,Tỉnh Tây Ninh
+846,4867,BHX_DTH_TBI - Thửa 179 Tân Đông B (Chợ Thanh Bình),1029,Tỉnh Đồng Tháp
+847,8047,BHX_LAN_TTH - 59 QL1A Nhị Thành,1028,Tỉnh Tây Ninh
+848,27946,BHX_AGI_DTH - Sáu Đình,1031,Tỉnh An Giang
+849,9371,BHX_LDO_DRO - Phi Liêng,1025,Tỉnh Lâm Đồng
+850,15829,BHX_TNI_DHO -  KCN Tân Đức 2,1028,Tỉnh Tây Ninh
+851,28287,BHX_HYE_QPH - Chợ Giá 2,1013,Tỉnh Hưng Yên
+852,6670,BHX_LAN_TTH - Bà Mía (Mỹ Lạc),1028,Tỉnh Tây Ninh
+853,6155,BHX_HCM_BTH - 109 Bình Quới,1027,Thành phố Hồ Chí Minh
+854,14704,BHX_HTI_THA - Thạch Châu,1017,Tỉnh Hà Tĩnh
+855,9134,BHX_BTH_TPH - Chí Công,1025,Tỉnh Lâm Đồng
+856,15439,BHX_THO_BSO - Ngọc Trạo,1015,Tỉnh Thanh Hóa
+857,6369,BHX_AGI_LXU - Thửa 2 Mỹ Hòa,1031,Tỉnh An Giang
+858,6556,BHX_DON_TBO - 344 Xây Dựng (Giang Điền),1026,Tỉnh Đồng Nai
+859,15116,BHX_QBI_THO - Tiến Hoá,1018,Tỉnh Quảng Trị
+860,6628,BHX_HCM_PNH - 70 Nguyễn Trọng Tuyển,1027,Thành phố Hồ Chí Minh
+861,30096,BHX_DNA_LCH - 128 Đồng Kè,1020,Thành phố Đà Nẵng
+862,15037,BHX_TNI_HTH - 160 Nguyễn Văn Linh,1028,Tỉnh Tây Ninh
+863,5169,BHX_BRV_DDO - Hải Tân (Phước Hải),1027,Thành phố Hồ Chí Minh
+864,4506,BHX_TGI_CLA - Thửa 149 158 Phú An (Ngã 3 Cái Bè,1029,Tỉnh Đồng Tháp
+865,30039,BHX_DTH_TLA - Thường Thới Hậu A,1029,Tỉnh Đồng Tháp
+866,14315,BHX_BRV_LDI - HUB Bà Rịa,1027,Thành phố Hồ Chí Minh
+867,6551,BHX_DLA_BMT - 61 Buôn Kao (Ea Kao),1024,Tỉnh Đắk Lắk
+868,15675,BHX_HCM_PLA - 23 – 25 Đường số 10,1027,Thành phố Hồ Chí Minh
+869,14534,BHX_THO_THO - 109-111 Hải Thượng Lãn Ông,1015,Tỉnh Thanh Hóa
+870,28150,BHX_THO_YDI - Yên Định,1015,Tỉnh Thanh Hóa
+871,6421,BHX_HCM_Q12 - 1036 Nguyễn Văn Quá,1027,Thành phố Hồ Chí Minh
+872,5105,BHX_BDU_TAN - 523A Nguyễn Trãi,1027,Thành phố Hồ Chí Minh
+873,14524,BHX_DNA_LCH - Trần Đình Tri,1020,Thành phố Đà Nẵng
+874,5068,BHX_DTH_SDE - Thửa 92 Sa Đéc,1029,Tỉnh Đồng Tháp
+875,14478,BHX_DON_XLO - Tỉnh Lộ 765,1026,Tỉnh Đồng Nai
+876,12995,BHX_HCM_Q12 - Chung Cư Prosper Plaza,1027,Thành phố Hồ Chí Minh
+877,4535,BHX_VLO_TBI - 38 Phan Văn Đáng (Chợ Tam Bình),1030,Tỉnh Vĩnh Long
+878,30019,BHX_HCM_THO - 785 - 785A Cách Mạng Tháng Tám,1027,Thành phố Hồ Chí Minh
+879,14467,BHX_DLA_BHO - 70 Nguyễn Chí Thanh,1024,Tỉnh Đắk Lắk
+880,9458,BHX_HCM_TDU - An Phú,1027,Thành phố Hồ Chí Minh
+881,4775,BHX_BTR_BTR - Thửa 30 Trương Định,1030,Tỉnh Vĩnh Long
+882,12998,BHX_LAN_CGI - Kho Lạnh AJ trả NCC,1028,Tỉnh Tây Ninh
+883,2214,BHX_HCM_TPH - 63 Nguyễn Đỗ Cung,1027,Thành phố Hồ Chí Minh
+884,8341,BHX_HCM_Q03 - 49 Huỳnh Tịnh Của,1027,Thành phố Hồ Chí Minh
+885,6466,BHX_BTR_GTR - Thạnh Phú Đông (Chợ Cái Mít),1030,Tỉnh Vĩnh Long
+886,5016,BHX_BTR_MCB - Thửa 39 Phước Khánh (Chợ Ba Vát),1030,Tỉnh Vĩnh Long
+887,29785,BHX_HYE_TLY - Nguyễn Đức Cảnh (Cầu Bo),1013,Tỉnh Hưng Yên
+888,4222,BHX_LAN_BLU - 35 đường 832 Nhựt Chánh,1028,Tỉnh Tây Ninh
+889,6605,BHX_DLA_BHO - 79 Trần Hưng Đạo,1024,Tỉnh Đắk Lắk
+890,15431,BHX_VLO_LHO - Kho Lạnh Thốt Nốt (HUB),1030,Tỉnh Vĩnh Long
+891,14549,BHX_NAN_DCH - Diễn Yên,1016,Tỉnh Nghệ An
+892,6990,BHX_DLA_LAK - 228 Nguyễn Tất Thành,1024,Tỉnh Đắk Lắk
+893,13787,BHX_LAN_BLU - Lương Bình,1028,Tỉnh Tây Ninh
+894,4408,BHX_BDU_TUY - Thửa 315 316 317 Hội Nghĩa,1027,Thành phố Hồ Chí Minh
+895,6862,BHX_DLA_KPA - Quốc Lộ 26 (Krông Búk),1024,Tỉnh Đắk Lắk
+896,29778,BHX_CTH_MHU - Mỹ Tú,1032,Thành phố Cần Thơ
+897,7107,BHX_HGI_CTA - Kho DC Châu Thành A (Đổi -Trả NCC),1032,Thành phố Cần Thơ
+898,2115,BHX_HCM_BCH - A8/17 Đường 1A,1027,Thành phố Hồ Chí Minh
+899,6549,BHX_DLA_KPA - 45 Thôn Tân Bình (Ea Knuec),1024,Tỉnh Đắk Lắk
+900,14537,BHX_TVI_TVI - Phường 04,1030,Tỉnh Vĩnh Long
+901,14528,BHX_DNA_CLE -  Ông Ích Đường,1020,Thành phố Đà Nẵng
+902,4626,BHX_CTH_NKI - Nguyễn Văn Cừ nối dài (KDC Hồng Phát),1032,Thành phố Cần Thơ
+903,10454,BHX_BTR_CTH - Kho XLCL Bến Tre,1030,Tỉnh Vĩnh Long
+904,3365,BHX_HCM_Q12 - 458 Đường TTH02,1027,Thành phố Hồ Chí Minh
+905,28302,BHX_HYE_TLA - Trần Lãm (Chợ Vũ Tây),1013,Tỉnh Hưng Yên
+906,30005,BHX_HCM_CLA - 132 Đường số 35-CL,1027,Thành phố Hồ Chí Minh
+907,4764,BHX_VLO_TBI - Tổ 11 Phú Ninh,1030,Tỉnh Vĩnh Long
+908,14522,BHX_QNG_QNG - Tịnh Châu,1021,Tỉnh Quảng Ngãi
+909,4890,BHX_LAN_MHO - Thửa 317 Mộc Hóa,1028,Tỉnh Tây Ninh
+910,10104,BHX_TVI_TCU - Đại An,1030,Tỉnh Vĩnh Long
+911,7932,BHX_BRV_CDU - Thửa 70 Kim Long,1027,Thành phố Hồ Chí Minh
+912,4410,"BHX_BDU_TUY - Thửa 57, 58, 59, 60 Uyên Hưng",1027,Thành phố Hồ Chí Minh
+913,15165,BHX_ĐNA_HVA - Kho Nhập Khẩu ITL Đà Nẵng (Đổi - Trả NCC),1020,Thành phố Đà Nẵng
+914,15764,BHX_HTI_DLO - Đồng Lộc,1017,Tỉnh Hà Tĩnh
+915,1769,BHX_HCM_BTA - 869 Hương Lộ 2,1027,Thành phố Hồ Chí Minh
+916,2251,BHX_HCM_BTA - 143 Liên khu 5-6,1027,Thành phố Hồ Chí Minh
+917,4546,BHX_HCM_Q12 - 368 Tô Ký,1027,Thành phố Hồ Chí Minh
+918,3384,BHX_HCM - Kho ảo xử lý chênh lệch,1027,Thành phố Hồ Chí Minh
+919,14473,BHX_QBI_BTR - 42 Trần Phú,1018,Tỉnh Quảng Trị
+920,5274,BHX_BDU_DAN - Thửa 14 Đông Chiêu,1027,Thành phố Hồ Chí Minh
+921,28092,BHX_HCM_TAH - Nguyễn Văn Khạ,1027,Thành phố Hồ Chí Minh
+922,2379,BHX_HCM_GVA - 781 Phạm Văn Bạch,1027,Thành phố Hồ Chí Minh
+923,4688,BHX_AGI_LXU - Thửa 131 Mỹ Thới (Chợ Cái Sao),1031,Tỉnh An Giang
+924,7749,BHX_LAN_DHO - Ấp 1 Đức Hòa Đông,1028,Tỉnh Tây Ninh
+925,28162,BHX_NAN_QLU - Cầu Giát,1016,Tỉnh Nghệ An
+926,6669,BHX_LAN_TTR - Tân Bình (Tân Trụ),1028,Tỉnh Tây Ninh
+927,15765,BHX_HUE_PDI - 06 Phò Trạch,1019,Thành phố Huế
+928,3892,BHX_HCM_GVA - 1470 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+929,13665,BHX_HCM_Q08 - 118 Hưng Phú,1027,Thành phố Hồ Chí Minh
+930,3890,BHX_HCM_TDU - 57 Nam Cao,1027,Thành phố Hồ Chí Minh
+931,6776,BHX_DON_NTR - Ấp Trầu (Phước Thiền),1026,Tỉnh Đồng Nai
+932,3650,BHX_BDU_TAN - D6/27B Thuận Giao 16,1027,Thành phố Hồ Chí Minh
+933,7167,BHX_HCM_BCH - E9/11 Thới Hòa,1027,Thành phố Hồ Chí Minh
+934,15552,BHX_QBI_DSO - Chành trung chuyển rau củ quả Đồng Hới (HUB),1018,Tỉnh Quảng Trị
+935,4539,BHX_DON_BHO - 14/4C Tam Hòa,1026,Tỉnh Đồng Nai
+936,28806,BHX_AGI_TSO - Bình Thành,1031,Tỉnh An Giang
+937,3263,BHX_HCM_Q12 - 181 TTN17 (Tân Thới Nhất),1027,Thành phố Hồ Chí Minh
+938,4550,BHX_HCM_TDU - 130A Đường Số 11,1027,Thành phố Hồ Chí Minh
+939,15815,BHX_HCM_PHD - 21/1 Huỳnh Minh Mương,1027,Thành phố Hồ Chí Minh
+940,4629,BHX_VLO_VLO - 54/2 Khóm 3 (Chợ Phường 3),1030,Tỉnh Vĩnh Long
+941,4375,BHX_DON_BHO - 12/13 Trảng Dài (Chợ Quang Thắng),1026,Tỉnh Đồng Nai
+942,6819,BHX_BTH_DLI - Thôn 5 Mê Pu,1025,Tỉnh Lâm Đồng
+943,27972,BHX_HCM_BDI - 971 Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+944,15010,BHX_DLA_EHL - Ea Wy,1024,Tỉnh Đắk Lắk
+945,14496,BHX_QBI_BDO - Hùng Vương,1018,Tỉnh Quảng Trị
+946,8875,BHX_HCM_TPH - 165 Lê Trọng Tấn,1027,Thành phố Hồ Chí Minh
+947,4876,BHX_AGI_PTA - Thửa 208 Tỉnh Lộ 954 Phú Hiệp,1031,Tỉnh An Giang
+948,13801,BHX_BRV_PMY - Kho Lạnh Trần Đại Nghĩa (HUB),1027,Thành phố Hồ Chí Minh
+949,7862,BHX_LDO_DTR - 35/6 Liên Hiệp,1025,Tỉnh Lâm Đồng
+950,14317,BHX_KHH_DKH - Phú Lộc Đông,1023,Tỉnh Khánh Hòa
+951,4368,BHX_BTR_BTR - Thửa 51 và 89 ĐT884,1030,Tỉnh Vĩnh Long
+952,8190,BHX_HCM_HMO - Thửa 98 Đông Thạnh,1027,Thành phố Hồ Chí Minh
+953,28289,BHX_NAN_NDA - Nam Nghĩa,1016,Tỉnh Nghệ An
+954,15709,BHX_TNI_NTH - Ninh Đức (chợ Cư Trú),1028,Tỉnh Tây Ninh
+955,14691,BHX_THO_THO - Ba Chè,1015,Tỉnh Thanh Hóa
+956,27958,BHX_LDO_PTH - Lê Hồng Phong,1025,Tỉnh Lâm Đồng
+957,27995,BHX_DTH_CGA - Song Bình,1029,Tỉnh Đồng Tháp
+958,14725,BHX_CMA_CMA - 411 Nguyễn Trãi,1033,Tỉnh Cà Mau
+959,14113,BHX_QNA_DXU - Hùng Vương,1020,Thành phố Đà Nẵng
+960,29762,BHX_HCM_TSH - 163 Bạch Đằng,1027,Thành phố Hồ Chí Minh
+961,14700,BHX_DTH_CTH - Phú Hựu,1029,Tỉnh Đồng Tháp
+962,15631,BHX_THO_HHO - Đông Phú,1015,Tỉnh Thanh Hóa
+963,13119,BHX_HCM_TDU - 80 Ngô Chí Quốc (HUB),1027,Thành phố Hồ Chí Minh
+964,9278,BHX_TGI_GCD - Bình Ân,1029,Tỉnh Đồng Tháp
+965,27954,BHX_KHH_TBA - Ấn Đạt,1023,Tỉnh Khánh Hòa
+966,14345,BHX_GLA_KBA - 09 Phan Bội Châu,1022,Tỉnh Gia Lai
+967,4757,BHX_DON_VCU - 1053 TL768 Thạnh Phú (Changsin 2),1026,Tỉnh Đồng Nai
+968,13802,BHX_TNI_TNI - Kho Lạnh Trần Đại Nghĩa (HUB),1028,Tỉnh Tây Ninh
+969,14963,BHX_NAN_VIN - 2 Nguyễn Duy Trinh,1016,Tỉnh Nghệ An
+970,28861,BHX_DON_APH - Tam An,1026,Tỉnh Đồng Nai
+971,6967,BHX_DON_TNH - 134 Xã Lộ 25,1026,Tỉnh Đồng Nai
+972,9251,BHX_BDU_TAN - An Thạnh,1027,Thành phố Hồ Chí Minh
+973,10464,BHX_DON_BHO - Kho XLCL Long Bình,1026,Tỉnh Đồng Nai
+974,5818,BHX_STR_NNA - Thửa 396 Ngã Năm,1032,Thành phố Cần Thơ
+975,14498,BHX_QBI_DHO - 74 Phan Đình Phùng,1018,Tỉnh Quảng Trị
+976,6430,BHX_CMA_TVT - Khóm 7 Sông Đốc,1033,Tỉnh Cà Mau
+977,15555,BHX_HTI_KAN - Hưng Trí,1017,Tỉnh Hà Tĩnh
+978,4691,BHX_BRV_BRI - 115 Trần Hưng Đạo (Chợ Phước Nguyên),1027,Thành phố Hồ Chí Minh
+979,28933,BHX_QNG_KTU - Trần Phú,1021,Tỉnh Quảng Ngãi
+980,14830,BHX_HCM_TPH - 187 Tân Sơn Nhì,1027,Thành phố Hồ Chí Minh
+981,7300,BHX_HCM_Q12 - 31 Vườn Lài,1027,Thành phố Hồ Chí Minh
+982,10397,BHX_HCM_Q05 - 82 Tản Đà,1027,Thành phố Hồ Chí Minh
+983,5473,BHX_BTR_CLA - Thửa 66 Long Thới,1030,Tỉnh Vĩnh Long
+984,14493,BHX_DNA_NHS - 76 Bùi Tá Hán,1020,Thành phố Đà Nẵng
+985,6564,BHX_TNI_DMC - Ninh Hưng 1 (Chà Là),1028,Tỉnh Tây Ninh
+986,2012,BHX_HCM_BTA - 97 Khiếu Năng Tĩnh,1027,Thành phố Hồ Chí Minh
+987,5294,BHX_BTH_HTB - Thửa 25 Ma Lâm,1025,Tỉnh Lâm Đồng
+988,3069,BHX_HCM_BCH - D16/40B/1 Ấp 4 (Hưng Long),1027,Thành phố Hồ Chí Minh
+989,5214,BHX_DON_BHO - 22 Đặng Văn Trơn (Chợ Hiệp Hòa),1026,Tỉnh Đồng Nai
+990,4683,BHX_AGI_CDO - Thửa 326 Thủ Khoa Nghĩa,1031,Tỉnh An Giang
+991,8040,BHX_LDO_DLI - 84 Thôn 3 (Tân Lâm),1025,Tỉnh Lâm Đồng
+992,27938,BHX_NAN_THO - Tam Hợp,1016,Tỉnh Nghệ An
+993,3652,BHX_HCM_Q04 - 25 Nguyễn Khoái,1027,Thành phố Hồ Chí Minh
+994,4917,BHX_BPH_DPH - Lô 31 ĐT741 Tân An,1026,Tỉnh Đồng Nai
+995,15541,BHX_VLO_VLO - Võ Văn Kiệt,1030,Tỉnh Vĩnh Long
+996,3970,BHX_HCM_TDU - 71 Hiệp Bình,1027,Thành phố Hồ Chí Minh
+997,6968,BHX_HCM_BTH - 88 Phan Văn Hân,1027,Thành phố Hồ Chí Minh
+998,5942,BHX_LAN_TAN - Thửa 431 Khánh Hậu,1028,Tỉnh Tây Ninh
+999,3547,BHX_HCM_BCH - C7/2-C7/3 Phạm Hùng,1027,Thành phố Hồ Chí Minh
+1000,5334,BHX_VLO_MTH - Ấp Chợ (Mỹ An),1030,Tỉnh Vĩnh Long
+1001,28129,BHX_NBI_GVI - Chợ Me,1014,Tỉnh Ninh Bình
+1002,3827,BHX_HCM_TDU - 153 Tân Lập 2,1027,Thành phố Hồ Chí Minh
+1003,15660,BHX_HTI_KYA - Đồng Phú,1017,Tỉnh Hà Tĩnh
+1004,28567,BHX_LDO_DTE - Đạ Tẻh,1025,Tỉnh Lâm Đồng
+1005,29982,BHX_HCM_VLO - F12/6N Phạm Thị Nghĩ,1027,Thành phố Hồ Chí Minh
+1006,14581,BHX_TTH_THO - Thuận An,1019,Thành phố Huế
+1007,9247,BHX_NTH_NPH - Phước Dân,1023,Tỉnh Khánh Hòa
+1008,14695,BHX_HCM_Q11 - 129B Bình Thới,1027,Thành phố Hồ Chí Minh
+1009,14834,BHX_NTH_TNA - Phước Nam,1023,Tỉnh Khánh Hòa
+1010,5173,BHX_HCM - Kho Chênh Lệch Hàng Tươi Sống,1027,Thành phố Hồ Chí Minh
+1011,4843,BHX_TGI_GCD - Thửa 595 Kiểng Phước,1029,Tỉnh Đồng Tháp
+1012,28678,BHX_HCM_TNH - A10/1 Nguyễn Cửu Phú,1027,Thành phố Hồ Chí Minh
+1013,14355,BHX_BDI_QNH - 220 Âu Cơ,1022,Tỉnh Gia Lai
+1014,10357,BHX_HCM_Q07 - 63 Bùi Văn Ba,1027,Thành phố Hồ Chí Minh
+1015,4284,BHX_TNI_TNI - 9-11 Hẻm 42 Cách Mạng Tháng Tám,1028,Tỉnh Tây Ninh
+1016,15468,BHX_DNA_TKH - 8 Thái Thị Bôi,1020,Thành phố Đà Nẵng
+1017,6518,BHX_BPH_BDA - ĐT760 Bình Minh,1026,Tỉnh Đồng Nai
+1018,29848,BHX_DON_PAN - Long Thọ 3,1026,Tỉnh Đồng Nai
+1019,14297,BHX_QNA_DBA - Điện Dương,1020,Thành phố Đà Nẵng
+1020,28107,BHX_HCM_TTH - 322 Nguyễn Thị Kiểu,1027,Thành phố Hồ Chí Minh
+1021,8909,BHX_BPH_DXO - Tân Bình OFF,1026,Tỉnh Đồng Nai
+1022,8372,BHX_BPH_DPH - Kho Đồng Phú (HUB),1026,Tỉnh Đồng Nai
+1023,15176,BHX_CTH_CRA - Kho Lạnh Thốt Nốt (HUB),1032,Thành phố Cần Thơ
+1024,30037,BHX_HPH_TDO - Điện Biên Phủ,1012,Thành phố Hải Phòng
+1025,4044,BHX_HCM_BCH - Kho xử lý nhập mua khác tỉnh,1027,Thành phố Hồ Chí Minh
+1026,4339,BHX_TNI_GDA - Thửa 429 Phước Đức,1028,Tỉnh Tây Ninh
+1027,6225,BHX_BDU_TUY - Thửa 12 Uyên Hưng,1027,Thành phố Hồ Chí Minh
+1028,6824,BHX_DLA_KBO - 221 Nguyễn Tất Thành,1024,Tỉnh Đắk Lắk
+1029,6267,BHX_TVI_CLO - Đầu Giồng (Chợ Ba Si),1030,Tỉnh Vĩnh Long
+1030,4292,BHX_BPH_CTH - Thửa 50 175 và 51 Minh Hưng,1026,Tỉnh Đồng Nai
+1031,27963,BHX_HCM_BPH - 389 An Dương Vương,1027,Thành phố Hồ Chí Minh
+1032,28738,BHX_AGI_VKH - Vân Khánh,1031,Tỉnh An Giang
+1033,30164,BHX_VLO_THA - chợ Đường Chừa,1030,Tỉnh Vĩnh Long
+1034,4724,BHX_DON_LTH - 3210 QL51 Phước Thái,1026,Tỉnh Đồng Nai
+1035,14341,BHX_KGI_CTH - Kho Lạnh Thốt Nốt (HUB),1031,Tỉnh An Giang
+1036,28805,BHX_HCM_ANH - H4-H5 Dương Quảng Hàm,1027,Thành phố Hồ Chí Minh
+1037,4569,BHX_TGI_CLA - Thửa 29 Phường 5 Cai Lậy,1029,Tỉnh Đồng Tháp
+1038,7778,BHX_CTH_TNO - Kho Nhập Khẩu Thốt Nốt,1032,Thành phố Cần Thơ
+1039,28019,BHX_GLA_KGA - Kon Gang,1022,Tỉnh Gia Lai
+1040,4693,BHX_TNI_TCH - Thửa 89 Tân Đông,1028,Tỉnh Tây Ninh
+1041,6831,BHX_KHH_NTR - 51 Trần Phú OFF,1023,Tỉnh Khánh Hòa
+1042,9495,BHX_STR_LPH - Long Phú,1032,Thành phố Cần Thơ
+1043,14565,BHX_HCM_GVA - 38/3A Quang Trung,1027,Thành phố Hồ Chí Minh
+1044,14357,BHX_QNG_TNG - Nghĩa Kỳ,1021,Tỉnh Quảng Ngãi
+1045,15050,BHX_KGI_CTH - Thạnh Lộc,1031,Tỉnh An Giang
+1046,28028,BHX_HTI_BHL - Bắc Hồng Lĩnh,1017,Tỉnh Hà Tĩnh
+1047,4738,BHX_AGI_LXU - Thửa 110 Bình Khánh,1031,Tỉnh An Giang
+1048,3818,BHX_HCM_BTA - 390/65/55 Quốc Lộ 1A,1027,Thành phố Hồ Chí Minh
+1049,10377,BHX_HCM_HMO - 28/10B Ấp Trung Đông,1027,Thành phố Hồ Chí Minh
+1050,6439,BHX_KGI_HDA - Quốc Lộ 80 Đường Hòn,1031,Tỉnh An Giang
+1051,10668,BHX_HCM_BCH - Kho Nhập Khẩu Trần Đại Nghĩa (FRESH),1027,Thành phố Hồ Chí Minh
+1052,30056,BHX_HPH_CHU - Bắc Hưng,1012,Thành phố Hải Phòng
+1053,8863,BHX_HCM_BTH - 27C Võ Duy Ninh,1027,Thành phố Hồ Chí Minh
+1054,14837,BHX_HGI_LMY - Lương Nghĩa,1032,Thành phố Cần Thơ
+1055,14822,BHX_BRV_CDU - TT Ngãi Giao,1027,Thành phố Hồ Chí Minh
+1056,4467,BHX_LAN_BLU - Thửa 39 Thị Trấn Bến Lức,1028,Tỉnh Tây Ninh
+1057,2808,BHX_HCM_BCH - D13/43 Đường 18B,1027,Thành phố Hồ Chí Minh
+1058,5816,BHX_TNI_CTH - Thái Bình (Chợ Bình Phong),1028,Tỉnh Tây Ninh
+1059,4074,BHX_HCM_HMO - 6/5A Ấp 4 Đông Thạnh,1027,Thành phố Hồ Chí Minh
+1060,14312,BHX_QNA_NTH - 77 Nguyễn Văn Linh,1020,Thành phố Đà Nẵng
+1061,1630,BHX_HCM_BTA - 15 Đường 5C,1027,Thành phố Hồ Chí Minh
+1062,5726,BHX_HCM_Q07 - 1212 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+1063,6514,BHX_DON_XLO - 90 Tổ 22 (Xuân Hòa),1026,Tỉnh Đồng Nai
+1064,28773,BHX_HCM_VLA - 452 Ngô Gia Tự,1027,Thành phố Hồ Chí Minh
+1065,14817,BHX_TVI_CNG - Mỹ Long,1030,Tỉnh Vĩnh Long
+1066,15775,BHX_HCM_TTH - 98 Nguyễn An Ninh,1027,Thành phố Hồ Chí Minh
+1067,6833,BHX_LAN_DHO - Tràm Lạc (Mỹ Hạnh Bắc),1028,Tỉnh Tây Ninh
+1068,6235,BHX_DNG_DMI - Lê Duẩn,1025,Tỉnh Lâm Đồng
+1069,5387,BHX_TGI_CBE - Thửa 61 An Cư (Ngã 3 Chợ Giồng),1029,Tỉnh Đồng Tháp
+1070,6311,BHX_KGI_ABI - Quốc Lộ 63 (Thứ Ba),1031,Tỉnh An Giang
+1071,3647,BHX_HCM_Q07 - 49 Lý Phục Man,1027,Thành phố Hồ Chí Minh
+1072,9202,BHX_LDO_DLA - 63 Bùi Thị Xuân,1025,Tỉnh Lâm Đồng
+1073,6215,BHX_DLA_KPA - 81 Lê Duẩn,1024,Tỉnh Đắk Lắk
+1074,14463,BHX_HCM_TDU - S6.01 Vinhomes Grand Park,1027,Thành phố Hồ Chí Minh
+1075,1698,BHX_HCM_TPH - 79 Cầu Xéo,1027,Thành phố Hồ Chí Minh
+1076,4955,BHX_BDU_DAN - Thửa 1786 Bình Đường 3,1027,Thành phố Hồ Chí Minh
+1077,3237,BHX_HCM_BCH - 299A/12 An Phú Tây,1027,Thành phố Hồ Chí Minh
+1078,4748,BHX_BDU_BCA - 98 Mỹ Phước,1027,Thành phố Hồ Chí Minh
+1079,29930,BHX_VLO_ATR - Lò Co,1030,Tỉnh Vĩnh Long
+1080,4428,BHX_TGI_CTH - Thửa 756 Tân Thuận (Ngã Ba Giồng),1029,Tỉnh Đồng Tháp
+1081,6020,BHX_HCM_TDU - 1385/1 Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+1082,28125,BHX_NBI_KDO - Kim Đông,1014,Tỉnh Ninh Bình
+1083,28680,BHX_NBI_HAN - Hải Anh (chợ Đền),1014,Tỉnh Ninh Bình
+1084,15549,BHX_BPH_DXO - Tân Xuân,1026,Tỉnh Đồng Nai
+1085,1972,BHX_HCM_TPH - 216 Kênh 19 Tháng 5,1027,Thành phố Hồ Chí Minh
+1086,6580,BHX_BLI_GRA - 165 Quốc Lộ 1A Hộ Phòng,1033,Tỉnh Cà Mau
+1087,15776,BHX_LDO_HTB - Hàm Trí,1025,Tỉnh Lâm Đồng
+1088,7789,BHX_DLA_KNA - 74B Nguyễn Tất Thành,1024,Tỉnh Đắk Lắk
+1089,4003,BHX_BDU_TUY - Thửa 537 Liên Huyện,1027,Thành phố Hồ Chí Minh
+1090,6884,BHX_BDU_BCA - Thửa 1174 An Tây,1027,Thành phố Hồ Chí Minh
+1091,10293,BHX_DON_LKH - Xuân Lập,1026,Tỉnh Đồng Nai
+1092,4933,BHX_TNI_HTH - Thửa 566 Trường Thiện,1028,Tỉnh Tây Ninh
+1093,15585,BHX_DNA_CLE - Đường Lê Đình Kỵ,1020,Thành phố Đà Nẵng
+1094,6655,BHX_HCM_NBE - Kho DC Nhà Bè,1027,Thành phố Hồ Chí Minh
+1095,8539,BHX_BPH_BDA - Thửa 134 Quốc Lộ 14,1026,Tỉnh Đồng Nai
+1096,2143,BHX_HCM_BTA - 69 Đường Số 15,1027,Thành phố Hồ Chí Minh
+1097,14171,BHX_DNA_CLE - Hoà An,1020,Thành phố Đà Nẵng
+1098,9156,BHX_BLI_BLI - 05/1 Cao Văn Lầu,1033,Tỉnh Cà Mau
+1099,6183,BHX_HCM_Q05 - 62 Trần Bình Trọng,1027,Thành phố Hồ Chí Minh
+1100,5706,BHX_BLI_BLI - 46 Nguyễn Công Tộc,1033,Tỉnh Cà Mau
+1101,3271,BHX_HCM_NBE - 2/4 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+1102,15665,BHX_HCM_TTH - 6/4D Lê Văn Khương,1027,Thành phố Hồ Chí Minh
+1103,14412,BHX_QNG_TBO - Trà Xuân,1021,Tỉnh Quảng Ngãi
+1104,30032,BHX_LAN_CDU - Kho Đóng Gói Cần Đước (HUB),1028,Tỉnh Tây Ninh
+1105,7668,BHX_LDO_CTI - 90 Phước Cát,1025,Tỉnh Lâm Đồng
+1106,8911,BHX_CTH_NKI - Thửa 63 An Bình,1032,Thành phố Cần Thơ
+1107,13394,BHX_HCM_BTA - 4423 Nguyễn Cửu Phú (HUB),1027,Thành phố Hồ Chí Minh
+1108,4603,BHX_HCM_Q08 - 338 Bình Đông,1027,Thành phố Hồ Chí Minh
+1109,6204,BHX_LAN_DHO - Ấp 2 Hựu Thạnh,1028,Tỉnh Tây Ninh
+1110,28808,BHX_VLO_TTH - Trung Thành,1030,Tỉnh Vĩnh Long
+1111,14451,BHX_QTR_DHA - 81 Lê Lợi,1018,Tỉnh Quảng Trị
+1112,10450,BHX_KHH_DKH - Kho XLCL Diên Khánh,1023,Tỉnh Khánh Hòa
+1113,9279,BHX_HCM_BCH - 932 Quốc Lộ 50,1027,Thành phố Hồ Chí Minh
+1114,28927,BHX_HCM_TNA - Rạch Bắp 2,1027,Thành phố Hồ Chí Minh
+1115,2714,BHX_HCM_GVA - 178-178A Đường Số 8,1027,Thành phố Hồ Chí Minh
+1116,6475,BHX_HCM_Q08 - 639 Tạ Quang Bửu,1027,Thành phố Hồ Chí Minh
+1117,28899,BHX_HYE_DCH - Đông Lâm,1013,Tỉnh Hưng Yên
+1118,9059,BHX_CTH_TNO - Kho Sơ Chế Thịt Thốt Nốt,1032,Thành phố Cần Thơ
+1119,30183,BHX_HCM_THI - Đường ĐH 418,1027,Thành phố Hồ Chí Minh
+1120,3624,BHX_HCM_GVA - 278 Phạm Văn Chiêu,1027,Thành phố Hồ Chí Minh
+1121,14698,BHX_TTH_PXU - 232  Đinh Tiên Hoàng,1019,Thành phố Huế
+1122,4848,BHX_DTH_CLA - Thửa 52 Mỹ Phú,1029,Tỉnh Đồng Tháp
+1123,6695,BHX_HCM_HMO - 102/7B Ấp 7 Xuân Thới Thượng,1027,Thành phố Hồ Chí Minh
+1124,9011,BHX_BPH_CTH - Minh Thành,1026,Tỉnh Đồng Nai
+1125,28018,BHX_DON_NBI - Nha Bích,1026,Tỉnh Đồng Nai
+1126,28608,BHX_DLA_THO - Trần Phú,1024,Tỉnh Đắk Lắk
+1127,7001,BHX_BTR_CTH - Kho DC Bến Tre (Đổi -Trả NCC),1030,Tỉnh Vĩnh Long
+1128,3437,BHX_HCM_TDU - 419 Nguyễn Thị Định,1027,Thành phố Hồ Chí Minh
+1129,4986,BHX_DON_TBO - 02/1 Nhân Hòa (Tây Hòa),1026,Tỉnh Đồng Nai
+1130,6129,BHX_TNI_TNI - Khu phố 3 Phường 1,1028,Tỉnh Tây Ninh
+1131,8038,BHX_BPH_LNI - Thửa 152 Lộc Hưng,1026,Tỉnh Đồng Nai
+1132,3254,BHX_HCM_TDU - 4A Đường Số 11,1027,Thành phố Hồ Chí Minh
+1133,6007,BHX_TGI_MTH - Bình Tạo (KCN Mỹ Tho),1029,Tỉnh Đồng Tháp
+1134,28298,BHX_NBI_HKH -  Hiển Khánh,1014,Tỉnh Ninh Bình
+1135,30234,BHX_VLO_TLU - Tân Thành,1030,Tỉnh Vĩnh Long
+1136,3501,BHX_HCM_Q12 - 66 Đông Hưng Thuận,1027,Thành phố Hồ Chí Minh
+1137,14426,BHX_QBI_DHO - 37 - 39 Tố Hữu,1018,Tỉnh Quảng Trị
+1138,14360,BHX_CMA_DDO - Đường 19/5,1033,Tỉnh Cà Mau
+1139,28297,BHX_NBI_TNA - 101-103 Phạm Ngũ Lão,1014,Tỉnh Ninh Bình
+1140,28833,BHX_HCM_BTD - 285 Chiến Lược,1027,Thành phố Hồ Chí Minh
+1141,7160,BHX_KGI_CTH - Quốc Lộ 61 Minh An,1031,Tỉnh An Giang
+1142,6820,BHX_BTH_PTH - 63 Thủ Khoa Huân,1025,Tỉnh Lâm Đồng
+1143,15788,BHX_GLA_TPH - Diêu Trì,1022,Tỉnh Gia Lai
+1144,15202,BHX_BDU_TAN - Kho Lạnh Trần Đại Nghĩa (HUB),1027,Thành phố Hồ Chí Minh
+1145,5775,BHX_KGI_RGI - 1352 Nguyễn Trung Trực,1031,Tỉnh An Giang
+1146,10390,BHX_LAN_KTU - Bình Hiệp,1028,Tỉnh Tây Ninh
+1147,9226,BHX_HCM_BCH - An Phú Tây,1027,Thành phố Hồ Chí Minh
+1148,6818,BHX_DON_NTR - Thửa 219 Phú Thạnh,1026,Tỉnh Đồng Nai
+1149,2453,BHX_HCM_HMO - 2/2 Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+1150,2182,BHX_HCM_Q12 - 39/11A Tân Thới Nhất 1,1027,Thành phố Hồ Chí Minh
+1151,27948,BHX_HCM_APD - 346C Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+1152,28169,BHX_VLO_THA - Thạnh Hải,1030,Tỉnh Vĩnh Long
+1153,14819,BHX_CTH_TNO - Trung Kiên,1032,Thành phố Cần Thơ
+1154,6343,BHX_TNI_GDA - Cây Nính (Phước Trạch),1028,Tỉnh Tây Ninh
+1155,29962,BHX_QTR_DTH - Đồng Thuận,1018,Tỉnh Quảng Trị
+1156,14434,BHX_LAN_CGI - Trị Yên,1028,Tỉnh Tây Ninh
+1157,8867,BHX_BRV_TTH - Mỹ Xuân,1027,Thành phố Hồ Chí Minh
+1158,13456,BHX_DON_LKH - HUB Long Khánh,1026,Tỉnh Đồng Nai
+1159,4231,BHX_BTR_CTH - Thửa 62 đường ĐT883 (Chợ Tân Huề Đông),1030,Tỉnh Vĩnh Long
+1160,6157,BHX_AGI_CDO - Thửa 450 Châu Phú B,1031,Tỉnh An Giang
+1161,4624,BHX_BDU_BCA - Thửa 189 Mỹ Phước,1027,Thành phố Hồ Chí Minh
+1162,9147,BHX_KGI_GQU - Vĩnh Tuy,1031,Tỉnh An Giang
+1163,8843,BHX_DON_LKH - Suối Tre,1026,Tỉnh Đồng Nai
+1164,28568,BHX_QTR_DTH - Hồ Chí Minh OFF,1018,Tỉnh Quảng Trị
+1165,14507,BHX_HTI_HTI - Đại Nài,1017,Tỉnh Hà Tĩnh
+1166,6386,BHX_BTH_BBI - Nguyễn Văn Trỗi (Chợ Hải Ninh),1025,Tỉnh Lâm Đồng
+1167,5728,BHX_HCM_BCH - Kho Lạnh TĐN Miền Đông,1027,Thành phố Hồ Chí Minh
+1168,14338,BHX_KGI_RGI - Lý Thường Kiệt Nối Dài,1031,Tỉnh An Giang
+1169,29757,BHX_NBI_LNH - Lý Nhân ( Chợ Phúc),1014,Tỉnh Ninh Bình
+1170,4689,BHX_AGI_CDO - Thửa 112 Vĩnh Mỹ,1031,Tỉnh An Giang
+1171,14770,BHX_QNG_SHA - TT Di Lăng,1021,Tỉnh Quảng Ngãi
+1172,14390,BHX_HCM_TDU - 457 Quốc Lộ 13,1027,Thành phố Hồ Chí Minh
+1173,8124,BHX_KHH_NTR - 106 Nguyễn Trãi,1023,Tỉnh Khánh Hòa
+1174,3786,BHX_HCM_NBE - 946 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+1175,30022,BHX_HCM_BCO - Số 6 Đường Số 6,1027,Thành phố Hồ Chí Minh
+1176,4899,BHX_HCM_Q08 - 199 Phú Định,1027,Thành phố Hồ Chí Minh
+1177,28849,BHX_HCM_PHA - Phước Hải,1027,Thành phố Hồ Chí Minh
+1178,15739,BHX_VLO_PQU - Phước Hòa,1030,Tỉnh Vĩnh Long
+1179,6431,BHX_CMA_TVT - Khóm 1 Trần Văn Thời,1033,Tỉnh Cà Mau
+1180,3854,BHX_HCM_Q07 - 35 Phạm Hữu Lầu,1027,Thành phố Hồ Chí Minh
+1181,6205,BHX_BTH_TPH - Vĩnh Tiến (Chợ Vĩnh Tân),1025,Tỉnh Lâm Đồng
+1182,2004,BHX_HCM_BTA - 574 SINCO,1027,Thành phố Hồ Chí Minh
+1183,28835,BHX_HYE_VQU - Kho DC Thái Bình,1013,Tỉnh Hưng Yên
+1184,29886,BHX_HCM_BTD - 34 Mã Lò,1027,Thành phố Hồ Chí Minh
+1185,6753,BHX_NTH_NPH - Phước Hậu (Chợ Hiếu Lễ),1023,Tỉnh Khánh Hòa
+1186,13845,BHX_HCM_Q12 - 74 Vườn Lài,1027,Thành phố Hồ Chí Minh
+1187,4416,"BHX_DTH_TMU - Thửa 39, 40 Gò Tháp",1029,Tỉnh Đồng Tháp
+1188,3713,BHX_HCM_Q07 - 2 Đường Số 17,1027,Thành phố Hồ Chí Minh
+1189,15565,BHX_HCM_Q07 - 72-74 Đường số 1,1027,Thành phố Hồ Chí Minh
+1190,10463,BHX_HCM_BTA - Kho XLCL Vĩnh Lộc,1027,Thành phố Hồ Chí Minh
+1191,28624,BHX_HYE_KXU - Chợ Cao Mại,1013,Tỉnh Hưng Yên
+1192,4482,BHX_HGI_VTH - Thửa 748 750 và 749 Phường 7 Vị Thanh,1032,Thành phố Cần Thơ
+1193,14384,BHX_BPH_BLO - Thanh Lương,1026,Tỉnh Đồng Nai
+1194,6251,BHX_DLA_BHO - 1303 Hùng Vương,1024,Tỉnh Đắk Lắk
+1195,4895,BHX_DON_VCU - Đường ĐT768 (Chợ Thạnh Phú),1026,Tỉnh Đồng Nai
+1196,7884,BHX_DNG_DGL - QL28 Quảng Khê,1025,Tỉnh Lâm Đồng
+1197,29913,BHX_HPH_THU - Kiền Bái,1012,Thành phố Hải Phòng
+1198,8795,BHX_HCM_GVA - 43 Đỗ Thúc Tịnh,1027,Thành phố Hồ Chí Minh
+1199,28941,BHX_HPH_PLI - Trần Tất Văn,1012,Thành phố Hải Phòng
+1200,5026,BHX_BPH_PLO - Thửa 83 Phước Bình,1026,Tỉnh Đồng Nai
+1201,7059,BHX_LDO_DTR - Kho Đức Trọng (HUB),1025,Tỉnh Lâm Đồng
+1202,15583,BHX_BDU_DAN - Tân Đông Hiệp (Chợ Thông Dụng),1027,Thành phố Hồ Chí Minh
+1203,28840,BHX_HCM_CLO - 32 Trang Tử,1027,Thành phố Hồ Chí Minh
+1204,4484,BHX_CTH_CDO - Thửa 348 và 349 Chợ Cờ Đỏ,1032,Thành phố Cần Thơ
+1205,8552,BHX_DON_CMY - Thửa số 159 Xuân Quế,1026,Tỉnh Đồng Nai
+1206,4885,BHX_CTH_NKI - 73 Phạm Ngũ Lão,1032,Thành phố Cần Thơ
+1207,13391,BHX_HCM_BCH - 932 Quốc Lộ 50 (HUB),1027,Thành phố Hồ Chí Minh
+1208,3400,BHX_HCM_BTA - 20 Hồ Văn Long,1027,Thành phố Hồ Chí Minh
+1209,9449,BHX_HCM_BCH - Qui Đức,1027,Thành phố Hồ Chí Minh
+1210,2786,BHX_HCM_Q12 - 265/54 Trường Chinh,1027,Thành phố Hồ Chí Minh
+1211,28603,BHX_HYE_QLI - Quang Lịch (chợ Đác),1013,Tỉnh Hưng Yên
+1212,10456,BHX_LDO_DTR - Kho XLCL Đức Trọng,1025,Tỉnh Lâm Đồng
+1213,4763,BHX_TGI_MTH - 264 Ấp Bắc,1029,Tỉnh Đồng Tháp
+1214,6775,BHX_LAN_CGI - Kim Điền (Chợ Chiều Ngã 3 Tân Kim),1028,Tỉnh Tây Ninh
+1215,6233,BHX_NTH_NSO - Hạnh Trí 1 (Chợ Quảng Sơn),1023,Tỉnh Khánh Hòa
+1216,15587,BHX_HTI_KAN - Chợ Cũ Kỳ Anh,1017,Tỉnh Hà Tĩnh
+1217,5260,BHX_HCM_TBI - 15 Nguyễn Sỹ Sách,1027,Thành phố Hồ Chí Minh
+1218,6725,BHX_HCM_BCH - E3/89B Phong Phú,1027,Thành phố Hồ Chí Minh
+1219,5019,BHX_AGI_TBI - Thửa 74 Tịnh Biên,1031,Tỉnh An Giang
+1220,6004,BHX_HCM_Q07 - 734 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+1221,6857,BHX_BDU_TDM - Thửa 10 Tương Bình Hiệp,1027,Thành phố Hồ Chí Minh
+1222,6218,BHX_BLI_DHA - Diêm Điền (Long Điền Tây),1033,Tỉnh Cà Mau
+1223,9388,BHX_BDU_DAN - Khu Phố Nhị Đồng 2,1027,Thành phố Hồ Chí Minh
+1224,6765,BHX_DLA_BMT - 79 Y Wang,1024,Tỉnh Đắk Lắk
+1225,28771,BHX_NBI_HTI - Hải Tiến ( Chợ Cồn),1014,Tỉnh Ninh Bình
+1226,14359,BHX_PYE_THO - 03 Thăng Long,1024,Tỉnh Đắk Lắk
+1227,14329,BHX_QNG_TNG - Phạm Văn Đồng,1021,Tỉnh Quảng Ngãi
+1228,10070,BHX_AGI_CPH - Thạnh Mỹ Tây,1031,Tỉnh An Giang
+1229,5084,BHX_TGI_GCT - Thửa 20 Vĩnh Bình,1029,Tỉnh Đồng Tháp
+1230,4692,BHX_TNI_TCH - Thửa 294 Tân Châu,1028,Tỉnh Tây Ninh
+1231,29790,BHX_VLO_SPH - Long Phú,1030,Tỉnh Vĩnh Long
+1232,8350,BHX_HCM_TBI - 149 Hoàng Hoa Thám,1027,Thành phố Hồ Chí Minh
+1233,6508,BHX_DLA_BMT - Kho Buôn Ma Thuột (HUB),1024,Tỉnh Đắk Lắk
+1234,30013,BHX_HCM_PDI - 109 –111–113–115 Tuy Lý Vương,1027,Thành phố Hồ Chí Minh
+1235,28763,BHX_HYE_TLA - Lê Quý Đôn,1013,Tỉnh Hưng Yên
+1236,9983,BHX_BDU_TAN - Lái Thiêu,1027,Thành phố Hồ Chí Minh
+1237,5117,BHX_BDU_TUY - Thửa 59 Hội Nghĩa,1027,Thành phố Hồ Chí Minh
+1238,14952,BHX_BPH_LNI - Lộc Điền,1026,Tỉnh Đồng Nai
+1239,9158,BHX_LAN_DHO - Đức Hòa Hạ,1028,Tỉnh Tây Ninh
+1240,3394,BHX_HCM_Q07 - 343 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+1241,5810,BHX_BTH_LGI - Hiệp Hòa (Chợ Tân Hải),1025,Tỉnh Lâm Đồng
+1242,6308,BHX_AGI_LXU - Ung Văn Khiêm,1031,Tỉnh An Giang
+1243,14508,BHX_NAN_QLU - Quỳnh Châu,1016,Tỉnh Nghệ An
+1244,3874,BHX_BDU_TDM - 172 Phú Lợi (Ngã 3 Nam Sanh),1027,Thành phố Hồ Chí Minh
+1245,28130,BHX_CTH_THO - Kho Đóng Gói Châu Thành A (HUB),1032,Thành phố Cần Thơ
+1246,9655,BHX_HCM_GVA -  1470 Lê Đức Thọ - Gia Dụng (HUB),1027,Thành phố Hồ Chí Minh
+1247,9484,BHX_HCM_Q12 - 296 Vườn Lài,1027,Thành phố Hồ Chí Minh
+1248,4822,BHX_HCM_HMO - 169/1C Ấp Đông 1 (Thới Tam Thôn),1027,Thành phố Hồ Chí Minh
+1249,4642,BHX_BPH_BDO - Thửa 165 Thanh Xuân,1026,Tỉnh Đồng Nai
+1250,28201,BHX_HCM_MTH - Minh Hoà,1027,Thành phố Hồ Chí Minh
+1251,28688,BHX_NBI_VDU - Vũ Dương ( Chợ Mụa),1014,Tỉnh Ninh Bình
+1252,6216,BHX_BLI_DHA - Ấp 3 Gành Hào,1033,Tỉnh Cà Mau
+1253,7548,BHX_DON_BHO - 06-6A Tam Hiệp,1026,Tỉnh Đồng Nai
+1254,30067,BHX_DON_PTA - Vườn Dừa,1026,Tỉnh Đồng Nai
+1255,28606,BHX_HYE_DQU - Đông Quan (Châu Giang),1013,Tỉnh Hưng Yên
+1256,5450,BHX_BDU_TUY - Thửa 523 Khánh Bình,1027,Thành phố Hồ Chí Minh
+1257,15011,BHX_QTR_GLI - 43 đường 2/4,1018,Tỉnh Quảng Trị
+1258,14389,BHX_QNA_TKY - 290 Phan Chu Trinh,1020,Thành phố Đà Nẵng
+1259,9971,BHX_DON_TBO - An Viễn,1026,Tỉnh Đồng Nai
+1260,15013,BHX_QNG_QNG - 238-240 Nguyễn Văn Linh,1021,Tỉnh Quảng Ngãi
+1261,7843,BHX_CTH_CRA - Trương Vĩnh Nguyên,1032,Thành phố Cần Thơ
+1262,3807,BHX_BDU_TAN - Thửa 29 Bình Chuẩn,1027,Thành phố Hồ Chí Minh
+1263,28135,BHX_NBI_YKH - Chợ Ninh,1014,Tỉnh Ninh Bình
+1264,28286,BHX_HYE_HMI - Minh Hòa,1013,Tỉnh Hưng Yên
+1265,14851,BHX_THO_QXU - Quảng Giao ( Chợ Bùi),1015,Tỉnh Thanh Hóa
+1266,5235,BHX_KGI_HDA - Thửa L26 Thị Tứ (Chợ Sóc Xoài),1031,Tỉnh An Giang
+1267,3759,BHX_HCM_BCH - A13/1 Qui Đức,1027,Thành phố Hồ Chí Minh
+1268,28133,BHX_LDO_TQU - Kho Đóng Gói Hàm Thuận Nam (HUB),1025,Tỉnh Lâm Đồng
+1269,3891,BHX_DON_BHO - 68A An Bình - Thí nghiệm,1026,Tỉnh Đồng Nai
+1270,3432,BHX_HCM_TDU - 1/99A Đình Phong Phú,1027,Thành phố Hồ Chí Minh
+1271,13666,BHX_DON_XLO - Kho Lạnh Trần Đại Nghĩa (HUB),1026,Tỉnh Đồng Nai
+1272,6991,BHX_HCM_TBI - 233B Bùi Thị Xuân,1027,Thành phố Hồ Chí Minh
+1273,6758,BHX_BPH_DPH - QL14 Đồng Tiến,1026,Tỉnh Đồng Nai
+1274,4888,BHX_BDU_BCA - Thửa 656 An Tây,1027,Thành phố Hồ Chí Minh
+1275,5296,BHX_NTH_NHA - Khánh Chữ 2 (Khánh Hải),1023,Tỉnh Khánh Hòa
+1276,15742,BHX_HCM_BMY - Bình Mỹ,1027,Thành phố Hồ Chí Minh
+1277,28679,BHX_GLA_PLK - 172 đường CMT8,1022,Tỉnh Gia Lai
+1278,6027,BHX_BDU_TAN - 48/1 DT745 (Thạnh Lợi),1027,Thành phố Hồ Chí Minh
+1279,3711,BHX_HCM_BCH - A2/22 Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+1280,4630,BHX_CTH_NKI - 1A Nguyễn Hiền (KDC 91B),1032,Thành phố Cần Thơ
+1281,4439,BHX_DON_BHO - 16A Long Bình Tân,1026,Tỉnh Đồng Nai
+1282,3264,BHX_HCM_Q12 - 26/1 Nguyễn Thị Búp,1027,Thành phố Hồ Chí Minh
+1283,30051,BHX_HYE_QHU - Cao Xá,1013,Tỉnh Hưng Yên
+1284,5078,BHX_CTH_CRA - Lô 2A2 Hưng Phú 1,1032,Thành phố Cần Thơ
+1285,4477,BHX_HCM_GVA - 3/14 Nguyễn Thái Sơn,1027,Thành phố Hồ Chí Minh
+1286,4743,BHX_AGI_CMO - Thửa 27 Mỹ Luông,1031,Tỉnh An Giang
+1287,14616,BHX_PYE_THO - An Phú,1024,Tỉnh Đắk Lắk
+1288,28151,BHX_THO_TXU - Thọ Xuân,1015,Tỉnh Thanh Hóa
+1289,7600,BHX_HCM_Q03 - 268/14 Lý Thái Tổ,1027,Thành phố Hồ Chí Minh
+1290,6239,BHX_KGI_VTH - Thửa 420 Vĩnh Phước 2,1031,Tỉnh An Giang
+1291,4244,BHX_HCM_TDU - 197A Dương Đình Hội,1027,Thành phố Hồ Chí Minh
+1292,5304,BHX_KGI_THI - Thửa 146 Đông Thọ,1031,Tỉnh An Giang
+1293,7673,BHX_HCM_TBI - 44 Hoàng Bật Đạt,1027,Thành phố Hồ Chí Minh
+1294,14181,BHX_QNG_QNG - 300 Lê Lợi,1021,Tỉnh Quảng Ngãi
+1295,14789,BHX_NAN_VIN - Hưng Dũng,1016,Tỉnh Nghệ An
+1296,7039,BHX_DON_TBO - Hưng Thịnh (Chợ Hưng Long),1026,Tỉnh Đồng Nai
+1297,14945,BHX_QBI_BTR - Nhân Trạch,1018,Tỉnh Quảng Trị
+1298,28807,BHX_DTH_TMY - Thanh Mỹ,1029,Tỉnh Đồng Tháp
+1299,6433,BHX_KGI_CTH - QL80 Mong Thọ B,1031,Tỉnh An Giang
+1300,4373,BHX_VLO_BMI - 130 Nguyễn Văn Thảnh (Cái Vồn),1030,Tỉnh Vĩnh Long
+1301,28545,BHX_DTH_MPH - Mỹ Phong,1029,Tỉnh Đồng Tháp
+1302,29939,BHX_HCM_CLA - 186 Lê Văn Thịnh,1027,Thành phố Hồ Chí Minh
+1303,5444,BHX_BRV_XMO - 73 Đường 328 (Hòa Bình),1027,Thành phố Hồ Chí Minh
+1304,15654,BHX_DON_TSO - Sơn Thủy,1026,Tỉnh Đồng Nai
+1305,14607,BHX_BDU_TDM - Phú Tân (Thửa 81),1027,Thành phố Hồ Chí Minh
+1306,6673,BHX_LAN_DHO - Bình Tiền 2 (Đức Hòa Hạ),1028,Tỉnh Tây Ninh
+1307,6424,BHX_DON_DQU - 13 Quốc Lộ 20 (Phú Ngọc),1026,Tỉnh Đồng Nai
+1308,4612,BHX_CTH_TLA - Thửa 984 Ấp Phú Thọ (Chợ Bà Đầm),1032,Thành phố Cần Thơ
+1309,6398,BHX_BDU_TDM - 506 Lê Hồng Phong,1027,Thành phố Hồ Chí Minh
+1310,8887,BHX_KGI_ABI - Tây Yên,1031,Tỉnh An Giang
+1311,15550,BHX_NAN_DLU - Đà Sơn,1016,Tỉnh Nghệ An
+1312,15112,BHX_LAN_DHO - Lộc Giang,1028,Tỉnh Tây Ninh
+1313,6063,BHX_KHH_NTR - Phước Lộc (Vòng Xoay Ủy Ban Phước Đồng),1023,Tỉnh Khánh Hòa
+1314,4407,BHX_HCM_BTH - 371 Bình Quới,1027,Thành phố Hồ Chí Minh
+1315,28128,BHX_NBI_HLU - Trương Định,1014,Tỉnh Ninh Bình
+1316,28244,BHX_NBI_QNH - Quỹ Nhất,1014,Tỉnh Ninh Bình
+1317,8187,BHX_DNG_DMI - Thửa 262 Đắk R'la,1025,Tỉnh Lâm Đồng
+1318,28597,BHX_HYE_AQU -  Tạ Xuân Thu ( Chợ Tây Giang ),1013,Tỉnh Hưng Yên
+1319,14968,BHX_THO_QXU - Quảng Ngọc,1015,Tỉnh Thanh Hóa
+1320,4767,BHX_DTH_SDE - Thửa 134 Sa Đéc,1029,Tỉnh Đồng Tháp
+1321,5008,BHX_CTH_BTH - Thửa 926 QL91B (Chợ Bà Bộ),1032,Thành phố Cần Thơ
+1322,13426,BHX_HCM_BLO - TĐN Bình Lợi ( HUB ),1027,Thành phố Hồ Chí Minh
+1323,6835,BHX_HCM_BTA - 56 Nguyễn Thức Tự,1027,Thành phố Hồ Chí Minh
+1324,6058,BHX_BTH_TLI - Thôn 1 (Chợ Nghị Đức),1025,Tỉnh Lâm Đồng
+1325,1451,BHX_HCM_BTA - 47 Đường 18B,1027,Thành phố Hồ Chí Minh
+1326,4807,BHX_TVI_DHA - Thửa 272 Duyên Hải,1030,Tỉnh Vĩnh Long
+1327,28153,BHX_NBI_TDI -  Đồng Giao,1014,Tỉnh Ninh Bình
+1328,8781,BHX_DON_LKH - Bình Lộc,1026,Tỉnh Đồng Nai
+1329,14223,BHX_DNA_LCH - 107 Tô Hiệu,1020,Thành phố Đà Nẵng
+1330,2847,BHX_HCM_HMO - 4/5K Ấp 1 (Đông Thạnh),1027,Thành phố Hồ Chí Minh
+1331,6256,BHX_DON_NTR - Vĩnh Tuy (Long Tân),1026,Tỉnh Đồng Nai
+1332,28930,BHX_VLO_TTR - Thạnh Trị,1030,Tỉnh Vĩnh Long
+1333,14316,BHX_KHH_KSO - Tô Hạp,1023,Tỉnh Khánh Hòa
+1334,5021,BHX_TVI_TVI - 25 Nguyễn Đáng,1030,Tỉnh Vĩnh Long
+1335,15763,BHX_NAN_DCH - Diễn Hồng,1016,Tỉnh Nghệ An
+1336,9519,BHX_HCM_Q12 - 437 Hà Huy Giáp (HUB),1027,Thành phố Hồ Chí Minh
+1337,5399,BHX_KGI_RGI - 544 Nguyễn Trung Trực,1031,Tỉnh An Giang
+1338,5007,BHX_HCM_TDU - 72 Quốc Hương,1027,Thành phố Hồ Chí Minh
+1339,14637,BHX_HTI_CLO - Thị Trấn Nghèn,1017,Tỉnh Hà Tĩnh
+1340,4916,BHX_DTH_HNG - Thửa 337 An Thạnh,1029,Tỉnh Đồng Tháp
+1341,3502,BHX_HCM_GVA - 80 Lê Văn Thọ,1027,Thành phố Hồ Chí Minh
+1342,28671,BHX_LDO_DSA - Đắk Sắk,1025,Tỉnh Lâm Đồng
+1343,15878,BHX_HCM_BTA - 09 Nguyễn Quý Yêm,1027,Thành phố Hồ Chí Minh
+1344,14363,BHX_QNG_NHA - Chợ Chùa,1021,Tỉnh Quảng Ngãi
+1345,13830,BHX_DLA_BMT - 189 Quốc Lộ 14,1024,Tỉnh Đắk Lắk
+1346,15040,BHX_HCM_TDU - 38D Cây Keo,1027,Thành phố Hồ Chí Minh
+1347,15029,BHX_HCM_NBE - A.1.01 khu nhà ở Phước Kiển,1027,Thành phố Hồ Chí Minh
+1348,3369,BHX_HCM_BCH - F1/13 Vĩnh Lộc,1027,Thành phố Hồ Chí Minh
+1349,15688,BHX_AGI_THI - chợ Sao Mai,1031,Tỉnh An Giang
+1350,9148,BHX_KGI_AMI - Tân Thạnh,1031,Tỉnh An Giang
+1351,4969,BHX_AGI_CMO - Thửa 52 Mỹ Hội Đông,1031,Tỉnh An Giang
+1352,7661,BHX_STR_TDE - Lịch Hội Thượng,1032,Thành phố Cần Thơ
+1353,14443,BHX_BDU_TDM - Hoà Phú ( Khu TDC Phú Chánh),1027,Thành phố Hồ Chí Minh
+1354,6520,BHX_BDU_TAN - Thửa 1708 An Phú (KDC Việt Sing),1027,Thành phố Hồ Chí Minh
+1355,28742,BHX_THO_TLO - Thắng Lợi,1015,Tỉnh Thanh Hóa
+1356,12943,BHX_HCM_BCH - Valora Mizuki,1027,Thành phố Hồ Chí Minh
+1357,6072,BHX_BDU_TUY - Thửa 166 Tân Mỹ,1027,Thành phố Hồ Chí Minh
+1358,9625,BHX_LDO_LHA - Gia Lâm,1025,Tỉnh Lâm Đồng
+1359,14687,BHX_QBI_THO - 07 Hùng Vương,1018,Tỉnh Quảng Trị
+1360,5426,BHX_HCM_Q12 - 277 Dương Thị Mười,1027,Thành phố Hồ Chí Minh
+1361,14266,BHX_DNA_STR - 112  Nguyễn Phan Vinh,1020,Thành phố Đà Nẵng
+1362,8312,BHX_DLA_BMT - Thửa số 4 Tân Lập,1024,Tỉnh Đắk Lắk
+1363,7111,BHX_BRV_PMY - Đường B1 Mỹ Xuân,1027,Thành phố Hồ Chí Minh
+1364,14673,BHX_BLI_GRA - Tân Phong,1033,Tỉnh Cà Mau
+1365,5092,BHX_TGI_TPH - Thửa 119 Mỹ Phước,1029,Tỉnh Đồng Tháp
+1366,28799,BHX_NBI_NLY - Hòa Hậu,1014,Tỉnh Ninh Bình
+1367,14495,BHX_NAN_NLO - Quán Hành,1016,Tỉnh Nghệ An
+1368,5049,BHX_LAN_DHO - Thửa 964 Tân Mỹ,1028,Tỉnh Tây Ninh
+1369,6136,BHX_STR_MXU - Thạnh Lợi,1032,Thành phố Cần Thơ
+1370,28002,BHX_HCM_BDI - 8/4 Nguyễn Ảnh Thủ,1027,Thành phố Hồ Chí Minh
+1371,6029,BHX_HCM_CCH - 784 Tỉnh Lộ 7,1027,Thành phố Hồ Chí Minh
+1372,4413,BHX_HGI_PHI - Thửa 40 Phú Khởi (Chợ Rạch Gòi),1032,Thành phố Cần Thơ
+1373,5822,BHX_VLO_BTA - Tổ 13 Thành Đông,1030,Tỉnh Vĩnh Long
+1374,6893,BHX_BTH_LGI - Bình An 3 (Tân Bình),1025,Tỉnh Lâm Đồng
+1375,14818,BHX_TVI_TCU - Tập Sơn,1030,Tỉnh Vĩnh Long
+1376,14820,BHX_CTH_TNO - Tân Hưng,1032,Thành phố Cần Thơ
+1377,6581,BHX_HCM_TDU - 16A Thái Thuận (Cao Ốc An Thịnh),1027,Thành phố Hồ Chí Minh
+1378,6477,BHX_STR_LPH - Thửa 824 Đại Ngãi,1032,Thành phố Cần Thơ
+1379,4520,BHX_HCM_TDU - 75 Đường 23,1027,Thành phố Hồ Chí Minh
+1380,28073,BHX_DTH_LTI - Chợ Mỹ Long,1029,Tỉnh Đồng Tháp
+1381,5240,BHX_LAN_CDU - Thửa 32 Long Trạch,1028,Tỉnh Tây Ninh
+1382,4995,BHX_BRV_LDI - Hương Lộ 5 (Phước Tỉnh),1027,Thành phố Hồ Chí Minh
+1383,5805,BHX_AGI_CPH - Quốc Lộ 91 (Chợ Cái Dầu),1031,Tỉnh An Giang
+1384,28665,BHX_QNG_TPH - Kho Quảng Ngãi (HUB),1021,Tỉnh Quảng Ngãi
+1385,15773,BHX_HCM_TSN - Chung Cư Celadon,1027,Thành phố Hồ Chí Minh
+1386,14109,BHX_QNA_HAN - Lý Thường Kiệt,1020,Thành phố Đà Nẵng
+1387,14399,BHX_BDI_QNH - Hoàng Văn Thụ,1022,Tỉnh Gia Lai
+1388,14337,BHX_QNG_MDU - Đức Thạnh,1021,Tỉnh Quảng Ngãi
+1389,9490,BHX_HCM_BCH - Vĩnh Lộc A,1027,Thành phố Hồ Chí Minh
+1390,9980,BHX_BTR_GTR - Lương Quới,1030,Tỉnh Vĩnh Long
+1391,6866,BHX_BRV_LDI - An Phước (An Ngãi),1027,Thành phố Hồ Chí Minh
+1392,6454,BHX_DLA_KAN - 13 Nguyễn Tất Thành,1024,Tỉnh Đắk Lắk
+1393,15697,BHX_HUE_HCH - Hương Vinh,1019,Thành phố Huế
+1394,29831,BHX_NBI_NQU - Chợ Đồng Phong,1014,Tỉnh Ninh Bình
+1395,28609,BHX_GLA_QND - Võ Thị Sáu,1022,Tỉnh Gia Lai
+1396,6071,BHX_BDU_TUY - Thửa 149 Tân Vĩnh Hiệp,1027,Thành phố Hồ Chí Minh
+1397,28042,BHX_DNA_HXU - 69-71 Phạm Hùng,1020,Thành phố Đà Nẵng
+1398,4263,BHX_BTR_BAT - Thửa 51 ĐT885 An Định 2,1030,Tỉnh Vĩnh Long
+1399,4510,BHX_BPH_DXO - Thửa 69 Lê Quý Đôn,1026,Tỉnh Đồng Nai
+1400,6989,BHX_HCM_PNH - 244 Huỳnh Văn Bánh,1027,Thành phố Hồ Chí Minh
+1401,14306,BHX_LAN_DHO - Tràm Lạc,1028,Tỉnh Tây Ninh
+1402,10051,BHX_HCM_Q08 - Cao Ốc City Gate Towers,1027,Thành phố Hồ Chí Minh
+1403,3241,BHX_HCM_BCH - Kho DC Trần Đại Nghĩa (Đổi -Trả NCC),1027,Thành phố Hồ Chí Minh
+1404,15590,BHX_KGI_TLO - Mong Thọ,1031,Tỉnh An Giang
+1405,6871,BHX_KGI_AMI - Thửa 208 Thứ Mười Một,1031,Tỉnh An Giang
+1406,6863,BHX_CMA_CMA - Nguyễn Trãi,1033,Tỉnh Cà Mau
+1407,15656,BHX_NAN_TCH - Đông Thọ,1016,Tỉnh Nghệ An
+1408,4676,BHX_TNI_TBI - Thửa 56-190 Tân Lập,1028,Tỉnh Tây Ninh
+1409,15817,BHX_VLO_ATR - An Trường,1030,Tỉnh Vĩnh Long
+1410,28672,BHX_DNA_XPH - Xuân Phú,1020,Thành phố Đà Nẵng
+1411,27969,BHX_HCM_DHO - 338 Trần Hưng Đạo,1027,Thành phố Hồ Chí Minh
+1412,6839,BHX_KHH_NTR - Chợ Vĩnh Hải,1023,Tỉnh Khánh Hòa
+1413,4938,BHX_TNI_BCA - Thửa 661 An Thạnh,1028,Tỉnh Tây Ninh
+1414,8667,BHX_BDU_TAN - An Phú 12,1027,Thành phố Hồ Chí Minh
+1415,6244,BHX_BTR_BTR - 35B Đoàn Hoàng Minh,1030,Tỉnh Vĩnh Long
+1416,4846,BHX_DTH_CLA - Thửa 64 Khóm Mỹ Tây,1029,Tỉnh Đồng Tháp
+1417,7140,BHX_AGI_TTO - Ngô Tự Lợi (Ba Chúc),1031,Tỉnh An Giang
+1418,5208,BHX_TNI_CTH - Thửa 5030 Thanh Phước,1028,Tỉnh Tây Ninh
+1419,13291,BHX_HCM_BTA - 123 Liên Khu 5-6 (HUB),1027,Thành phố Hồ Chí Minh
+1420,13721,BHX_DON_DQU - Phú Hòa,1026,Tỉnh Đồng Nai
+1421,14590,BHX_TVI_CTH - Hoà Thuận,1030,Tỉnh Vĩnh Long
+1422,6283,BHX_BDU_BCA - Thửa 711 An Tây,1027,Thành phố Hồ Chí Minh
+1423,6453,BHX_LAN_CDU - Ấp 6 Tân Ân,1028,Tỉnh Tây Ninh
+1424,3668,BHX_HCM_TDU - 602 Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+1425,27992,BHX_DNA_HKH - 37 Ngô Thì Nhậm,1020,Thành phố Đà Nẵng
+1426,6903,BHX_HGI_CTH - Phú Xuân (Mái Dầm),1032,Thành phố Cần Thơ
+1427,15812,BHX_DTH_MNG - Tân Nghĩa,1029,Tỉnh Đồng Tháp
+1428,5119,BHX_BDU_DAN - Thửa 2359 Đông Chiêu,1027,Thành phố Hồ Chí Minh
+1429,14137,BHX_QNG_QNG - Nghĩa Lộ,1021,Tỉnh Quảng Ngãi
+1430,4871,BHX_BRV_PMY - 40 Nguyễn Cư Trinh (Chợ Ngọc Hà),1027,Thành phố Hồ Chí Minh
+1431,13797,BHX_HCM_CCH - 295A Tỉnh Lộ 15,1027,Thành phố Hồ Chí Minh
+1432,7967,BHX_DNG_DGL - Quảng Hợp (Quảng Sơn),1025,Tỉnh Lâm Đồng
+1433,6512,BHX_BTH_HTB - Thôn 3 Hàm Liêm (Cổng KCN Phan Thiết),1025,Tỉnh Lâm Đồng
+1434,15847,BHX_DNA_TMY - Tam Mỹ,1020,Thành phố Đà Nẵng
+1435,28309,BHX_HYE_DHU - Đông La,1013,Tỉnh Hưng Yên
+1436,28774,BHX_DON_DPH - Cát Lái,1026,Tỉnh Đồng Nai
+1437,6894,BHX_DLA_CKU - Ea Ktur,1024,Tỉnh Đắk Lắk
+1438,15753,BHX_DTH_NHI - Tây Hoà,1029,Tỉnh Đồng Tháp
+1439,10186,BHX_HCM_BCH - Vĩnh Lộc B,1027,Thành phố Hồ Chí Minh
+1440,6277,BHX_CMA_CNU - Khóm 1 Cái Nước,1033,Tỉnh Cà Mau
+1441,14640,BHX_DNA_TKH - 244-246 Kinh Dương Vương,1020,Thành phố Đà Nẵng
+1442,6561,BHX_CMA_TVT - Khóm 10 Sông Đốc,1033,Tỉnh Cà Mau
+1443,5331,BHX_BLI_BLI - 132A/4 Trần Phú,1033,Tỉnh Cà Mau
+1444,4914,BHX_AGI_PTA - Thửa 152 Phú Mỹ,1031,Tỉnh An Giang
+1445,14724,BHX_DNA_HCH - Nguyễn Thị Minh Khai,1020,Thành phố Đà Nẵng
+1446,7624,BHX_BLI_VLO - Kho Vĩnh Lợi (HUB),1033,Tỉnh Cà Mau
+1447,3114,BHX_HCM_NBE - 12 Đào Tông Nguyên,1027,Thành phố Hồ Chí Minh
+1448,14457,BHX_QBI_DHO - 68 Nguyễn Thị Định,1018,Tỉnh Quảng Trị
+1449,15650,BHX_DNA_HCH - Núi Thành,1020,Thành phố Đà Nẵng
+1450,6060,BHX_BTH_TLI - Thôn 4 Đức Tân (Chợ Măng Tố),1025,Tỉnh Lâm Đồng
+1451,15459,BHX_LAN_DHO - 835 Bình Tiền 1,1028,Tỉnh Tây Ninh
+1452,9365,BHX_DLA_BMT - 156 Nguyễn Thị Minh Khai,1024,Tỉnh Đắk Lắk
+1453,14433,BHX_LDO_BLA - Lộc Bảo,1025,Tỉnh Lâm Đồng
+1454,6631,BHX_TNI_TCH - Tân Đông (Tân Thành),1028,Tỉnh Tây Ninh
+1455,28923,BHX_HCM_ALA - Chung cư Akaneo 0.06,1027,Thành phố Hồ Chí Minh
+1456,13810,BHX_LAN_DHO - Kho Xuyên Á (HUB),1028,Tỉnh Tây Ninh
+1457,15551,BHX_TNI_HTH - Trường Đông,1028,Tỉnh Tây Ninh
+1458,3002,BHX_HCM_TDU - 1030 Tỉnh Lộ 43,1027,Thành phố Hồ Chí Minh
+1459,9309,BHX_BPH_BGM - Phú Nghĩa,1026,Tỉnh Đồng Nai
+1460,6224,BHX_LDO_DTR - Thửa 38 Ninh Gia,1025,Tỉnh Lâm Đồng
+1461,28225,BHX_GLA_AHO - Xuân Phong Bắc,1022,Tỉnh Gia Lai
+1462,14736,BHX_HCM_BTH - 46A Ung Văn Khiêm,1027,Thành phố Hồ Chí Minh
+1463,15854,BHX_HCM_NGI - Lê Hồng Phong,1027,Thành phố Hồ Chí Minh
+1464,6534,BHX_KHH_NTR - 979 Lê Hồng Phong,1023,Tỉnh Khánh Hòa
+1465,4902,BHX_BDU_TAN - Thửa 152 Bình Phước B (Chợ Phú Phong),1027,Thành phố Hồ Chí Minh
+1466,28060,"BHX_HCM_ALA - Số AL-A-18,19 Lê Thành An Lạc",1027,Thành phố Hồ Chí Minh
+1467,14287,BHX_DNG_DRL -  Nhân Cơ,1025,Tỉnh Lâm Đồng
+1468,4756,BHX_DON_BHO - 171 Hoàng Tam Kỳ,1026,Tỉnh Đồng Nai
+1469,28744,BHX_AGI_LTH - Đường Xuồng,1031,Tỉnh An Giang
+1470,5388,BHX_HCM_BTH - 234 Hoàng Hoa Thám,1027,Thành phố Hồ Chí Minh
+1471,6070,BHX_BDU_TUY - Thửa 373 Tân Hiệp,1027,Thành phố Hồ Chí Minh
+1472,14775,BHX_DNA_HVA - Hoà Phong,1020,Thành phố Đà Nẵng
+1473,28176,BHX_CTH_CRA - Nguyễn Văn Lưu,1032,Thành phố Cần Thơ
+1474,10458,BHX_DLA_BMT - Kho XLCL Buôn Ma Thuột,1024,Tỉnh Đắk Lắk
+1475,29601,BHX_HCM_LTH - Đông Nhì,1027,Thành phố Hồ Chí Minh
+1476,5227,BHX_TGI_GCT - Thửa 205 Thạnh Thới,1029,Tỉnh Đồng Tháp
+1477,4894,BHX_AGI_TCH - Thửa 402 Vĩnh Hòa,1031,Tỉnh An Giang
+1478,15506,BHX_HCM_BCH - Kho ảo xử lý N/X gia công,1027,Thành phố Hồ Chí Minh
+1479,28891,BHX_LDO_CLY - Ngô Quyền,1025,Tỉnh Lâm Đồng
+1480,30361,BHX_HCM_BLO - Kho Đóng Gói TĐN Bình Lợi ( HUB ),1027,Thành phố Hồ Chí Minh
+1481,6365,BHX_KGI_UMT - Quốc Lộ 63 (Thạnh Yên),1031,Tỉnh An Giang
+1482,14492,BHX_DNA_STR - Nại Hiên Đông,1020,Thành phố Đà Nẵng
+1483,4414,BHX_HGI_LMY - Thửa 281 Đường 30/4 (Chợ Long Mỹ),1032,Thành phố Cần Thơ
+1484,6384,BHX_STR_STR - 102 Phú Lợi,1032,Thành phố Cần Thơ
+1485,6290,BHX_HCM_GVA - 62 Nguyễn Văn Nghi,1027,Thành phố Hồ Chí Minh
+1486,14979,BHX_PYE_THO - 419 Trần Hưng Đạo,1024,Tỉnh Đắk Lắk
+1487,14759,BHX_THO_HLO - TT Hậu Lộc,1015,Tỉnh Thanh Hóa
+1488,5284,BHX_CTH_CRA - 35/5K Trần Chiên,1032,Thành phố Cần Thơ
+1489,14366,BHX_BDI_QNH - Kho DC Quy Nhơn (Đổi -Trả NCC),1022,Tỉnh Gia Lai
+1490,1696,BHX_HCM_BTA - 287 Phan Anh,1027,Thành phố Hồ Chí Minh
+1491,10073,BHX_DON_BHO - An Bình,1026,Tỉnh Đồng Nai
+1492,5398,BHX_KGI_RGI - 174 Ngô Quyền,1031,Tỉnh An Giang
+1493,6031,BHX_BDU_DAN - Thửa 1719 Bình Minh 1,1027,Thành phố Hồ Chí Minh
+1494,6468,BHX_NTH_NPH - Khu Phố 2 Phước Dân (Chợ Phú Quý),1023,Tỉnh Khánh Hòa
+1495,5807,BHX_BDU_DTI - Thửa 401 Thanh Tuyền (Chợ Bến Súc),1027,Thành phố Hồ Chí Minh
+1496,3215,BHX_HCM_Q12 - 61A Đường TX21 (Thạnh Xuân),1027,Thành phố Hồ Chí Minh
+1497,2436,BHX_HCM_HMO - 23/3B Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+1498,3105,BHX_HCM_CCH - 161 Bình Mỹ,1027,Thành phố Hồ Chí Minh
+1499,28717,BHX_CTH_MQU - Mỹ Qưới,1032,Thành phố Cần Thơ
+1500,15103,BHX_TGI_GCO - Bình Xuân,1029,Tỉnh Đồng Tháp
+1501,28556,BHX_HCM_TNH - Tân Nhựt,1027,Thành phố Hồ Chí Minh
+1502,15603,BHX_CTH_NKI - 69A Hoàng Văn Thụ,1032,Thành phố Cần Thơ
+1503,8540,BHX_HGI_VTH - Thửa 32 Nguyễn Văn Trỗi,1032,Thành phố Cần Thơ
+1504,2579,BHX_HCM_Q12 - 62A Trần Thị Cờ,1027,Thành phố Hồ Chí Minh
+1505,3112,BHX_HCM_BCH - G15/29A Láng Le Bàu Cò,1027,Thành phố Hồ Chí Minh
+1506,6282,BHX_BLI_VLO - Tam Hưng (Vĩnh Hưng),1033,Tỉnh Cà Mau
+1507,9919,BHX_CTH_NKI - Tầm Vu,1032,Thành phố Cần Thơ
+1508,14517,BHX_HCM_TDU - 167 Đường Số 11,1027,Thành phố Hồ Chí Minh
+1509,6596,BHX_KGI_GRI - Biện Cui (Chợ Bàn Tân Định),1031,Tỉnh An Giang
+1510,28926,BHX_HYE_VTH -  Vũ Thư ( Chợ Thẫm),1013,Tỉnh Hưng Yên
+1511,5282,BHX_KGI_RGI - 18 Trần Quang Khải,1031,Tỉnh An Giang
+1512,14937,BHX_HUE_THO - 114 Trường Chinh,1019,Thành phố Huế
+1513,28730,BHX_NBI_MTH - Trực Thái,1014,Tỉnh Ninh Bình
+1514,10495,BHX_AGI_CMO - Long Điền A,1031,Tỉnh An Giang
+1515,4941,BHX_BTR_MCN - Thửa 136 Hội Yên,1030,Tỉnh Vĩnh Long
+1516,28856,BHX_HCM_DAN -Kho Nhà Cung Cấp LOSCAM - CN Bình Dương,1027,Thành phố Hồ Chí Minh
+1517,28610,BHX_HYE_TLA -  579 Lý Bôn,1013,Tỉnh Hưng Yên
+1518,9155,BHX_HCM_BCH - D2/53/1 Quốc Lộ 50,1027,Thành phố Hồ Chí Minh
+1519,4540,BHX_CTH_VTH - Lô B2 TTTM Vĩnh Thạnh,1032,Thành phố Cần Thơ
+1520,3853,BHX_HCM_TDU - 64 Đường số 7 Phước Bình,1027,Thành phố Hồ Chí Minh
+1521,14682,BHX_HTI_THA - Chợ Thạch Hà,1017,Tỉnh Hà Tĩnh
+1522,15049,BHX_BTH_DLI - Mê Pu,1025,Tỉnh Lâm Đồng
+1523,15457,BHX_HUE_HTH - 985 Nguyễn Tất Thành,1019,Thành phố Huế
+1524,14848,BHX_HCM_HMO - 61 Trưng Nữ Vương OFF,1027,Thành phố Hồ Chí Minh
+1525,7718,BHX_CMA_DDO - Cái Keo (Quách Phẩm),1033,Tỉnh Cà Mau
+1526,4892,BHX_HCM_CCH - 579F TL15 Tân Thạnh Đông,1027,Thành phố Hồ Chí Minh
+1527,14179,BHX_QNA_DLO - Đại Minh,1020,Thành phố Đà Nẵng
+1528,6976,BHX_LAN_DHO - Sò Đo (Hậu Nghĩa),1028,Tỉnh Tây Ninh
+1529,6690,BHX_KGI_RGI - 94 Quang Trung,1031,Tỉnh An Giang
+1530,4971,BHX_DON_BHO - 277 Khu phố 5 Tân Hiệp,1026,Tỉnh Đồng Nai
+1531,4291,BHX_TNI_TBA - Thửa 790-1100 An Bình,1028,Tỉnh Tây Ninh
+1532,15609,BHX_THO_NSO - Hải Thượng,1015,Tỉnh Thanh Hóa
+1533,27960,BHX_HTI_CDU - Chợ Vực,1017,Tỉnh Hà Tĩnh
+1534,5309,BHX_AGI_APH - Thửa 11 Long Bình,1031,Tỉnh An Giang
+1535,7686,BHX_DNG_DRL - DT685 Nghĩa Thắng,1025,Tỉnh Lâm Đồng
+1536,14330,BHX_QNA_NTH - Tam Nghĩa,1020,Thành phố Đà Nẵng
+1537,28626,BHX_NBI_DHL - Đông Hoa Lư ( Chợ Bợi ),1014,Tỉnh Ninh Bình
+1538,4877,BHX_AGI_PTA - Thửa 106 Phú Mỹ,1031,Tỉnh An Giang
+1539,28658,BHX_DTH_LHU - Long Hưng (Chợ Bưng),1029,Tỉnh Đồng Tháp
+1540,14562,BHX_CTH_NKI - 128 Đường 3 Tháng 2,1032,Thành phố Cần Thơ
+1541,15594,BHX_THO_THO - Nguyễn Trãi,1015,Tỉnh Thanh Hóa
+1542,6135,BHX_STR_VCH - Thửa 606 Lai Hòa,1032,Thành phố Cần Thơ
+1543,1633,BHX_HCM_BTA - 103 Mã Lò,1027,Thành phố Hồ Chí Minh
+1544,5951,BHX_BDU_BBA - Thửa 257 Hưng Hòa,1027,Thành phố Hồ Chí Minh
+1545,15732,BHX_DLA_CDA - Cuôr Đăng,1024,Tỉnh Đắk Lắk
+1546,28044,BHX_HCM_SGO - 76 Nguyễn Văn Thủ,1027,Thành phố Hồ Chí Minh
+1547,30078,BHX_HCM_TPH - 196 Độc Lập,1027,Thành phố Hồ Chí Minh
+1548,4677,BHX_HCM_BCH - F7/9 Trần Văn Giàu,1027,Thành phố Hồ Chí Minh
+1549,14298,BHX_DON_LTH - Văn Hải,1026,Tỉnh Đồng Nai
+1550,15429,BHX_HGI_VTH - Kho Lạnh Thốt Nốt (HUB),1032,Thành phố Cần Thơ
+1551,28295,BHX_AGI_CLG - Mỹ Hiệp,1031,Tỉnh An Giang
+1552,6192,BHX_TGI_CLA - Bình Thuận (Tam Bình),1029,Tỉnh Đồng Tháp
+1553,5217,BHX_CTH_NKI - 110 Nguyễn Thị Minh Khai (Chợ An Lạc),1032,Thành phố Cần Thơ
+1554,4440,"BHX_BTR_CTH - Thửa 203, 204 Tiên Thủy",1030,Tỉnh Vĩnh Long
+1555,6117,BHX_HCM_Q08 - 1879 Phạm Thế Hiển,1027,Thành phố Hồ Chí Minh
+1556,4395,BHX_DON_NTR - Tổ 9 Ấp 3 Hiệp Phước,1026,Tỉnh Đồng Nai
+1557,8927,BHX_HCM_BTA - 228 Lê Văn Quới,1027,Thành phố Hồ Chí Minh
+1558,28137,BHX_TNI_BMI - Kho Đóng Gói Tây Ninh (HUB),1028,Tỉnh Tây Ninh
+1559,28553,BHX_NAN_VPH - Nguyễn Trãi,1016,Tỉnh Nghệ An
+1560,9941,BHX_DON_CMY - Bảo Bình,1026,Tỉnh Đồng Nai
+1561,2477,BHX_HCM_HMO - 23/1A Ấp 6 Xuân Thới Sơn,1027,Thành phố Hồ Chí Minh
+1562,3825,BHX_HCM_HMO - 26/2 Đông Lân,1027,Thành phố Hồ Chí Minh
+1563,28308,BHX_DON_DQU - Gia Canh,1026,Tỉnh Đồng Nai
+1564,30031,BHX_KGI_CTH - Kho Đóng Gói Kiên Giang (HUB),1031,Tỉnh An Giang
+1565,15510,BHX_BRV_VTA - Lưu Chí Hiếu,1027,Thành phố Hồ Chí Minh
+1566,15110,BHX_LAN_TTH - Mỹ Thạnh,1028,Tỉnh Tây Ninh
+1567,6880,BHX_CTH_BTH - 8 Đồng Văn Cống,1032,Thành phố Cần Thơ
+1568,14846,BHX_HCM_BCH - khu Dân Cư 13C,1027,Thành phố Hồ Chí Minh
+1569,28573,BHX_DON_LHU - Nguyễn Văn Tỏ,1026,Tỉnh Đồng Nai
+1570,8873,BHX_AGI_TBI - An Hảo,1031,Tỉnh An Giang
+1571,5154,BHX_BDU_TAN - Thửa 63 Khu Phố Bình Phú,1027,Thành phố Hồ Chí Minh
+1572,13837,BHX_CTH_PDI - Trường Long,1032,Thành phố Cần Thơ
+1573,6496,BHX_CMA_DDO - Tạ An Khương,1033,Tỉnh Cà Mau
+1574,6376,BHX_DLA_BHO - Bình Thành 5 (Bình Thuận),1024,Tỉnh Đắk Lắk
+1575,7250,BHX_KGI_RGI - 18B Nguyễn Cư Trinh Nối Dài,1031,Tỉnh An Giang
+1576,14740,BHX_HCM_GVA - 855 Thống Nhất,1027,Thành phố Hồ Chí Minh
+1577,8750,BHX_BRV_VTA - 164 Bình Giã,1027,Thành phố Hồ Chí Minh
+1578,3983,BHX_BDU_TAN - 213/1 Thủ Khoa Huân,1027,Thành phố Hồ Chí Minh
+1579,29753,BHX_HCM_VTA - Visip 2A Mở Rộng,1027,Thành phố Hồ Chí Minh
+1580,5120,BHX_DTH_THO - Thửa 71 Sa Rài,1029,Tỉnh Đồng Tháp
+1581,13616,BHX_HCM_Q01 - 54 Bà Lê Chân,1027,Thành phố Hồ Chí Minh
+1582,5017,BHX_AGI_CMO - Thửa 4396 Long Hòa,1031,Tỉnh An Giang
+1583,8881,BHX_LAN_DHO - Thửa 499 Đức Lập Thượng,1028,Tỉnh Tây Ninh
+1584,27943,BHX_HUE_TXU -  485 Bùi Thị Xuân,1019,Thành phố Huế
+1585,4134,BHX_HCM_Q10 - 97 Hòa Hưng,1027,Thành phố Hồ Chí Minh
+1586,28892,BHX_LDO_XHU - 71 Trương Công Định,1025,Tỉnh Lâm Đồng
+1587,14375,BHX_HCM_Q06 - 56A Lê Quang Sung,1027,Thành phố Hồ Chí Minh
+1588,6184,BHX_HCM_TDU - 2/1 Lã Xuân Oai,1027,Thành phố Hồ Chí Minh
+1589,14929,BHX_NAN_VIN - Nghi Thái,1016,Tỉnh Nghệ An
+1590,4450,BHX_TNI_CTH - Thửa 470 Khu phố 2 (Chợ Cao Xá),1028,Tỉnh Tây Ninh
+1591,12797,BHX_BTR_GTR - Tân Hào,1030,Tỉnh Vĩnh Long
+1592,6672,BHX_TNI_TBA - Lộc An (Trảng Bàng),1028,Tỉnh Tây Ninh
+1593,10320,BHX_DLA_KBU - Pơng Drang,1024,Tỉnh Đắk Lắk
+1594,5094,BHX_CTH_OMO - 1094 QL91 Châu Văn Liêm,1032,Thành phố Cần Thơ
+1595,202,BHX_HCM_BTA - 473/4A Tỉnh Lộ 10,1027,Thành phố Hồ Chí Minh
+1596,30027,BHX_HCM_VTA - đường N11,1027,Thành phố Hồ Chí Minh
+1597,4412,BHX_LAN_TAN - Thửa 27 Phường 5,1028,Tỉnh Tây Ninh
+1598,28559,BHX_CTH_XPH - Xà Phiên,1032,Thành phố Cần Thơ
+1599,4219,BHX_BDU_TDM - Thửa 99-100 Phú Thọ (Chợ Võ Minh Đức),1027,Thành phố Hồ Chí Minh
+1600,6379,BHX_CMA_CMA - Bà Điều (Lý Văn Lâm),1033,Tỉnh Cà Mau
+1601,30342,BHX_HCM_BTA - Kho Đóng Gói Vĩnh Lộc (HUB),1027,Thành phố Hồ Chí Minh
+1602,28288,BHX_HYE_DQU - Đông Quan,1013,Tỉnh Hưng Yên
+1603,9995,BHX_BTH_HTB - Hàm Hiệp,1025,Tỉnh Lâm Đồng
+1604,7104,BHX_LDO_BLA - Quốc Lộ 55 Lộc Thành,1025,Tỉnh Lâm Đồng
+1605,14764,BHX_HUE_QDI - Nguyễn Vịnh,1019,Thành phố Huế
+1606,15521,BHX_HCM_Q07 - 70/3 BisTân Mỹ,1027,Thành phố Hồ Chí Minh
+1607,14690,BHX_BDU_BCA - Kho Lạnh Trần Đại Nghĩa (HUB),1027,Thành phố Hồ Chí Minh
+1608,7670,BHX_HCM_TPH - 173 Thoại Ngọc Hầu,1027,Thành phố Hồ Chí Minh
+1609,7667,BHX_LDO_BLA - Thửa 336 Lộc Nam,1025,Tỉnh Lâm Đồng
+1610,6774,BHX_LAN_CDU - Long Hựu Đông (Chợ Kinh Nước Mặn),1028,Tỉnh Tây Ninh
+1611,4641,BHX_TGI_CGA - Thửa 305 Bình Phú Quới,1029,Tỉnh Đồng Tháp
+1612,13799,BHX_HCM_Q07 - 97 Đường 79,1027,Thành phố Hồ Chí Minh
+1613,6586,BHX_HCM_HMO - 173A Đặng Thúc Vịnh,1027,Thành phố Hồ Chí Minh
+1614,6865,BHX_LAN_VHU - Khu Phố 4 Vĩnh Hưng,1028,Tỉnh Tây Ninh
+1615,6590,BHX_BTR_MCB - Phước Mỹ Trung (Ngã 3 Bền),1030,Tỉnh Vĩnh Long
+1616,28830,BHX_HYE_THD - Bùi Thị Xuân,1013,Tỉnh Hưng Yên
+1617,3589,BHX_HCM_TDU - 1267 Tỉnh Lộ 43,1027,Thành phố Hồ Chí Minh
+1618,3771,BHX_HCM_BTH - 134 Đường D1,1027,Thành phố Hồ Chí Minh
+1619,14273,BHX_QNA_TPH - Tiên Bình,1020,Thành phố Đà Nẵng
+1620,3111,BHX_HCM_Q12 - Số 4-6 Đường APĐ01 (An Phú Đông),1027,Thành phố Hồ Chí Minh
+1621,28889,BHX_NBI_LTH - Lai Thành,1014,Tỉnh Ninh Bình
+1622,4901,BHX_BRV_VTA - 596 Trương Công Định,1027,Thành phố Hồ Chí Minh
+1623,28644,BHX_LDO_THI - Tà Hine,1025,Tỉnh Lâm Đồng
+1624,6086,BHX_BRV_XMO - 224/6 Phước Hòa (Phước Bửu),1027,Thành phố Hồ Chí Minh
+1625,4821,BHX_AGI_CMO - Thửa 34 Hội An,1031,Tỉnh An Giang
+1626,6602,BHX_VLO_LHO - Thanh Đức (Ngã 4 Phà Đình Khao),1030,Tỉnh Vĩnh Long
+1627,4761,BHX_CTH_OMO - Thửa 23 Thới Long,1032,Thành phố Cần Thơ
+1628,28943,BHX_NBI_DVA - Thần Nữ,1014,Tỉnh Ninh Bình
+1629,5686,BHX_KGI_ABI - Ấp Bảy Chợ,1031,Tỉnh An Giang
+1630,14723,BHX_THO_QXU - Tố Hữu,1015,Tỉnh Thanh Hóa
+1631,14582,BHX_NAN_VIN - 81 Đốc Thiết,1016,Tỉnh Nghệ An
+1632,28005,BHX_VLO_NLO - Nhị Long,1030,Tỉnh Vĩnh Long
+1633,6258,BHX_HGI_CTH - Đông Thạnh (Chợ Cái Chanh),1032,Thành phố Cần Thơ
+1634,6971,BHX_LAN_MHO - Ấp 2 Bình Phong Thạnh,1028,Tỉnh Tây Ninh
+1635,28061,BHX_THO_TTR - Tiên Trang,1015,Tỉnh Thanh Hóa
+1636,15755,BHX_DTH_THC - Chiến Thắng,1029,Tỉnh Đồng Tháp
+1637,14831,BHX_KHH_CRA - Cam Linh,1023,Tỉnh Khánh Hòa
+1638,14394,BHX_BDI_HNH - Hoài Hương,1022,Tỉnh Gia Lai
+1639,1523,BHX_HCM_BTA - Kho DC Vĩnh Lộc (Đổi -Trả NCC),1027,Thành phố Hồ Chí Minh
+1640,8018,BHX_DNG_GNG - Chu Văn An,1025,Tỉnh Lâm Đồng
+1641,30143,BHX_DON_LKH - Hoàng Diệu,1026,Tỉnh Đồng Nai
+1642,4499,BHX_LAN_CDU - Thửa 118 Cần Đước,1028,Tỉnh Tây Ninh
+1643,14123,BHX_QNA_NTH - Diêm Phổ,1020,Thành phố Đà Nẵng
+1644,9138,BHX_HCM_TDU - 80 Ngô Chí Quốc,1027,Thành phố Hồ Chí Minh
+1645,7033,BHX_DLA_EHL - Thôn 3 Ea Ral,1024,Tỉnh Đắk Lắk
+1646,15563,BHX_QBI_DHO - Kho Thịt Cá ITL Đà Nẵng (HUB),1018,Tỉnh Quảng Trị
+1647,14718,BHX_KGI_CTH - Bến Xe Rạch Sỏi,1031,Tỉnh An Giang
+1648,9498,BHX_AGI_CPH - Mỹ Đức,1031,Tỉnh An Giang
+1649,6768,BHX_BRV_XMO - Bình An (Bình Châu),1027,Thành phố Hồ Chí Minh
+1650,5134,BHX_BTH_TLI - Thửa 105 Lạc Tánh,1025,Tỉnh Lâm Đồng
+1651,6139,BHX_VLO_VLO - 6 Phó Cơ Điều,1030,Tỉnh Vĩnh Long
+1652,6732,BHX_DON_LTH - Ấp 6 Tân Hiệp,1026,Tỉnh Đồng Nai
+1653,15516,BHX_HUE_PXU - 17 Tản Đà,1019,Thành phố Huế
+1654,8798,BHX_BDU_PGI - Bình Thắng (An Bình),1027,Thành phố Hồ Chí Minh
+1655,6492,BHX_BLI_BLI - 328/29A Cao Văn Lầu,1033,Tỉnh Cà Mau
+1656,6238,BHX_KGI_KLU - Quốc Lộ 80 (Ngã Ba),1031,Tỉnh An Giang
+1657,1532,BHX_HCM_BTA - 601 Tên Lửa,1027,Thành phố Hồ Chí Minh
+1658,3915,BHX_DON_BHO - 203 Bùi Văn Hòa,1026,Tỉnh Đồng Nai
+1659,7758,BHX_HCM_GVA - 2 Lê Lợi,1027,Thành phố Hồ Chí Minh
+1660,14388,BHX_QNA_HAN - 342 Cửa Đại,1020,Thành phố Đà Nẵng
+1661,15625,BHX_HCM_Q07 - KDC Phú Mỹ,1027,Thành phố Hồ Chí Minh
+1662,6777,BHX_DON_TBO - 235 Yên Thế,1026,Tỉnh Đồng Nai
+1663,14135,BHX_HCM_TDU - 314 Võ Văn Hát,1027,Thành phố Hồ Chí Minh
+1664,6429,BHX_CMA_CNU - Khóm 2 Cái Nước,1033,Tỉnh Cà Mau
+1665,4745,BHX_HCM_BTH - 8 Bình Lợi,1027,Thành phố Hồ Chí Minh
+1666,4771,BHX_DTH_TMU - Thửa 166 Mỹ An,1029,Tỉnh Đồng Tháp
+1667,14558,BHX_KGI_GRI - Giồng Riềng,1031,Tỉnh An Giang
+1668,14321,BHX_BDI_HNH - Tam Quan Bắc,1022,Tỉnh Gia Lai
+1669,14454,BHX_QTR_DHA - 78 Lý Thường Kiệt,1018,Tỉnh Quảng Trị
+1670,28646,BHX_AGI_VHO - Nhà Ngang,1031,Tỉnh An Giang
+1671,27989,BHX_DLA_THO - Mỹ Thạnh Trung 1,1024,Tỉnh Đắk Lắk
+1672,4979,BHX_HGI_PHI - Thửa 192 Tân Hiệp,1032,Thành phố Cần Thơ
+1673,6878,BHX_LAN_DHO - Đức Hạnh 2 (Đức Lập Hạ),1028,Tỉnh Tây Ninh
+1674,13415,BHX_HCM_BTA - Kho Trả NCC AUTOMATED COLD STORE,1027,Thành phố Hồ Chí Minh
+1675,15601,BHX_HCM_BCH - Lại Hùng Cường,1027,Thành phố Hồ Chí Minh
+1676,9491,BHX_HCM_CCH - Tân Thông Hội,1027,Thành phố Hồ Chí Minh
+1677,14265,BHX_HCM_Q07 - 41 Đường N1,1027,Thành phố Hồ Chí Minh
+1678,29941,BHX_HCM_LTR - 158B Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+1679,4593,BHX_HCM_CCH - Số 847 Tỉnh Lộ 7,1027,Thành phố Hồ Chí Minh
+1680,5010,BHX_DON_DQU - Số 1 ĐT763 Suối Nho,1026,Tỉnh Đồng Nai
+1681,13984,BHX_HCM_Q07 - 95-97 Đường số 15,1027,Thành phố Hồ Chí Minh
+1682,28798,BHX_NBI_YYE - Vạn Điểm,1014,Tỉnh Ninh Bình
+1683,28095,BHX_AGI_VXU - Vĩnh Xương,1031,Tỉnh An Giang
+1684,10137,BHX_HCM_BTA - 199 Trần Thanh Mại,1027,Thành phố Hồ Chí Minh
+1685,1864,BHX_HCM_BTA - 18 Phạm Đăng Giảng,1027,Thành phố Hồ Chí Minh
+1686,4991,BHX_BPH_DXO - Thửa 383 QL14 Tân Thành,1026,Tỉnh Đồng Nai
+1687,6130,BHX_TNI_GDA - Ấp 4 Bàu Đồn,1028,Tỉnh Tây Ninh
+1688,9556,BHX_HCM_TDU - 141 Đỗ Xuân Hợp (HUB),1027,Thành phố Hồ Chí Minh
+1689,6558,BHX_DON_XLO - 378 Trung Tín (Xuân Trường),1026,Tỉnh Đồng Nai
+1690,5152,BHX_STR_KSA - 06 Hương Lộ 6 (Chợ Kế Sách),1032,Thành phố Cần Thơ
+1691,9416,BHX_HCM_HMO - 232 Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+1692,14553,BHX_NAN_NDA - Nam Đàn,1016,Tỉnh Nghệ An
+1693,15647,BHX_DON_LKH - Ngô Quyền,1026,Tỉnh Đồng Nai
+1694,15659,BHX_HTI_CLO - Can Lộc ( QL1A),1017,Tỉnh Hà Tĩnh
+1695,14126,BHX_QNG_TNG - La Hà,1021,Tỉnh Quảng Ngãi
+1696,6370,BHX_HCM_BTA - 27 Đường Số 5,1027,Thành phố Hồ Chí Minh
+1697,9734,BHX_LDO_DTR - Hiệp Thạnh,1025,Tỉnh Lâm Đồng
+1698,13741,BHX_HCM_Q07 - 32 Đường số 6,1027,Thành phố Hồ Chí Minh
+1699,15085,BHX_DNO_DRL - Đắk Sin,1025,Tỉnh Lâm Đồng
+1700,6109,BHX_LDO_BLO - 20 Nguyễn Công Trứ,1025,Tỉnh Lâm Đồng
+1701,6040,BHX_DON_LTH - Long Phú (Phước Thái),1026,Tỉnh Đồng Nai
+1702,14996,BHX_GLA_AYU - 157 Lê Hồng Phong,1022,Tỉnh Gia Lai
+1703,14660,BHX_NAN_VIN - Hưng Lộc ( Chợ Cọi),1016,Tỉnh Nghệ An
+1704,9984,BHX_HCM_Q12 - 88 Vườn Lài Nối Dài,1027,Thành phố Hồ Chí Minh
+1705,10506,BHX_KGI_RGI -  An Hoà,1031,Tỉnh An Giang
+1706,28664,BHX_QNG_TPH - Kho DC Quảng Ngãi (Đổi -Trả NCC),1021,Tỉnh Quảng Ngãi
+1707,27956,BHX_DNA_HXU - 315-317 Văn Tiến Dũng,1020,Thành phố Đà Nẵng
+1708,14757,BHX_THO_THO - 25-27 Trường Thi,1015,Tỉnh Thanh Hóa
+1709,9288,BHX_BTH_HTB - Ma Lâm,1025,Tỉnh Lâm Đồng
+1710,4998,BHX_DON_VCU - 22 Đường 767 Vĩnh An,1026,Tỉnh Đồng Nai
+1711,15714,BHX_NAN_THO - Nghĩa Xuân,1016,Tỉnh Nghệ An
+1712,28600,BHX_NAN_ACH - Diễn Trung ( Chợ Chiều ),1016,Tỉnh Nghệ An
+1713,28627,BHX_GLA_IKO - Ia Ko,1022,Tỉnh Gia Lai
+1714,10125,BHX_HCM_BTA - 532 Tỉnh Lộ 10,1027,Thành phố Hồ Chí Minh
+1715,6593,BHX_CTH_NKI - 36/46 Trần Việt Châu (Chợ An Hòa),1032,Thành phố Cần Thơ
+1716,14381,BHX_HCM_Q10 - F4-F4C Trường Sơn,1027,Thành phố Hồ Chí Minh
+1717,5452,BHX_BLI_HDA - Ấp Nội Ô Ngan Dừa,1033,Tỉnh Cà Mau
+1718,28713,BHX_NBI_HXU - Hải Hoà,1014,Tỉnh Ninh Bình
+1719,28752,BHX_NAN_QMA - Quỳnh Xuân,1016,Tỉnh Nghệ An
+1720,14754,BHX_DNA_TKH - 50 Phạm Văn Nghị,1020,Thành phố Đà Nẵng
+1721,28030,BHX_HCM_TMT - 48A Trung Mỹ Tây 2A,1027,Thành phố Hồ Chí Minh
+1722,4548,BHX_HCM_CCH - 130 Nguyễn Văn Khạ,1027,Thành phố Hồ Chí Minh
+1723,28812,BHX_CMA_TPH - Chợ Hội,1033,Tỉnh Cà Mau
+1724,15219,BHX_BLI_VLO - Kho Lạnh Thốt Nốt (HUB),1033,Tỉnh Cà Mau
+1725,4534,BHX_VLO_VLI - 160K Nam Kỳ Khởi Nghĩa (Chợ Vũng Liêm),1030,Tỉnh Vĩnh Long
+1726,8346,BHX_BDU_DAN - Thửa 4226 Đông B,1027,Thành phố Hồ Chí Minh
+1727,9215,BHX_HCM_BTA - 36 Đường số 54,1027,Thành phố Hồ Chí Minh
+1728,27905,BHX_HCM_BCH - Lovera Vista,1027,Thành phố Hồ Chí Minh
+1729,28542,BHX_HYE_LDA - Kho Nhập Khẩu Đổi Trả (AJHY),1013,Tỉnh Hưng Yên
+1730,28715,BHX_CMA_VMY - Vĩnh Bình,1033,Tỉnh Cà Mau
+1731,15816,BHX_DON_BPH - Bình Phước,1026,Tỉnh Đồng Nai
+1732,27973,BHX_HCM_TAN - 04 Lê Văn Khương,1027,Thành phố Hồ Chí Minh
+1733,1374,BHX_HCM_BTA - 201 Gò Xoài,1027,Thành phố Hồ Chí Minh
+1734,15218,BHX_CMA_CMA - Kho Lạnh Thốt Nốt (HUB),1033,Tỉnh Cà Mau
+1735,14555,BHX_HCM_Q12 - TX13,1027,Thành phố Hồ Chí Minh
+1736,28253,BHX_HTI_TLA - Thạch Lạc,1017,Tỉnh Hà Tĩnh
+1737,8535,BHX_HCM_BCH - Thửa 436 (Chợ Phú Lạc),1027,Thành phố Hồ Chí Minh
+1738,2333,BHX_HCM_HMO - 35/1B Phan Văn Hớn,1027,Thành phố Hồ Chí Minh
+1739,15114,BHX_THO_THO - Đông Sơn,1015,Tỉnh Thanh Hóa
+1740,14150,BHX_QNA_DBA - Điện Ngọc,1020,Thành phố Đà Nẵng
+1741,15737,BHX_GLA_IGR - 319 Hùng Vương,1022,Tỉnh Gia Lai
+1742,30075,BHX_HCM_TKH - Tô Vĩnh Diện,1027,Thành phố Hồ Chí Minh
+1743,4893,BHX_HCM_NBE - 23/1B Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+1744,6996,BHX_TGI_GCD - 61 Ấp Chợ (Chợ Tân Thành),1029,Tỉnh Đồng Tháp
+1745,5815,BHX_TNI_TCH - Ấp Tân Tây (Chợ Tân Hưng),1028,Tỉnh Tây Ninh
+1746,15586,BHX_QTR_BTR - TDP Phú Quý,1018,Tỉnh Quảng Trị
+1747,2535,BHX_HCM_Q12 - 10A/2 Trung Mỹ Tây,1027,Thành phố Hồ Chí Minh
+1748,8349,BHX_BRV_TTH - Thửa số 403 Phú Mỹ,1027,Thành phố Hồ Chí Minh
+1749,28179,BHX_NBI_TDI - Trần Phú,1014,Tỉnh Ninh Bình
+1750,15003,BHX_DON_NTR - Hiệp Phước,1026,Tỉnh Đồng Nai
+1751,14668,BHX_DTH_HNG - Thường Phước 1,1029,Tỉnh Đồng Tháp
+1752,28220,BHX_GLA_PTU -  Phú Túc,1022,Tỉnh Gia Lai
+1753,5151,BHX_STR_CLD - Thửa 40 Cù Lao Dung,1032,Thành phố Cần Thơ
+1754,7279,BHX_HCM_BCH - F1/59A Vĩnh Lộc A,1027,Thành phố Hồ Chí Minh
+1755,7201,BHX_KHH_DKH - Kho DC Diên Khánh (Đổi -Trả NCC),1023,Tỉnh Khánh Hòa
+1756,5139,BHX_BLI_BLI - 01 Ninh Bình,1033,Tỉnh Cà Mau
+1757,7918,BHX_BDU_DAN - Thửa 295 Tân Đông Hiệp,1027,Thành phố Hồ Chí Minh
+1758,6212,BHX_CTH_NKI - Thửa 424 Nguyễn Văn Cừ,1032,Thành phố Cần Thơ
+1759,8951,BHX_DON_NTR - Phước An,1026,Tỉnh Đồng Nai
+1760,8104,BHX_STR_MTU - Thửa 165 Huỳnh Hữu Nghĩa,1032,Thành phố Cần Thơ
+1761,4844,BHX_HCM_Q08 - 815 Phạm Thế Hiển,1027,Thành phố Hồ Chí Minh
+1762,8934,BHX_CTH_NKI - Hưng Lợi,1032,Thành phố Cần Thơ
+1763,6353,BHX_BTR_CTH - 104C An Hòa Thạnh,1030,Tỉnh Vĩnh Long
+1764,8031,BHX_LDO_DTR - Kho DC Đức Trọng (Đổi -Trả NCC),1025,Tỉnh Lâm Đồng
+1765,5102,BHX_DON_TBO - 483 QL1A Đông Hòa,1026,Tỉnh Đồng Nai
+1766,6891,BHX_LDO_LHA - Chợ Thăng Long,1025,Tỉnh Lâm Đồng
+1767,9640,BHX_LAN_CGI - Kho Lạnh AJ TOTAL,1028,Tỉnh Tây Ninh
+1768,28285,BHX_HYE_TTR - Thư Trì,1013,Tỉnh Hưng Yên
+1769,28942,BHX_NBI_LTK - Thi Sơn,1014,Tỉnh Ninh Bình
+1770,8866,BHX_HCM_Q07 - 793/51 Trần Xuân Soạn,1027,Thành phố Hồ Chí Minh
+1771,14397,BHX_BDI_TSO - 223 Quang Trung,1022,Tỉnh Gia Lai
+1772,14401,BHX_PYE_SHI - TT. Hai Riêng,1024,Tỉnh Đắk Lắk
+1773,6568,BHX_BTH_PTH - Khu Phố 3 Phú Trinh (Chợ Đồn),1025,Tỉnh Lâm Đồng
+1774,3520,BHX_HCM_Q06 - 224 Phạm Phú Thứ,1027,Thành phố Hồ Chí Minh
+1775,14720,BHX_HCM_TDU - 153-155-157 Đại Lộ 3,1027,Thành phố Hồ Chí Minh
+1776,28300,BHX_NBI_NDI - 46 Lê Hồng Phong,1014,Tỉnh Ninh Bình
+1777,6604,BHX_CMA_TVT - DT987A Trần Văn Thời,1033,Tỉnh Cà Mau
+1778,28064,BHX_TNI_TLO - Thạnh Lợi,1028,Tỉnh Tây Ninh
+1779,9738,BHX_KHH_NTR - Đường Số 4,1023,Tỉnh Khánh Hòa
+1780,27998,BHX_LDO_TTH - Trần Quý Cáp,1025,Tỉnh Lâm Đồng
+1781,28213,BHX_AGI_CMO - Kiến Thành,1031,Tỉnh An Giang
+1782,1969,BHX_HCM_BTA - 4423 Nguyễn Cửu Phú,1027,Thành phố Hồ Chí Minh
+1783,13776,BHX_DON_BHO - 208/7 Trần Văn Xã,1026,Tỉnh Đồng Nai
+1784,28581,BHX_KHO_NHO - Tỉnh Lộ 1A,1023,Tỉnh Khánh Hòa
+1785,6745,BHX_BDU_TUY - Ông Đông (Tân Hiệp),1027,Thành phố Hồ Chí Minh
+1786,10066,BHX_HCM_Q12 - Thạnh Xuân (TL 2005),1027,Thành phố Hồ Chí Minh
+1787,5206,BHX_BPH_PRI - Thôn 8 Long Hà,1026,Tỉnh Đồng Nai
+1788,7819,BHX_LDO_DLI - 775 Hùng Vương,1025,Tỉnh Lâm Đồng
+1789,15796,BHX_HCM_LBI - 685 Nguyễn Xiển,1027,Thành phố Hồ Chí Minh
+1790,15004,BHX_BTH_DLI - Trà Tân,1025,Tỉnh Lâm Đồng
+1791,7109,BHX_LDO_DLI - Quốc Lộ 20 (Hòa Ninh),1025,Tỉnh Lâm Đồng
+1792,14566,BHX_THO_NTH - Bến Sung,1015,Tỉnh Thanh Hóa
+1793,4362,BHX_VLO_TON - Số 13 Hựu Thành,1030,Tỉnh Vĩnh Long
+1794,28591,BHX_TNI_BLU - Kho Nhập Khẩu NECS (Đổi - Trả),1028,Tỉnh Tây Ninh
+1795,14143,BHX_BLI_BLI - 7A Trần Phú,1033,Tỉnh Cà Mau
+1796,15803,BHX_HCM_TPN - 172 Lê Văn Việt,1027,Thành phố Hồ Chí Minh
+1797,28037,BHX_LDO_THA - đường DT709,1025,Tỉnh Lâm Đồng
+1798,15617,BHX_NAN_NLO - Nghi Thạch,1016,Tỉnh Nghệ An
+1799,14461,BHX_DON_TPH - Tân Phú,1026,Tỉnh Đồng Nai
+1800,3238,BHX_HCM_TBI - 84 Bình Giã,1027,Thành phố Hồ Chí Minh
+1801,7169,BHX_HCM_CCH - 47 Phạm Văn Cội,1027,Thành phố Hồ Chí Minh
+1802,9178,BHX_BTH_DLI - 280 CMT8 (Chợ Võ Xu 2),1025,Tỉnh Lâm Đồng
+1803,6780,BHX_CMA_TBI - Trí Phải,1033,Tỉnh Cà Mau
+1804,15022,BHX_NAN_ASO - Anh Sơn,1016,Tỉnh Nghệ An
+1805,9272,BHX_HCM_TDU - 342 Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+1806,28732,BHX_DON_TBI - Biên Hòa,1026,Tỉnh Đồng Nai
+1807,6268,BHX_KHH_CLA - Dầu Sơn (Suối Tân),1023,Tỉnh Khánh Hòa
+1808,9248,BHX_HCM_Q11 - 331 Nguyễn Thị Nhỏ,1027,Thành phố Hồ Chí Minh
+1809,4854,BHX_DTH_CTH - Thửa 210 Phú Mỹ Hiệp,1029,Tỉnh Đồng Tháp
+1810,14977,BHX_PYE_THO - Sơn Thành Đông,1024,Tỉnh Đắk Lắk
+1811,4594,BHX_HCM_BCH - F2/29 Liên Ấp 2-6 (Vĩnh Lộc A),1027,Thành phố Hồ Chí Minh
+1812,6692,BHX_KHH_NTR - 28 Hoàng Diệu,1023,Tỉnh Khánh Hòa
+1813,28263,BHX_HCM_BPH - 24 Lý Chiêu Hoàng,1027,Thành phố Hồ Chí Minh
+1814,13739,BHX_HCM_TPH - 96 Trịnh Đình Trọng,1027,Thành phố Hồ Chí Minh
+1815,9166,BHX_HGI_CTA - Kho Châu Thành A (HUB),1032,Thành phố Cần Thơ
+1816,30126,BHX_DON_LBI -  Long Bình,1026,Tỉnh Đồng Nai
+1817,14004,BHX_CTH_BTH - 115 Cách Mạng Tháng 8,1032,Thành phố Cần Thơ
+1818,9475,BHX_KHH_NTR - Ngọc Hiệp,1023,Tỉnh Khánh Hòa
+1819,14138,BHX_QNG_QNG - Nguyễn Nghiêm,1021,Tỉnh Quảng Ngãi
+1820,28155,BHX_NBI_DHL - Kho Thịt Cá  AJ Hưng Yên (HUB),1014,Tỉnh Ninh Bình
+1821,6456,BHX_BPH_BGM - Thôn 4 Đa Kia,1026,Tỉnh Đồng Nai
+1822,6191,BHX_TGI_GCD - Thửa 18 Tân Phước,1029,Tỉnh Đồng Tháp
+1823,10110,BHX_HCM_BTA - 295 Tân Hoà Đông,1027,Thành phố Hồ Chí Minh
+1824,4951,BHX_TNI_DMC - Thửa 356 Ninh Hiệp,1028,Tỉnh Tây Ninh
+1825,28670,BHX_HCM_TDU - 20 đường số 3,1027,Thành phố Hồ Chí Minh
+1826,15820,BHX_NAN_TVI - Trần Hưng Đạo,1016,Tỉnh Nghệ An
+1827,29988,BHX_HPH_TPH - Thanh Quang ( Chợ Rồng),1012,Thành phố Hải Phòng
+1828,9214,BHX_HCM_CCH - Phạm Văn Cội,1027,Thành phố Hồ Chí Minh
+1829,13839,BHX_HCM_GVA - 280A Dương Quảng Hàm,1027,Thành phố Hồ Chí Minh
+1830,5034,BHX_BDU_TAN - Thửa 1133 Đông Ba,1027,Thành phố Hồ Chí Minh
+1831,6269,BHX_KHH_CLA - Yên Hòa (Cam Đức),1023,Tỉnh Khánh Hòa
+1832,4498,BHX_LAN_DHO - Thửa 61 Đức Hòa Hạ,1028,Tỉnh Tây Ninh
+1833,15710,BHX_HUE_TXU - 97 Minh Mạng,1019,Thành phố Huế
+1834,4386,BHX_CTH_TLA - Thửa 186 Thới Thuận A (Chợ Thới Lai),1032,Thành phố Cần Thơ
+1835,28272,BHX_NAN_VAN - Vạn An,1016,Tỉnh Nghệ An
+1836,30193,BHX_GLA_BAN - Bình Hoà,1022,Tỉnh Gia Lai
+1837,28921,BHX_CMA_THU - Tân Hưng,1033,Tỉnh Cà Mau
+1838,5054,BHX_LAN_DHO - Thửa 108 Lộc Giang,1028,Tỉnh Tây Ninh
+1839,27957,BHX_LDO_PTH - Võ Văn Kiệt,1025,Tỉnh Lâm Đồng
+1840,6054,BHX_BPH_BGM - Thôn 2B Bình Thắng,1026,Tỉnh Đồng Nai
+1841,6295,BHX_BRV_XMO - TL328 Bàu Lâm,1027,Thành phố Hồ Chí Minh
+1842,14657,BHX_NAN_VIN - 23 Nguyễn Trung Ngạn,1016,Tỉnh Nghệ An
+1843,4492,BHX_DON_NTR - 2584 Lý Thái Tổ (Chợ Phước Lý),1026,Tỉnh Đồng Nai
+1844,1885,BHX_HCM_TPH - 363 Lê Trọng Tấn,1027,Thành phố Hồ Chí Minh
+1845,6902,BHX_BPH_BDA - Quốc Lộ 20C Thống Nhất,1026,Tỉnh Đồng Nai
+1846,30168,BHX_HCM_TPH - 192 Trịnh Đình Trọng,1027,Thành phố Hồ Chí Minh
+1847,28086,BHX_HTI_VXU - Ngã 3 Giang,1017,Tỉnh Hà Tĩnh
+1848,14428,BHX_HCM_BTA - 162 – 164 Đường Số 1,1027,Thành phố Hồ Chí Minh
+1849,2191,BHX_HCM_HMO - 98/1A Lê Lợi,1027,Thành phố Hồ Chí Minh
+1850,4221,BHX_DON_BHO - 45 Hoàng Bá Bích,1026,Tỉnh Đồng Nai
+1851,5443,BHX_TNI_DMC - Ấp Thuận Hòa (Ngã 3 Đất Sét),1028,Tỉnh Tây Ninh
+1852,13855,BHX_BDU_TUY - Vĩnh Tân,1027,Thành phố Hồ Chí Minh
+1853,15559,BHX_TNI_TCH - Suối Ngô,1028,Tỉnh Tây Ninh
+1854,6055,BHX_KGI_CTH - Quốc Lộ 61 (Minh Lương),1031,Tỉnh An Giang
+1855,8222,BHX_DON_CMY - Thửa 304 Xuân Đông,1026,Tỉnh Đồng Nai
+1856,8102,BHX_KGI_GQU - 49 Đường 30/4,1031,Tỉnh An Giang
+1857,4001,BHX_LAN_CDU - Thửa 197 Long Hòa,1028,Tỉnh Tây Ninh
+1858,14985,BHX_BLI_BLI - Võ Thị Sáu,1033,Tỉnh Cà Mau
+1859,14994,BHX_QNG_STI - Tịnh Bắc,1021,Tỉnh Quảng Ngãi
+1860,7159,BHX_BDU_BTU - Ấp 2 Tân Thành,1027,Thành phố Hồ Chí Minh
+1861,5690,BHX_DTH_LVU - Thửa 2439 Lai Vung,1029,Tỉnh Đồng Tháp
+1862,6262,BHX_KHH_NTR - 63 Võ Trứ,1023,Tỉnh Khánh Hòa
+1863,8564,BHX_KHH_NTR - 01 Phước Long,1023,Tỉnh Khánh Hòa
+1864,29759,BHX_HYE_NTA - Phong Lẫm (Chợ Hồ),1013,Tỉnh Hưng Yên
+1865,30060,BHX_HPH_TPH - Hợp Tiến ( chợ La Đôi),1012,Thành phố Hải Phòng
+1866,28111,BHX_LDO_HTA - 356 Cách Mạng Tháng Tám,1025,Tỉnh Lâm Đồng
+1867,4340,BHX_TNI_TNI - Thửa 163 Khu phố 2 (Chợ Phường 2),1028,Tỉnh Tây Ninh
+1868,3043,BHX_HCM_HMO - B69/11 Nguyễn Thị Sóc,1027,Thành phố Hồ Chí Minh
+1869,15051,BHX_BTH_TPH - Thống Nhất,1025,Tỉnh Lâm Đồng
+1870,13991,BHX_BDU_DAN - 28 An Bình,1027,Thành phố Hồ Chí Minh
+1871,4382,BHX_DON_NTR - Tổ 31 Phước Thiền (Chợ Bắc) - Thí nghiệm,1026,Tỉnh Đồng Nai
+1872,28897,BHX_NBI_LHA - Hoà Ngãi,1014,Tỉnh Ninh Bình
+1873,28751,BHX_CMA_KAN - Khai Hoang,1033,Tỉnh Cà Mau
+1874,14749,BHX_NAN_YTH - Hợp Thành,1016,Tỉnh Nghệ An
+1875,14269,BHX_QNG_MDU - Đức Lân,1021,Tỉnh Quảng Ngãi
+1876,5272,BHX_BTR_TPH - Thửa 36 Thạnh Trị Hạ,1030,Tỉnh Vĩnh Long
+1877,4582,BHX_DON_BHO - 1888/12 Phan Đình Phùng (Chợ Cổng 2),1026,Tỉnh Đồng Nai
+1878,4532,BHX_HGI_CTA - Thửa 848-850 Tân Phú A (Chợ Cái Tắc),1032,Thành phố Cần Thơ
+1879,13838,BHX_VLO_BMI - Thành Phước,1030,Tỉnh Vĩnh Long
+1880,7011,BHX_DON_LTH - Ấp 5 Tam An,1026,Tỉnh Đồng Nai
+1881,6341,BHX_LAN_CGI - Thửa 163 Phước Lại,1028,Tỉnh Tây Ninh
+1882,9145,BHX_AGI_CDO - Châu Phú B,1031,Tỉnh An Giang
+1883,4704,BHX_VLO_VLO - 62 Trần Đại Nghĩa,1030,Tỉnh Vĩnh Long
+1884,14484,BHX_BDU_BCA - Chánh Phú Hoà,1027,Thành phố Hồ Chí Minh
+1885,8901,BHX_LDO_LHA - Quảng Đức,1025,Tỉnh Lâm Đồng
+1886,3610,BHX_HCM_Q12 - 597 Nguyễn Văn Quá,1027,Thành phố Hồ Chí Minh
+1887,2099,BHX_HCM_BTA - 423 Bình Thành,1027,Thành phố Hồ Chí Minh
+1888,1829,BHX_HCM_BTA - 138 Đường số 6,1027,Thành phố Hồ Chí Minh
+1889,27921,BHX_HCM_GVA - Cityland Park Hills,1027,Thành phố Hồ Chí Minh
+1890,15692,BHX_DLA_PYE - 412 Nguyễn Văn Linh,1024,Tỉnh Đắk Lắk
+1891,6879,BHX_CTH_OMO - Châu Văn Liêm,1032,Thành phố Cần Thơ
+1892,15757,BHX_HCM_VLO - Liên Ấp 6-2,1027,Thành phố Hồ Chí Minh
+1893,14841,BHX_KGI_CTH - Minh Lương,1031,Tỉnh An Giang
+1894,3773,BHX_HCM_TDU - 07 Ngô Quyền,1027,Thành phố Hồ Chí Minh
+1895,28759,BHX_HCM_BHU - 74 Đường 11,1027,Thành phố Hồ Chí Minh
+1896,28082,BHX_AGI_THU - Kinh Ranh,1031,Tỉnh An Giang
+1897,15787,BHX_TNI_LCH - Long Châu,1028,Tỉnh Tây Ninh
+1898,27944,BHX_AGI_VGI - Vĩnh Gia,1031,Tỉnh An Giang
+1899,7685,BHX_DNG_DMI - Ngã Ba Đức Mạnh,1025,Tỉnh Lâm Đồng
+1900,9160,BHX_VLO_VLI - Trung Ngãi,1030,Tỉnh Vĩnh Long
+1901,28934,BHX_QNG_DCA - Chợ Duy Tân,1021,Tỉnh Quảng Ngãi
+1902,30165,BHX_DTH_TPH - Tân Hội,1029,Tỉnh Đồng Tháp
+1903,6617,BHX_DON_TBO - Cây Gáo (Thanh Bình),1026,Tỉnh Đồng Nai
+1904,28110,BHX_HCM_KHO - 43-45-47 Đường số 41,1027,Thành phố Hồ Chí Minh
+1905,3390,BHX_HCM_CCH - 149/30 Ấp Chợ (Trung An),1027,Thành phố Hồ Chí Minh
+1906,14964,BHX_QBI_DHO - 106 Hai Bà Trưng,1018,Tỉnh Quảng Trị
+1907,13627,BHX_HCM_Q11 - 119 Tuệ Tĩnh,1027,Thành phố Hồ Chí Minh
+1908,6622,BHX_DLA_BMT - 57 Nguyễn Viết Xuân,1024,Tỉnh Đắk Lắk
+1909,4765,BHX_TVI_CLO - Thửa 217 Càng Long,1030,Tỉnh Vĩnh Long
+1910,5356,BHX_BLI_HBI - 309 QL1A Vĩnh Mỹ B,1033,Tỉnh Cà Mau
+1911,4671,BHX_BPH_DXO - Thửa 216 Tiến Hưng,1026,Tỉnh Đồng Nai
+1912,7863,BHX_LDO_LHA - Liên Trung (Tân Hà),1025,Tỉnh Lâm Đồng
+1913,28747,BHX_THO_NLA - Lê Thánh Tông,1015,Tỉnh Thanh Hóa
+1914,4963,BHX_BDU_BCA - 18 DC6-NC2 Mỹ Phước,1027,Thành phố Hồ Chí Minh
+1915,28186,BHX_NAN_DCH - Diễn Phong,1016,Tỉnh Nghệ An
+1916,28154,BHX_NBI_DHL - Chành trung chuyển rau củ quả Ninh Bình (Hub),1014,Tỉnh Ninh Bình
+1917,9032,BHX_BDU_BCA - Tân Định,1027,Thành phố Hồ Chí Minh
+1918,14567,BHX_HCM_CCH - Phước Vĩnh An,1027,Thành phố Hồ Chí Minh
+1919,14689,BHX_TVI_TCU - Phước Hưng,1030,Tỉnh Vĩnh Long
+1920,5220,BHX_DON_CMY - Tổ 19 Xuân Đông,1026,Tỉnh Đồng Nai
+1921,29935,BHX_HCM_ALA - 659 Kinh Dương Vương,1027,Thành phố Hồ Chí Minh
+1922,14664,BHX_STR_STR - Hùng Vương,1032,Thành phố Cần Thơ
+1923,28746,BHX_THO_TNI - Tân Ninh,1015,Tỉnh Thanh Hóa
+1924,14100,BHX_DNA_TKH - 198 Nguyễn Phước Nguyên,1020,Thành phố Đà Nẵng
+1925,6573,BHX_BDU_TUY - Thửa 325 Uyên Hưng,1027,Thành phố Hồ Chí Minh
+1926,6008,BHX_HCM_GVA - 357 Lê Văn Thọ,1027,Thành phố Hồ Chí Minh
+1927,4524,BHX_TVI_CLO - Thửa 280 287 352 Tân An Chợ,1030,Tỉnh Vĩnh Long
+1928,9998,BHX_HCM_NBE - Phước Lộc,1027,Thành phố Hồ Chí Minh
+1929,14404,BHX_BDI_HNH - 355 đường 3/2,1022,Tỉnh Gia Lai
+1930,15456,BHX_DNA_LCH - Hoà Hiệp Nam (Cc Ori Garden),1020,Thành phố Đà Nẵng
+1931,8110,BHX_DON_XLO - Thửa 263 Xuân Hưng,1026,Tỉnh Đồng Nai
+1932,7112,BHX_TNI_DMC - Khởi Hà (Cầu Khởi),1028,Tỉnh Tây Ninh
+1933,4981,BHX_AGI_LXU - 349/3G Phạm Cự Lượng,1031,Tỉnh An Giang
+1934,4554,BHX_DTH_CLA - 702 Phạm Hữu Lầu,1029,Tỉnh Đồng Tháp
+1935,14318,BHX_KHH_CRA - Cam Phước Đông,1023,Tỉnh Khánh Hòa
+1936,29786,BHX_DLA_CMG - Ea Kpăm (Đường TL8),1024,Tỉnh Đắk Lắk
+1937,7882,BHX_HCM_Q07 - 60F Nguyễn Thị Thập,1027,Thành phố Hồ Chí Minh
+1938,7688,BHX_HCM_TDU - 94 Linh Trung,1027,Thành phố Hồ Chí Minh
+1939,14634,BHX_HCM_TDU - 9 Đường 138,1027,Thành phố Hồ Chí Minh
+1940,5413,BHX_TGI_CGA - Thửa 83 Mỹ Tịnh An (Chợ Tịnh Hà),1029,Tỉnh Đồng Tháp
+1941,6426,BHX_DTH_CLA - Phạm Hữu Lầu,1029,Tỉnh Đồng Tháp
+1942,30147,BHX_DLA_BMT - Kho Đóng Gói Buôn Ma Thuột (HUB),1024,Tỉnh Đắk Lắk
+1943,28126,BHX_NBI_BMI - Bình Minh,1014,Tỉnh Ninh Bình
+1944,4684,BHX_AGI_CPH - Thửa 145 Vĩnh Thuận (Chợ Vịnh Tre),1031,Tỉnh An Giang
+1945,6214,BHX_DLA_BMT - 110 Ama Khê,1024,Tỉnh Đắk Lắk
+1946,5245,BHX_TVI_TCA - Thửa 36 Tiểu Cần,1030,Tỉnh Vĩnh Long
+1947,28294,BHX_HYE_TBI - Thái Bình (chợ Mễ),1013,Tỉnh Hưng Yên
+1948,28546,BHX_NAN_QPH - Chợ Hàu ( Tiến Thuỷ ),1016,Tỉnh Nghệ An
+1949,4369,BHX_BDU_TAN - Thửa 382 An Phú (Chợ Mỹ Dung),1027,Thành phố Hồ Chí Minh
+1950,15035,BHX_PYE_PHO - Hoà Thắng,1024,Tỉnh Đắk Lắk
+1951,9523,BHX_HCM_BTH - 04 Trần Bình Trọng,1027,Thành phố Hồ Chí Minh
+1952,7867,BHX_BPH_DPH - Kho DC Đồng Phú (Đổi -Trả NCC),1026,Tỉnh Đồng Nai
+1953,5758,BHX_VLO_LHO - 414 Long Hồ,1030,Tỉnh Vĩnh Long
+1954,8221,BHX_DON_LTH - Thửa 56 Long Đức,1026,Tỉnh Đồng Nai
+1955,4853,BHX_LAN_CGI - Thửa 71 Cần Giuộc,1028,Tỉnh Tây Ninh
+1956,6362,BHX_BPH_BGM - ĐT760 Phú Văn,1026,Tỉnh Đồng Nai
+1957,4875,BHX_AGI_CTH - Thửa 12 Bình Hòa,1031,Tỉnh An Giang
+1958,4751,BHX_TNI_DMC - Thửa 125 Dương Minh Châu,1028,Tỉnh Tây Ninh
+1959,7666,BHX_LAN_CTH - Khu Phố 1 Tầm Vu,1028,Tỉnh Tây Ninh
+1960,9383,BHX_BDU_TUY - Thái Hòa,1027,Thành phố Hồ Chí Minh
+1961,8601,BHX_DON_XLO - Xuân Thọ,1026,Tỉnh Đồng Nai
+1962,5074,BHX_HCM_TDU - 102A Đường Số 9,1027,Thành phố Hồ Chí Minh
+1963,10358,BHX_HCM_Q07 -  665-667 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+1964,6530,BHX_DLA_KNA - 47 Xuân Hòa (Phú Xuân),1024,Tỉnh Đắk Lắk
+1965,5659,BHX_KHH_DKH - Thửa 1746 Diên An,1023,Tỉnh Khánh Hòa
+1966,6349,BHX_BTH_HTA - Khu phố 1 Tân Nghĩa (Chợ 46),1025,Tỉnh Lâm Đồng
+1967,10005,BHX_BDU_TUY - Tân Hiệp,1027,Thành phố Hồ Chí Minh
+1968,5487,BHX_BDU_TUY - Thửa 294 Hóa Nhựt,1027,Thành phố Hồ Chí Minh
+1969,9028,BHX_HCM_BTH - 01 Võ Trường Toản,1027,Thành phố Hồ Chí Minh
+1970,27945,BHX_CMA_HMY - Hưng Mỹ,1033,Tỉnh Cà Mau
+1971,14694,BHX_TTH_PVA - Vinh Thanh,1019,Thành phố Huế
+1972,4753,BHX_DON_TBO - 219 Đường 3 Tháng 2,1026,Tỉnh Đồng Nai
+1973,28760,BHX_HCM_ADO - 133-133G Nguyễn Chí Thanh,1027,Thành phố Hồ Chí Minh
+1974,15616,BHX_QTR_BTR - Phúc Trạch,1018,Tỉnh Quảng Trị
+1975,28811,BHX_AGI_HHU -  Hoà An,1031,Tỉnh An Giang
+1976,28178,BHX_DTH_VBI - Bình Tây,1029,Tỉnh Đồng Tháp
+1977,6310,BHX_KGI_KLU - Ba Hòn (Kiên Lương),1031,Tỉnh An Giang
+1978,7325,BHX_HCM_TDU - 581 Kha Vạn Cân,1027,Thành phố Hồ Chí Minh
+1979,3355,BHX_HCM_NBE - 532 Nguyễn Văn Tạo,1027,Thành phố Hồ Chí Minh
+1980,5415,BHX_BRV_BRI - Ấp Bắc (Hòa Long),1027,Thành phố Hồ Chí Minh
+1981,14576,BHX_THO_HNG - Hoằng Ngọc,1015,Tỉnh Thanh Hóa
+1982,30144,BHX_TNI_DHO - Đường Tỉnh 825,1028,Tỉnh Tây Ninh
+1983,10047,BHX_LAN_BLU - Lương Hoà,1028,Tỉnh Tây Ninh
+1984,4636,BHX_DTH_CTH - Thửa 107 Chợ Nha Mân,1029,Tỉnh Đồng Tháp
+1985,14526,BHX_DNA_CLE - Đinh Châu,1020,Thành phố Đà Nẵng
+1986,28630,BHX_HCM_TDM - CMT8 (chợ Cây Dừa),1027,Thành phố Hồ Chí Minh
+1987,10102,BHX_HCM_TDU - Long Bình,1027,Thành phố Hồ Chí Minh
+1988,6928,BHX_LDO_DDU - 220 Đường 2/4,1025,Tỉnh Lâm Đồng
+1989,13623,BHX_LDO_DTR - Kho Lạnh Trần Đại Nghĩa (HUB),1025,Tỉnh Lâm Đồng
+1990,6166,BHX_DON_TPH - 1459 Quốc Lộ 20 (Phú Xuân),1026,Tỉnh Đồng Nai
+1991,28027,BHX_AGI_ABI - Đông Yên,1031,Tỉnh An Giang
+1992,14335,BHX_DNA_CLE - 43 Nguyễn Đình Tứ,1020,Thành phố Đà Nẵng
+1993,14222,BHX_BDI_QNH - 165 Phan Bội Châu,1022,Tỉnh Gia Lai
+1994,14578,BHX_HGI_VTH - Phường 5,1032,Thành phố Cần Thơ
+1995,15721,BHX_LDO_HTH -  Phú Long,1025,Tỉnh Lâm Đồng
+1996,6190,BHX_TGI_CBE - Hậu Hoa (Hậu Thành),1029,Tỉnh Đồng Tháp
+1997,4729,BHX_BPH_PRI - Thửa 58 Bù Nho,1026,Tỉnh Đồng Nai
+1998,28311,BHX_NAN_TVI - Vinh Tân,1016,Tỉnh Nghệ An
+1999,9478,BHX_VLO_VLO - Phường 5,1030,Tỉnh Vĩnh Long
+2000,3612,BHX_HCM_TPH - 28 Trịnh Đình Thảo,1027,Thành phố Hồ Chí Minh
+2001,14551,BHX_STR_STR - Phường 3,1032,Thành phố Cần Thơ
+2002,10167,BHX_BDU_TAN - An Thạnh (KDC An Thạnh),1027,Thành phố Hồ Chí Minh
+2003,5311,BHX_DON_BHO - 67/5 An Bình,1026,Tỉnh Đồng Nai
+2004,14556,BHX_HCM_Q06 - 240/35+35A1 Nguyễn Văn Luông,1027,Thành phố Hồ Chí Minh
+2005,4985,BHX_DON_BHO - 159 Trương Định,1026,Tỉnh Đồng Nai
+2006,3393,BHX_HCM_Q07 - 148 Phạm Hữu Lầu,1027,Thành phố Hồ Chí Minh
+2007,6043,BHX_CTH_BTH - 48 Nguyễn Đệ,1032,Thành phố Cần Thơ
+2008,2111,BHX_HCM_TPH - 138 Lý Thánh Tông,1027,Thành phố Hồ Chí Minh
+2009,15595,BHX_QBI_BTR - Đại Trạch,1018,Tỉnh Quảng Trị
+2010,14758,BHX_THO_THO - TT Thiệu Hoá,1015,Tỉnh Thanh Hóa
+2011,6994,BHX_TNI_CTH - Thanh Hùng (Thanh Điền),1028,Tỉnh Tây Ninh
+2012,14383,BHX_BDI_PMY - Mỹ Chánh,1022,Tỉnh Gia Lai
+2013,4905,BHX_TGI_GCO - Thửa 297 Tân Trung,1029,Tỉnh Đồng Tháp
+2014,5101,BHX_BRV_DDO - 351 Phước Sơn,1027,Thành phố Hồ Chí Minh
+2015,4388,BHX_VLO_MTH - 2 Nguyễn Trãi (Cái Nhum),1030,Tỉnh Vĩnh Long
+2016,14778,BHX_KGI_GRI - Ngọc Chúc,1031,Tỉnh An Giang
+2017,14460,BHX_DNA_CLE - 322 Lê Quảng Chí,1020,Thành phố Đà Nẵng
+2018,15747,BHX_DTH_TPH - Thạnh Phú,1029,Tỉnh Đồng Tháp
+2019,10459,BHX_BTH_HTN - Kho XLCL Hàm Thuận Nam,1025,Tỉnh Lâm Đồng
+2020,14726,BHX_BPH_HQU - Đồng Nơ,1026,Tỉnh Đồng Nai
+2021,3683,BHX_BDU_DAN - Thửa 897 Thống Nhất 1,1027,Thành phố Hồ Chí Minh
+2022,15026,BHX_CTH_CRA - A10-5 Võ Nguyên Giáp,1032,Thành phố Cần Thơ
+2023,14930,BHX_HCM_Q12 - 180 - 182 Đông Hưng Thuận 02,1027,Thành phố Hồ Chí Minh
+2024,14621,BHX_HCM_HMO - 153 Trịnh Thị Miếng,1027,Thành phố Hồ Chí Minh
+2025,8558,BHX_HCM_HMO - 41/4B Xuân Thới Đông 2,1027,Thành phố Hồ Chí Minh
+2026,4788,BHX_BRV_VTA - 757 Bình Giã,1027,Thành phố Hồ Chí Minh
+2027,9378,BHX_HCM_BCH - Bình Hưng (4B),1027,Thành phố Hồ Chí Minh
+2028,9975,BHX_BTR_MCN - Định Thuỷ,1030,Tỉnh Vĩnh Long
+2029,5498,BHX_LAN_BLU - Ấp 2 Tân Bửu,1028,Tỉnh Tây Ninh
+2030,4627,BHX_TGI_CBE - 212 Khu 3 Cái Bè,1029,Tỉnh Đồng Tháp
+2031,3743,BHX_HCM_Q04 - 115 Xóm Chiếu,1027,Thành phố Hồ Chí Minh
+2032,4887,BHX_BDU_BCA - Thửa 917 Thới Hòa (Đường N5),1027,Thành phố Hồ Chí Minh
+2033,7238,BHX_LDO_BLA - Lộc Thắng,1025,Tỉnh Lâm Đồng
+2034,14207,BHX_ĐNA_HVA - Kho Nhập Khẩu ITL Đà Nẵng,1020,Thành phố Đà Nẵng
+2035,28723,BHX_HUE_ACU - 1 Ngự Bình,1019,Thành phố Huế
+2036,7770,BHX_HCM_BCH - A5/6/1 Liên Ấp 123,1027,Thành phố Hồ Chí Minh
+2037,15679,BHX_HTI_CLO - Trung Hải,1017,Tỉnh Hà Tĩnh
+2038,28059,BHX_HCM_TSH - B84 Bạch Đằng,1027,Thành phố Hồ Chí Minh
+2039,7871,BHX_TNI_TNI - Tây Ninh (HUB),1028,Tỉnh Tây Ninh
+2040,6749,BHX_DON_LTH - Khu 14 Long Đức,1026,Tỉnh Đồng Nai
+2041,14814,BHX_THO_NSO - Hải Hoà (TT Tĩnh Gia),1015,Tỉnh Thanh Hóa
+2042,6570,BHX_BTH_HTB - Thôn 2 Hàm Đức (Chợ Sara Cũ),1025,Tỉnh Lâm Đồng
+2043,8566,BHX_DON_BHO - Thửa 342 Tam Phước,1026,Tỉnh Đồng Nai
+2044,4533,BHX_BDU_TDM - Thửa 16 Hòa Phú,1027,Thành phố Hồ Chí Minh
+2045,14737,BHX_CTH_TLA - Trường Xuân A,1032,Thành phố Cần Thơ
+2046,4332,BHX_VLO_VLO - 64/7H Phó Cơ Điều,1030,Tỉnh Vĩnh Long
+2047,4463,BHX_TGI_MTH - Thửa 35 Tân Mỹ Chánh,1029,Tỉnh Đồng Tháp
+2048,4720,BHX_BTR_BTR - Thửa 284 Nguyễn Văn Tư,1030,Tỉnh Vĩnh Long
+2049,28234,BHX_HCM_BPH - B2-B3.00.01 Khu căn hộ Him Lam Chợ Lớn,1027,Thành phố Hồ Chí Minh
+2050,5040,BHX_BTR_BAT - Thửa 390 Trần Hưng Đạo,1030,Tỉnh Vĩnh Long
+2051,14752,BHX_HCM_HMO - Phạm Thị Giây,1027,Thành phố Hồ Chí Minh
+2052,15083,BHX_TNI_GDA - Phước Thạnh,1028,Tỉnh Tây Ninh
+2053,14804,BHX_PYE_THO - Phú Thứ,1024,Tỉnh Đắk Lắk
+2054,3262,BHX_HCM_Q12 - 324/6 Thạnh Lộc,1027,Thành phố Hồ Chí Minh
+2055,9308,BHX_BTR_BAT - Thửa 1 An Thủy,1030,Tỉnh Vĩnh Long
+2056,14999,BHX_GLA_PLK - 145 Hoàng Văn Thụ,1022,Tỉnh Gia Lai
+2057,28547,BHX_HYE_HPH - Hưng Phú,1013,Tỉnh Hưng Yên
+2058,4552,BHX_LAN_DHO - Thửa 87 và 88 Bình Tả 2,1028,Tỉnh Tây Ninh
+2059,5347,BHX_NTH_PRA - 298 Đường 21/8 (Chợ Phước Mỹ),1023,Tỉnh Khánh Hòa
+2060,13853,BHX_HCM_Q10 - 599 Bà Hạt,1027,Thành phố Hồ Chí Minh
+2061,4092,BHX_DON_BHO - Kho Long Bình (HUB),1026,Tỉnh Đồng Nai
+2062,4437,BHX_TGI_CGA - Thửa 12 Lương Phú A (Chợ Bến Tranh),1029,Tỉnh Đồng Tháp
+2063,9235,BHX_DON_TBO - Bàu Hàm,1026,Tỉnh Đồng Nai
+2064,14289,BHX_BDI_ANH - Đập Đá,1022,Tỉnh Gia Lai
+2065,5039,BHX_DON_LTH - An Phước (Chợ Tạm Phùng Hưng),1026,Tỉnh Đồng Nai
+2066,28890,BHX_HCM_HTR - Cây Điệp,1027,Thành phố Hồ Chí Minh
+2067,28280,BHX_HUE_MTH - 196 Phạm Văn Đồng,1019,Thành phố Huế
+2068,14727,BHX_HCM_BCH - F13/2A Ấp 6A,1027,Thành phố Hồ Chí Minh
+2069,10376,BHX_KHH_NHO - Ninh Hiệp,1023,Tỉnh Khánh Hòa
+2070,5953,BHX_HCM_TBI - 16 Hát Giang,1027,Thành phố Hồ Chí Minh
+2071,14114,BHX_QNA_DXU - Trà Châu,1020,Thành phố Đà Nẵng
+2072,7588,BHX_HCM_BTA - 123 Liên Khu 5-6,1027,Thành phố Hồ Chí Minh
+2073,6440,BHX_KGI_HTI - Mạc Thiên Tích,1031,Tỉnh An Giang
+2074,15718,BHX_HCM_PLO - 338 Đỗ Xuân Hợp OFF,1027,Thành phố Hồ Chí Minh
+2075,8225,BHX_DNG_DSO - Thửa 11 Đức An,1025,Tỉnh Lâm Đồng
+2076,5746,BHX_TNI_HTH - Ấp Long Khương (Chợ Long Hải),1028,Tỉnh Tây Ninh
+2077,6340,BHX_AGI_APH - Thửa 179 An Phú,1031,Tỉnh An Giang
+2078,14735,BHX_HCM_HMO - 86 Phạm Văn Sáng,1027,Thành phố Hồ Chí Minh
+2079,6787,BHX_CMA_NCA - Khóm 3 Năm Căn,1033,Tỉnh Cà Mau
+2080,29911,BHX_AGI_MTH - Mỹ Hiệp Sơn,1031,Tỉnh An Giang
+2081,6434,BHX_STR_CTH - Thửa 782 Trà Quýt A,1032,Thành phố Cần Thơ
+2082,14947,BHX_QNA_HDU - TT Tân Bình,1020,Thành phố Đà Nẵng
+2083,7805,BHX_CMA_NHI - Thửa 599 Rạch Gốc,1033,Tỉnh Cà Mau
+2084,6625,BHX_BPH_PLO - ĐT741 Long Phước,1026,Tỉnh Đồng Nai
+2085,7157,BHX_LDO_CTI - 208 Phạm Văn Đồng,1025,Tỉnh Lâm Đồng
+2086,4390,BHX_DON_BHO - 04 Phước Tân (Chợ Tân Mai 2),1026,Tỉnh Đồng Nai
+2087,6766,BHX_KGI_HDA - Lình Huỳnh,1031,Tỉnh An Giang
+2088,4451,BHX_TNI_HTH - Thửa 06-2032 Hiệp Tân,1028,Tỉnh Tây Ninh
+2089,14833,BHX_BRV_CDU - Hùng Vương (TT Ngãi Giao),1027,Thành phố Hồ Chí Minh
+2090,7678,BHX_KGI_GRI - Hòa Mỹ (Hòa Hưng),1031,Tỉnh An Giang
+2091,6594,BHX_CTH_CDO - Thạnh Quới 1 (Trung Hưng),1032,Thành phố Cần Thơ
+2092,5979,BHX_HCM_TDU - 807 Nguyễn Xiển,1027,Thành phố Hồ Chí Minh
+2093,6543,BHX_BTR_BAT - Thửa 31 Tân Xuân,1030,Tỉnh Vĩnh Long
+2094,29760,BHX_HCM_DHT - 45/2 Đường ĐHT02,1027,Thành phố Hồ Chí Minh
+2095,6112,BHX_VLO_LHO - 87/6 An Hiệp (Ngã 3 Long Hiệp),1030,Tỉnh Vĩnh Long
+2096,30106,BHX_DON_THI - Tam Hiệp,1026,Tỉnh Đồng Nai
+2097,6995,BHX_DON_LTH - An Viễng (Bình An),1026,Tỉnh Đồng Nai
+2098,14101,BHX_DNA_HCH - 28 Lê Thanh Nghị,1020,Thành phố Đà Nẵng
+2099,6415,BHX_TNI_CTH - Phước Lợi (Phước Vinh),1028,Tỉnh Tây Ninh
+2100,7815,BHX_BRV_CDU - Vinh Sơn (Nghĩa Thành),1027,Thành phố Hồ Chí Minh
+2101,14270,BHX_QNG_BTO - Ba Tơ,1021,Tỉnh Quảng Ngãi
+2102,28218,BHX_HCM_PDI - Chung Cư Diamond Riverside,1027,Thành phố Hồ Chí Minh
+2103,14589,BHX_BLI_VLO - Cái Dầy,1033,Tỉnh Cà Mau
+2104,14950,BHX_GLA_DDO - 28 -30 Đinh Tiên Hoàng,1022,Tỉnh Gia Lai
+2105,6342,BHX_LAN_CGI - Thửa 897 Mỹ Lộc,1028,Tỉnh Tây Ninh
+2106,13443,BHX_CTH_TNO - Kho Thốt Nốt 3 (HUB),1032,Thành phố Cần Thơ
+2107,15630,BHX_THO_HHO - Hiệp Thành,1015,Tỉnh Thanh Hóa
+2108,6359,BHX_DLA_KNA - 59 Lộc Tân (Phú Lộc),1024,Tỉnh Đắk Lắk
+2109,4731,BHX_TNI_BCA - Thửa 41 Bến Cầu,1028,Tỉnh Tây Ninh
+2110,4752,BHX_DON_NTR - Tổ 25 Bến Sắn (Chợ Tạm Phạm Văn Đồng),1026,Tỉnh Đồng Nai
+2111,14110,BHX_QNA_DBA - Trần Nhân Tông,1020,Thành phố Đà Nẵng
+2112,5066,BHX_DON_DQU - Số 14 Phú Vinh,1026,Tỉnh Đồng Nai
+2113,15540,BHX_DLA_EKA - Ea Tih,1024,Tỉnh Đắk Lắk
+2114,6377,BHX_DLA_BMT - 63 Nguyễn Thái Bình,1024,Tỉnh Đắk Lắk
+2115,29756,BHX_AGI_VTT - Chợ Kênh 7,1031,Tỉnh An Giang
+2116,6566,BHX_BTH_TLI - Thôn 3 (Nhà Thờ Gia An),1025,Tỉnh Lâm Đồng
+2117,15804,BHX_QTR_TNI - Trường Ninh,1018,Tỉnh Quảng Trị
+2118,3324,BHX_HCM_Q12 - 10/33 Khu phố 3 (Tân Thới Nhất),1027,Thành phố Hồ Chí Minh
+2119,4707,BHX_LAN_BLU - 22A/2 Ấp Chợ (Chợ Cũ Bến Lức),1028,Tỉnh Tây Ninh
+2120,15177,BHX_DTH_CLA - Kho Lạnh Thốt Nốt (HUB),1029,Tỉnh Đồng Tháp
+2121,28051,BHX_HCM_BLT - 330A Nguyễn Xí,1027,Thành phố Hồ Chí Minh
+2122,14636,BHX_HTI_HLI - Nam Hồng,1017,Tỉnh Hà Tĩnh
+2123,6348,BHX_BTH_DLI - 170 ĐT766 (Chợ Đông Hà),1025,Tỉnh Lâm Đồng
+2124,28124,BHX_NBI_YTH - Yên Thắng,1014,Tỉnh Ninh Bình
+2125,15826,BHX_CTH_TAN - Lợi Nguyên B,1032,Thành phố Cần Thơ
+2126,14218,BHX_DNA_TKH - 41 Huỳnh Ngọc Huệ,1020,Thành phố Đà Nẵng
+2127,6498,BHX_DLA_BDO - 51 Thôn 18A (Ea Bar),1024,Tỉnh Đắk Lắk
+2128,3836,BHX_HCM_BTH - 63A Phan Văn Trị,1027,Thành phố Hồ Chí Minh
+2129,8653,BHX_AGI_TTO - Trần Hưng Đạo,1031,Tỉnh An Giang
+2130,28549,BHX_HYE_LDA - Kho Nhập Khẩu AJ Hưng Yên,1013,Tỉnh Hưng Yên
+2131,6231,BHX_HGI_CTA - Thị Tứ (Bảy Ngàn),1032,Thành phố Cần Thơ
+2132,15673,BHX_GLA_CPR - Chợ Tạm,1022,Tỉnh Gia Lai
+2133,6634,BHX_KHH_KVI - Đường 2 Tháng 8,1023,Tỉnh Khánh Hòa
+2134,14532,BHX_THO_THO - 11 Tống Duy Tân,1015,Tỉnh Thanh Hóa
+2135,29959,BHX_HCM_BCO - Hội Nghĩa,1027,Thành phố Hồ Chí Minh
+2136,6149,BHX_TGI_CTH - Ấp Trung (Đông Hòa),1029,Tỉnh Đồng Tháp
+2137,28000,BHX_DLA_THO - 46 Nguyễn Huệ,1024,Tỉnh Đắk Lắk
+2138,28772,BHX_HCM_LBI - S2.02.11 Vinhomes Grand Park,1027,Thành phố Hồ Chí Minh
+2139,5757,BHX_HCM_GVA - 189 Nguyễn Tư Giản,1027,Thành phố Hồ Chí Minh
+2140,5820,BHX_TGI_MTH - Ấp 1 (Chợ Trung An),1029,Tỉnh Đồng Tháp
+2141,6552,BHX_DLA_ESU - Thửa 112 Ea Súp,1024,Tỉnh Đắk Lắk
+2142,6572,BHX_BTR_MCB - Thửa 245 Nhuận Phú Tân,1030,Tỉnh Vĩnh Long
+2143,6830,BHX_KHH_NTR - 198 Trần Quý Cáp,1023,Tỉnh Khánh Hòa
+2144,6798,BHX_KHH_CRA - Nguyễn Công Trứ,1023,Tỉnh Khánh Hòa
+2145,14953,BHX_QNG_QNG - Quang Trung,1021,Tỉnh Quảng Ngãi
+2146,6294,BHX_STR_KSA - 192 An Lạc Thôn,1032,Thành phố Cần Thơ
+2147,3985,BHX_BDU_TAN - Chợ Bình Hòa (Lái Thiêu),1027,Thành phố Hồ Chí Minh
+2148,28062,BHX_THO_TGI - Tĩnh Gia,1015,Tỉnh Thanh Hóa
+2149,14842,BHX_KGI_RGI - Chợ Phi Thông,1031,Tỉnh An Giang
+2150,28196,BHX_CMA_TPH - Trần Phán,1033,Tỉnh Cà Mau
+2151,9933,BHX_HCM_TDU - 15A Đường Số 7,1027,Thành phố Hồ Chí Minh
+2152,28938,BHX_HCM_VTA - 64 Võ Thị Sáu,1027,Thành phố Hồ Chí Minh
+2153,28605,BHX_AGI_THO - Tân Hội ( Chợ Cây Dương),1031,Tỉnh An Giang
+2154,15591,BHX_CMA_TVT - Trần Hợi,1033,Tỉnh Cà Mau
+2155,28054,BHX_DLA_EHI - Ea Hiao,1024,Tỉnh Đắk Lắk
+2156,30142,BHX_LDO_PHO - Lê Minh Công,1025,Tỉnh Lâm Đồng
+2157,28834,BHX_HCM_HBI - 12 đường 27,1027,Thành phố Hồ Chí Minh
+2158,28025,BHX_VLO_LTH - Long Thành,1030,Tỉnh Vĩnh Long
+2159,14333,BHX_QNA_QSO - Đông Phú,1020,Thành phố Đà Nẵng
+2160,10068,BHX_HCM_TPH - 60 Huỳnh Thiện Lộc,1027,Thành phố Hồ Chí Minh
+2161,4686,BHX_AGI_LXU - Thửa 379 Mỹ Long,1031,Tỉnh An Giang
+2162,6064,BHX_HCM_TDU - 191 Hoàng Hữu Nam,1027,Thành phố Hồ Chí Minh
+2163,5414,BHX_STR_TDE - Ấp Đầu Giồng (Trần Đề),1032,Thành phố Cần Thơ
+2164,3600,BHX_HCM_TDU - 141 Hoàng Diệu 2,1027,Thành phố Hồ Chí Minh
+2165,27994,BHX_CTH_TAN - Tân An,1032,Thành phố Cần Thơ
+2166,14765,BHX_HCM_TPH - 189 Tân Kỳ Tân Quý,1027,Thành phố Hồ Chí Minh
+2167,14586,BHX_STR_LPH - Trường Khánh,1032,Thành phố Cần Thơ
+2168,27942,BHX_DTH_MAH - Tân Thuận B,1029,Tỉnh Đồng Tháp
+2169,14628,BHX_THO_NCO - Trung Chính,1015,Tỉnh Thanh Hóa
+2170,14721,BHX_HUE_HTR - HUB Huế,1019,Thành phố Huế
+2171,5344,BHX_HCM_Q12 - 500/58 Nguyễn Ảnh Thủ,1027,Thành phố Hồ Chí Minh
+2172,28304,BHX_CTH_PHU - Phú Hữu,1032,Thành phố Cần Thơ
+2173,14487,BHX_CTH_NKI - Nguyễn Văn Cừ,1032,Thành phố Cần Thơ
+2174,28578,BHX_LDO_DKH - Đồng Kho,1025,Tỉnh Lâm Đồng
+2175,9120,BHX_NTH_PRA - Thanh Sơn,1023,Tỉnh Khánh Hòa
+2176,2725,BHX_HCM_HMO - Thửa 790-791 Bà Điểm,1027,Thành phố Hồ Chí Minh
+2177,6922,BHX_DON_XLO - 2734 Tam Hiệp (Chợ Lều Xanh),1026,Tỉnh Đồng Nai
+2178,29847,BHX_DON_PAN - Bắc Thần,1026,Tỉnh Đồng Nai
+2179,6525,BHX_STR_CTH - 442A An Ninh,1032,Thành phố Cần Thơ
+2180,2546,BHX_HCM_Q12 - 305 KP1 Tân Thới Hiệp,1027,Thành phố Hồ Chí Minh
+2181,4812,BHX_BDU_DAN - Thửa 1516 Tân Hiệp,1027,Thành phố Hồ Chí Minh
+2182,5489,BHX_STR_MXU - Ấp Khu 1 Thạnh Phú,1032,Thành phố Cần Thơ
+2183,6278,BHX_HCM_TDU - 223 Long Phước,1027,Thành phố Hồ Chí Minh
+2184,15805,BHX_HTI_HKH - Hương Khê,1017,Tỉnh Hà Tĩnh
+2185,28296,BHX_NBI_NDI - 68 Hàn Thuyên,1014,Tỉnh Ninh Bình
+2186,28034,BHX_HCM_BLT - 280 Lê Quang Định,1027,Thành phố Hồ Chí Minh
+2187,8191,BHX_HCM_Q12 - 669A Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+2188,14652,BHX_STR_STR - 244 Trương Công Định,1032,Thành phố Cần Thơ
+2189,3959,BHX_BDU_TAN - Thửa 752 Thuận Giao,1027,Thành phố Hồ Chí Minh
+2190,9939,BHX_HCM_Q12 - 146 TL19,1027,Thành phố Hồ Chí Minh
+2191,15101,BHX_TNI_TBA - Hưng Thuận,1028,Tỉnh Tây Ninh
+2192,6364,BHX_BTH_HTN - Phú Hưng (Chợ Hàm Mỹ),1025,Tỉnh Lâm Đồng
+2193,8830,BHX_VLO_VLO - Tân Hội,1030,Tỉnh Vĩnh Long
+2194,15554,BHX_BPH_BDO - Tân Thành,1026,Tỉnh Đồng Nai
+2195,10319,BHX_BTR_BDA - Phú Long,1030,Tỉnh Vĩnh Long
+2196,3837,BHX_BDU_TAN - Thửa 235 và 753 Bình Thuận 2,1027,Thành phố Hồ Chí Minh
+2197,14387,BHX_CTH_NKI - 135 Phan Đình Phùng,1032,Thành phố Cần Thơ
+2198,14354,BHX_BDI_TPH - Diêu Trì,1022,Tỉnh Gia Lai
+2199,27898,BHX_HCM_BTA - Kho AUTOMATED COLD STORE,1027,Thành phố Hồ Chí Minh
+2200,28852,BHX_NBI_HHU -  Hải Hưng (Chợ Trung Thành),1014,Tỉnh Ninh Bình
+2201,8845,BHX_BDU_TUY - Thửa 819 Vĩnh Tân,1027,Thành phố Hồ Chí Minh
+2202,5291,BHX_DON_DQU - 1447/E Phú Tân,1026,Tỉnh Đồng Nai
+2203,2337,BHX_HCM_BCH - C5/5E Dân Công Hỏa Tuyến,1027,Thành phố Hồ Chí Minh
+2204,6509,BHX_DLA_CKU - Thôn Kim Châu (Dray Bhăng),1024,Tỉnh Đắk Lắk
+2205,3802,BHX_HCM_Q12 - 962 Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+2206,28741,BHX_HTI_TSE - Lý Tự Trọng,1017,Tỉnh Hà Tĩnh
+2207,15620,BHX_GLA_PLK - 218 Trường Sơn,1022,Tỉnh Gia Lai
+2208,4789,BHX_TGI_TPH - Thửa 1365 Phú Hữu (Chợ Phú Mỹ),1029,Tỉnh Đồng Tháp
+2209,13743,BHX_HCM_Q01 - 117 Cống Quỳnh,1027,Thành phố Hồ Chí Minh
+2210,8895,BHX_CTH_TNO - Kho DC Thốt Nốt (Đổi -Trả NCC),1032,Thành phố Cần Thơ
+2211,6537,BHX_NTH_PRA - 313B Ngô Gia Tự (Ngã 5 Tấn Tài),1023,Tỉnh Khánh Hòa
+2212,30033,BHX_HCM_CHU - 170 - 172 Cao Lỗ,1027,Thành phố Hồ Chí Minh
+2213,15767,BHX_HCM_TDH - Tân Phú 2,1027,Thành phố Hồ Chí Minh
+2214,14940,BHX_HUE_ALU - Thị Trấn  A Lưới,1019,Thành phố Huế
+2215,14980,BHX_CMA_CMA - Trần Hưng Đạo,1033,Tỉnh Cà Mau
+2216,29829,BHX_GLA_AKH - An Bình ( Chợ Đồn),1022,Tỉnh Gia Lai
+2217,4906,BHX_HCM_GVA - 60 Nguyễn Du,1027,Thành phố Hồ Chí Minh
+2218,14613,BHX_HTI_HTI - Thạch Quý,1017,Tỉnh Hà Tĩnh
+2219,28689,BHX_GLA_BDI - Trần Phú,1022,Tỉnh Gia Lai
+2220,15783,BHX_DON_APH - An Phước,1026,Tỉnh Đồng Nai
+2221,3342,BHX_HCM_TDU - 70 Hiệp Bình,1027,Thành phố Hồ Chí Minh
+2222,28749,BHX_HTI_VXU -  Việt Xuyên,1017,Tỉnh Hà Tĩnh
+2223,14926,BHX_AGI_LXU - Mỹ Phước,1031,Tỉnh An Giang
+2224,6263,BHX_DLA_BMT - 392 Phan Bội Châu,1024,Tỉnh Đắk Lắk
+2225,3257,BHX_HCM_TDU - 99 Tăng Nhơn Phú,1027,Thành phố Hồ Chí Minh
+2226,4438,BHX_TGI_MTH - 6/3B Nguyễn Huỳnh Đức,1029,Tỉnh Đồng Tháp
+2227,27917,BHX_HCM_BTA - Căn Hộ Flora ( Akari Hoàng Nam ),1027,Thành phố Hồ Chí Minh
+2228,10115,BHX_HCM_Q08 - Conic Riverside,1027,Thành phố Hồ Chí Minh
+2229,28233,BHX_HCM_BCH - Khu tái định cư Bến Lức,1027,Thành phố Hồ Chí Minh
+2230,1861,BHX_HCM_BTA - 82A Bình Trị Đông,1027,Thành phố Hồ Chí Minh
+2231,15038,BHX_QNG_DPH - Phổ Thạnh,1021,Tỉnh Quảng Ngãi
+2232,14946,BHX_QNA_PNI - Tam Dân,1020,Thành phố Đà Nẵng
+2233,9075,BHX_HCM_Q11 - 100 Bình Thới,1027,Thành phố Hồ Chí Minh
+2234,6905,BHX_BDU_PGI - Ấp 2 Tân Long,1027,Thành phố Hồ Chí Minh
+2235,5002,BHX_DON_LTH - Tổ 15 Long Phước,1026,Tỉnh Đồng Nai
+2236,15821,BHX_HTI_TSE - 216 Trần Phú,1017,Tỉnh Hà Tĩnh
+2237,6272,BHX_HCM_BTA - 87 Tây Lân,1027,Thành phố Hồ Chí Minh
+2238,5821,BHX_VLO_VLO - 42 Đinh Tiên Hoàng,1030,Tỉnh Vĩnh Long
+2239,7224,BHX_DNG_CJU - Ea T'Ling,1025,Tỉnh Lâm Đồng
+2240,28595,BHX_HCM_AHD - 953-955 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+2241,15043,BHX_QNA_DBA - Điện Nam Trung,1020,Thành phố Đà Nẵng
+2242,28853,BHX_VLO_TCA - Tiểu Cần 2,1030,Tỉnh Vĩnh Long
+2243,8537,BHX_BPH_BDO - Thửa 65 Tân Tiến,1026,Tỉnh Đồng Nai
+2244,4628,BHX_TGI_CBE - Thửa 07 và 112 An Hữu,1029,Tỉnh Đồng Tháp
+2245,14563,BHX_CTH_VTH - Vĩnh Trinh,1032,Thành phố Cần Thơ
+2246,9141,BHX_HCM_Q07 - 90 Gò Ô Môi,1027,Thành phố Hồ Chí Minh
+2247,15025,BHX_HTI_KAN - Kỳ Thịnh,1017,Tỉnh Hà Tĩnh
+2248,14271,BHX_BDI_QNH - Nhơn Bình,1022,Tỉnh Gia Lai
+2249,3469,BHX_HCM_TDU - 53-53/4 Đường Số 8,1027,Thành phố Hồ Chí Minh
+2250,5027,BHX_BTR_BDA - Thửa 47 Thới Lai,1030,Tỉnh Vĩnh Long
+2251,4549,"BHX_TNI_TBI - Thửa 58, 92 Khu Phố 2 Tân Biên",1028,Tỉnh Tây Ninh
+2252,28903,BHX_HYE_VQU - CHÀNH TRUNG CHUYỂN RAU CỦ QUẢ THÁI BÌNH (HUB),1013,Tỉnh Hưng Yên
+2253,6222,BHX_TNI_TNI - Thạnh Trung (Thạnh Tân),1028,Tỉnh Tây Ninh
+2254,6476,BHX_HGI_PHI - Hòa Quới A (Hòa An),1032,Thành phố Cần Thơ
+2255,15828,BHX_HCM_NBE - 2018 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+2256,30044,BHX_HCM_TDU - 6-6A Chương Dương,1027,Thành phố Hồ Chí Minh
+2257,4652,BHX_BRV_BRI - 160A Nguyễn Thanh Đằng,1027,Thành phố Hồ Chí Minh
+2258,4779,BHX_LAN_DHU - Thửa 137 Đông Thành,1028,Tỉnh Tây Ninh
+2259,7994,BHX_LDO_DTE - Khu Phố 5C (Đạ Tẻh),1025,Tỉnh Lâm Đồng
+2260,28748,BHX_HYE_LHU - Long Hưng (chợ Cầu Đen),1013,Tỉnh Hưng Yên
+2261,28922,BHX_CMA_NVK - Chợ Cái Bát,1033,Tỉnh Cà Mau
+2262,6254,BHX_KGI_ABI - TTTM Thứ Ba (Chợ Nông Sản),1031,Tỉnh An Giang
+2263,7172,BHX_LDO_DLI - Đinh Lạc,1025,Tỉnh Lâm Đồng
+2264,13730,BHX_DON_BHO - Long Bình,1026,Tỉnh Đồng Nai
+2265,15784,BHX_HCM_BHI - Hồng Lạc,1027,Thành phố Hồ Chí Minh
+2266,5099,BHX_BRV_VTA - 95 Chí Linh 18,1027,Thành phố Hồ Chí Minh
+2267,29965,BHX_HCM_DNH - 40/16 Nguyễn Văn Đậu,1027,Thành phố Hồ Chí Minh
+2268,5190,BHX_KGI_THI - Lô 01 QL80 Tân Hiệp,1031,Tỉnh An Giang
+2269,4760,BHX_CTH_CRA - 301A Yên Trung (Cây Xăng Chính Giang),1032,Thành phố Cần Thơ
+2270,13630,BHX_TNI_TNI - Kho DC Tây Ninh (Đổi -Trả NCC),1028,Tỉnh Tây Ninh
+2271,4799,BHX_AGI_TSO - Thửa 72 Phú Hữu (Chợ Phú Hòa),1031,Tỉnh An Giang
+2272,7844,BHX_LDO_BLO - Đại Nga (Chợ Lộc Nga),1025,Tỉnh Lâm Đồng
+2273,4942,BHX_LAN_DHO - 36C Đức Hòa,1028,Tỉnh Tây Ninh
+2274,8186,BHX_CTH_OMO - Quốc Lộ 91 Phước Thới,1032,Thành phố Cần Thơ
+2275,9020,BHX_STR_STR - Thửa 26 Phường 4,1032,Thành phố Cần Thơ
+2276,8753,BHX_DON_TPH - Phú Lộc,1026,Tỉnh Đồng Nai
+2277,28602,BHX_HYE_LQD - Chợ Trạm Bơm,1013,Tỉnh Hưng Yên
+2278,6133,BHX_DON_TPH - 548 Tổ 2 (Tân Phú),1026,Tỉnh Đồng Nai
+2279,6527,BHX_TGI_GCD - Hòa Bình (Ngã 3 Chợ Bình Nghị),1029,Tỉnh Đồng Tháp
+2280,14429,BHX_QBI_DHO - 62 Trường Chinh,1018,Tỉnh Quảng Trị
+2281,28570,BHX_NBI_LMI - Liên Minh,1014,Tỉnh Ninh Bình
+2282,4967,BHX_BRV_VTA - 1033B Đường 30/4,1027,Thành phố Hồ Chí Minh
+2283,28558,BHX_CTH_PTH - Lộ Vòng Cung (ĐT 923),1032,Thành phố Cần Thơ
+2284,30012,BHX_HYE_THA - Tiền Hải,1013,Tỉnh Hưng Yên
+2285,30162,BHX_VLO_SLO - Cầu Xây,1030,Tỉnh Vĩnh Long
+2286,29857,BHX_QNG_TPH - Kho Thịt Cá ITL Đà Nẵng (HUB),1021,Tỉnh Quảng Ngãi
+2287,15446,BHX_DNA_HCH - 65-67 Đống Đa,1020,Thành phố Đà Nẵng
+2288,6616,BHX_BRV_PMY - Tân Phước (Chợ Ông Trịnh),1027,Thành phố Hồ Chí Minh
+2289,27941,BHX_NAN_VPH - Nghi Ân,1016,Tỉnh Nghệ An
+2290,6656,BHX_HCM_NBE - Kho DC Nhà Bè (Đổi -Trả NCC),1027,Thành phố Hồ Chí Minh
+2291,8220,BHX_DON_BHO - Thửa 145 Tân Hòa,1026,Tỉnh Đồng Nai
+2292,4687,BHX_AGI_LXU - Thửa 1615 Mỹ Quý,1031,Tỉnh An Giang
+2293,30094,BHX_DTH_MQU - Mỹ Quí,1029,Tỉnh Đồng Tháp
+2294,6541,BHX_HCM_CCH - 80 Lê Minh Nhựt,1027,Thành phố Hồ Chí Minh
+2295,14577,BHX_HTI_THA - Thạch Bằng,1017,Tỉnh Hà Tĩnh
+2296,5211,BHX_TVI_CNG - Thửa 290 Minh Thuận B,1030,Tỉnh Vĩnh Long
+2297,14617,BHX_HGI_NBA - Lái Hiếu,1032,Thành phố Cần Thơ
+2298,15608,BHX_NAN_DCH - Diễn Mỹ,1016,Tỉnh Nghệ An
+2299,8153,BHX_STR_VCH - Thửa 477 Vĩnh Phước,1032,Thành phố Cần Thơ
+2300,3454,BHX_HCM_TDU - 388 Tỉnh Lộ 43,1027,Thành phố Hồ Chí Minh
+2301,28575,BHX_NBI_HXU - Hải Xuân,1014,Tỉnh Ninh Bình
+2302,15707,BHX_THO_HRO -  Đình Hương,1015,Tỉnh Thanh Hóa
+2303,14319,BHX_BDI_TSO - 156 Trần Quang Diệu,1022,Tỉnh Gia Lai
+2304,5428,BHX_BTH_TPH - 80 Võ Thị Sáu (Chợ Liên Hương),1025,Tỉnh Lâm Đồng
+2305,28097,BHX_NBI_DHL - Kho DC Ninh Bình,1014,Tỉnh Ninh Bình
+2306,15645,BHX_THO_SSO - Thọ Xuân,1015,Tỉnh Thanh Hóa
+2307,3826,BHX_HCM_TDU - 152 Nguyễn Thị Định,1027,Thành phố Hồ Chí Minh
+2308,30158,BHX_DNA_DPH - Kho Đóng Gói Đồng Phú (HUB),1026,Tỉnh Đồng Nai
+2309,5307,BHX_AGI_TCH - Đường Liên Xã (Chợ Long An),1031,Tỉnh An Giang
+2310,14824,BHX_NAN_YTH - Hoa Thành,1016,Tỉnh Nghệ An
+2311,28003,BHX_HCM_HMO - 102/5D Tân Hiệp,1027,Thành phố Hồ Chí Minh
+2312,15121,BHX_NAN_VIN - 122 Phong Đình Cảng,1016,Tỉnh Nghệ An
+2313,4947,BHX_BDU_TAN - Thửa 2021 Bình Phước B,1027,Thành phố Hồ Chí Minh
+2314,6490,BHX_AGI_LXU - Hàm Nghi,1031,Tỉnh An Giang
+2315,30006,BHX_HCM_BHU - 54-679 Phạm Hùng,1027,Thành phố Hồ Chí Minh
+2316,14550,BHX_LAN_DHO - Bình Tả 1,1028,Tỉnh Tây Ninh
+2317,6969,BHX_LDO_BLA - Quốc Lộ 20 Lộc An,1025,Tỉnh Lâm Đồng
+2318,15107,BHX_GLA_PLK - 47 Nayder,1022,Tỉnh Gia Lai
+2319,28198,BHX_AGI_GTH - Đầm Chít,1031,Tỉnh An Giang
+2320,5354,BHX_KHH_DKH - 94 Lý Tự Trọng,1023,Tỉnh Khánh Hòa
+2321,14332,BHX_HUE_PLO - 05 An Cư Đông,1019,Thành phố Huế
+2322,7241,BHX_HCM_GVA - 18 Phan Huy Ích,1027,Thành phố Hồ Chí Minh
+2323,14782,BHX_THO_NSO - TT Nga Sơn,1015,Tỉnh Thanh Hóa
+2324,15853,BHX_DNA_HXU - 295-297 Phạm Hùng,1020,Thành phố Đà Nẵng
+2325,28848,BHX_NBI_KTH - Khánh Thiện (Chợ Xanh),1014,Tỉnh Ninh Bình
+2326,14183,BHX_DNA_HVA - Kho Thịt Cá ITL Đà Nẵng (HUB),1020,Thành phố Đà Nẵng
+2327,4836,BHX_TNI_BCA - Thửa 552 Long Phi,1028,Tỉnh Tây Ninh
+2328,5421,BHX_TNI_DMC - Thửa 149 Truông Mít,1028,Tỉnh Tây Ninh
+2329,5014,BHX_DTH_LVO - Thửa 550 An Lợi B (Chợ Định Yên),1029,Tỉnh Đồng Tháp
+2330,5454,BHX_HCM_TDU - 143 Linh Đông,1027,Thành phố Hồ Chí Minh
+2331,6660,BHX_HCM_NBE - Kho Nhà Bè (HUB),1027,Thành phố Hồ Chí Minh
+2332,28085,BHX_KHH_BNT - 05 Ngô Gia Khảm,1023,Tỉnh Khánh Hòa
+2333,10136,BHX_HCM_BTA - 396 Hồ Học Lãm,1027,Thành phố Hồ Chí Minh
+2334,2093,BHX_HCM_HMO - 36/5D Ấp 2 (Xuân Thới Thượng),1027,Thành phố Hồ Chí Minh
+2335,13608,BHX_HCM_Q04 - 236 Tôn Đản,1027,Thành phố Hồ Chí Minh
+2336,3233,BHX_HCM_TPH - 45 Hoàng Ngọc Phách,1027,Thành phố Hồ Chí Minh
+2337,9986,BHX_HCM_Q11 - 78C Hòa Bình,1027,Thành phố Hồ Chí Minh
+2338,28557,BHX_CTH_ABI -  An Bình,1032,Thành phố Cần Thơ
+2339,6629,BHX_DON_BHO - 13 Bùi Văn Hòa,1026,Tỉnh Đồng Nai
+2340,6367,BHX_TNI_HTH - Long Hải (Trường Tây),1028,Tỉnh Tây Ninh
+2341,4431,BHX_DON_BHO - 717 Ấp 2 An Hòa,1026,Tỉnh Đồng Nai
+2342,5009,BHX_CTH_BTH - 32/17 Huỳnh Phan Hộ (Chợ Trà An),1032,Thành phố Cần Thơ
+2343,191,BHX_HCM_BTA - 393 Hương Lộ 3,1027,Thành phố Hồ Chí Minh
+2344,15830,BHX_HCM_TMT - đường TMT-13,1027,Thành phố Hồ Chí Minh
+2345,14403,BHX_DNA_LCH - 97 Phạm Như Xương,1020,Thành phố Đà Nẵng
+2346,10140,BHX_BRV_VTA - Rạch Dừa,1027,Thành phố Hồ Chí Minh
+2347,29958,BHX_HCM_MTH - Minh Tân Minh Thạnh,1027,Thành phố Hồ Chí Minh
+2348,14326,BHX_QNA_DBA - Thanh Quýt (Điện Thắng Trung),1020,Thành phố Đà Nẵng
+2349,28601,BHX_HYE_TLA - Chợ Trại,1013,Tỉnh Hưng Yên
+2350,15794,BHX_HCM_TTH - Đường CN1,1027,Thành phố Hồ Chí Minh
+2351,5273,BHX_HCM_TDU - 32 Lã Xuân Oai,1027,Thành phố Hồ Chí Minh
+2352,6220,BHX_AGI_TBI - Thửa 206 Nhà Bàng,1031,Tỉnh An Giang
+2353,8251,BHX_AGI_APH - Thửa 158 Khánh An,1031,Tỉnh An Giang
+2354,7032,BHX_HCM_Q08 - 35B Mai Hắc Đế,1027,Thành phố Hồ Chí Minh
+2355,28228,BHX_HCM_HTH - 2 Phạm Huy Thông,1027,Thành phố Hồ Chí Minh
+2356,14635,BHX_KHH_NHO - Ninh Phụng,1023,Tỉnh Khánh Hòa
+2357,5798,BHX_DTH_CLA - Thửa 528 Phường 2,1029,Tỉnh Đồng Tháp
+2358,5804,BHX_HCM_BTA - 143 Phạm Đăng Giảng,1027,Thành phố Hồ Chí Minh
+2359,3425,BHX_HCM_Q10 - 42/20A Nguyễn Giản Thanh,1027,Thành phố Hồ Chí Minh
+2360,5723,BHX_TGI_GCD - Tân Hòa (Chợ Gò Công Đông),1029,Tỉnh Đồng Tháp
+2361,6898,BHX_TVI_CKE - Khóm 6 Cầu Kè,1030,Tỉnh Vĩnh Long
+2362,9254,BHX_LDO_DHU - Ma Đa Guôi,1025,Tỉnh Lâm Đồng
+2363,8151,BHX_TNI_CTH - Thửa 100 Thành Long,1028,Tỉnh Tây Ninh
+2364,3648,BHX_LAN_DHO - 90 Bình Tả 2,1028,Tỉnh Tây Ninh
+2365,14978,BHX_STR_STR - Phạm Hùng,1032,Thành phố Cần Thơ
+2366,8828,BHX_STR_VCH - Thửa 71 Vĩnh Châu,1032,Thành phố Cần Thơ
+2367,15754,BHX_THO_VLO - Vĩnh Lộc,1015,Tỉnh Thanh Hóa
+2368,27983,BHX_GLA_BHO - 315-317 Tôn Đức Thắng,1022,Tỉnh Gia Lai
+2369,14679,BHX_NAN_VIN - Kho Vinh (HUB),1016,Tỉnh Nghệ An
+2370,7166,BHX_LDO_DTR - Quốc Lộ 27 Bình Thạnh,1025,Tỉnh Lâm Đồng
+2371,28202,BHX_HCM_NGI - Suối Nghệ,1027,Thành phố Hồ Chí Minh
+2372,5722,BHX_TGI_CTH - 1/4 Tân Hiệp,1029,Tỉnh Đồng Tháp
+2373,4573,BHX_VLO_TON - 194-196-201 Vĩnh Trinh (Chợ Vĩnh Xuân),1030,Tỉnh Vĩnh Long
+2374,2144,BHX_HCM_BTA - 123 Đường Số 11,1027,Thành phố Hồ Chí Minh
+2375,15055,BHX_DLA_BHO - Cư Bao,1024,Tỉnh Đắk Lắk
+2376,15099,BHX_BDU_DAN - Đông Hòa (Tân Hoà),1027,Thành phố Hồ Chí Minh
+2377,14633,BHX_NAN_VIN - Kho Thịt Cá AJ Hưng Yên (HUB),1016,Tỉnh Nghệ An
+2378,27985,BHX_HCM_TTA - 1613 Tỉnh Lộ 10,1027,Thành phố Hồ Chí Minh
+2379,4845,BHX_HCM_Q07 - 865 Trần Xuân Soạn,1027,Thành phố Hồ Chí Minh
+2380,13808,BHX_LAN_DHO - DC Xuyên Á (Đổi -Trả NCC),1028,Tỉnh Tây Ninh
+2381,28574,BHX_NBI_HHU - Hải Hưng (Chợ Cầu Đôi),1014,Tỉnh Ninh Bình
+2382,2229,BHX_HCM_TPH - 5A Vườn Lài,1027,Thành phố Hồ Chí Minh
+2383,8846,BHX_DTH_THO - Tân Phước,1029,Tỉnh Đồng Tháp
+2384,14599,BHX_HCM_CCH - Tân Thạnh Đông,1027,Thành phố Hồ Chí Minh
+2385,9576,BHX_LDO_DLA - Xuân Trường,1025,Tỉnh Lâm Đồng
+2386,10081,BHX_HCM_BCH - C5/25 Bình Chánh,1027,Thành phố Hồ Chí Minh
+2387,6759,BHX_BPH_PLO - Khu phố 3 Long Thủy,1026,Tỉnh Đồng Nai
+2388,14615,BHX_NAN_VIN - 122 Lý Tự Trọng,1016,Tỉnh Nghệ An
+2389,27986,BHX_HCM_ADO - 110C Ngô Quyền,1027,Thành phố Hồ Chí Minh
+2390,6408,BHX_DLA_EHL - 57 Trần Phú,1024,Tỉnh Đắk Lắk
+2391,15076,BHX_THO_QXU - Kho Thịt Cá AJ Hưng Yên (HUB),1015,Tỉnh Thanh Hóa
+2392,6591,BHX_TGI_CTH - Thân Bình (Chợ Thân Cửu Nghĩa),1029,Tỉnh Đồng Tháp
+2393,14504,BHX_NAN_VIN - Vĩnh Hưng (Hưng Phúc),1016,Tỉnh Nghệ An
+2394,28127,BHX_NBI_PDI - Lưu Phương,1014,Tỉnh Ninh Bình
+2395,6165,BHX_DON_TNH - 659 Khu Phố Trần Cao Vân,1026,Tỉnh Đồng Nai
+2396,6606,BHX_HCM_BCH - Kho Sơ Chế Thịt Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+2397,6138,BHX_HCM_Q07 - 181 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+2398,4904,BHX_TGI_CTH - Thửa 1562 Thạnh Phú,1029,Tỉnh Đồng Tháp
+2399,29763,BHX_HYE_TBI - Bồ Xuyên,1013,Tỉnh Hưng Yên
+2400,15000,BHX_THO_HLO - Hoa Lộc,1015,Tỉnh Thanh Hóa
+2401,14449,BHX_QTR_QTR - 183-185 Trần Hưng Đạo,1018,Tỉnh Quảng Trị
+2402,5806,BHX_AGI_TBI - Lô 17 Chi Lăng,1031,Tỉnh An Giang
+2403,14350,BHX_DNA_NHS - 25-27 Mai Đăng Chơn,1020,Thành phố Đà Nẵng
+2404,1935,BHX_HCM_BTA - 146 Đường số 5,1027,Thành phố Hồ Chí Minh
+2405,15724,BHX_HTI_NHL - Hồng Lĩnh,1017,Tỉnh Hà Tĩnh
+2406,4541,BHX_BTR_CTH - Thửa 4 Phước Hòa (Chợ Quới Sơn),1030,Tỉnh Vĩnh Long
+2407,10181,BHX_TGI_CLA - Long Tiên,1029,Tỉnh Đồng Tháp
+2408,6691,BHX_BLI_GRA - Khóm 2 Phường 1,1033,Tỉnh Cà Mau
+2409,13652,BHX_LAN_CDU - Kho Lạnh Trần Đại Nghĩa (HUB),1028,Tỉnh Tây Ninh
+2410,4925,BHX_BTR_TPH - Thửa 232 QL57 Tân Phong,1030,Tỉnh Vĩnh Long
+2411,14552,BHX_BDU_TDM - Phú Tân,1027,Thành phố Hồ Chí Minh
+2412,4290,BHX_TNI_TNI - Thửa 287-288-297 Phường 4 (Chợ Chiều),1028,Tỉnh Tây Ninh
+2413,28898,BHX_TNI_HTH - Sóc Lào,1028,Tỉnh Tây Ninh
+2414,10355,BHX_TGI_TPD - Tân Thới,1029,Tỉnh Đồng Tháp
+2415,30073,BHX_HCM_HHU - 423 Sư Vạn Hạnh,1027,Thành phố Hồ Chí Minh
+2416,15604,BHX_CTH_CRA - Nam Cần Thơ,1032,Thành phố Cần Thơ
+2417,30137,BHX_HCM_CLO - 37B Tân Thành,1027,Thành phố Hồ Chí Minh
+2418,28660,BHX_DTH_HNG - Hồng Ngự,1029,Tỉnh Đồng Tháp
+2419,4869,BHX_BDU_BCA - Thửa 71 Tân Định,1027,Thành phố Hồ Chí Minh
+2420,9208,BHX_HCM_BTH - 335 Nơ Trang Long,1027,Thành phố Hồ Chí Minh
+2421,28925,BHX_THO_QTR - Bắc Sơn,1015,Tỉnh Thanh Hóa
+2422,4363,BHX_VLO_BMI - 419A Quốc Lộ 54 (Chợ Đông Bình),1030,Tỉnh Vĩnh Long
+2423,14787,BHX_NAN_DCH - Diễn Xuân,1016,Tỉnh Nghệ An
+2424,4939,BHX_DON_XLO - 2097 Quốc Lộ 1A Xuân Tâm,1026,Tỉnh Đồng Nai
+2425,28714,BHX_CTH_TTH - Trường Thành,1032,Thành phố Cần Thơ
+2426,1559,BHX_HCM_TPH - 113 Tô Hiệu,1027,Thành phố Hồ Chí Minh
+2427,4610,BHX_DON_BHO - 18/174 Trảng Dài,1026,Tỉnh Đồng Nai
+2428,10438,BHX_CMA_CMA - Lý Thường Kiệt (Phường 6),1033,Tỉnh Cà Mau
+2429,6578,BHX_BPH_BDA - Đắk Nhau,1026,Tỉnh Đồng Nai
+2430,15458,BHX_HCM_CGI - 03 Tam Thôn Hiệp,1027,Thành phố Hồ Chí Minh
+2431,6061,BHX_BTH_PTH - 228 Nguyễn Đình Chiểu (Chợ Rạng),1025,Tỉnh Lâm Đồng
+2432,4581,BHX_BDU_TUY - Thửa 312 Khánh Bình,1027,Thành phố Hồ Chí Minh
+2433,4300,BHX_TGI_CLA - 17/2 Bến Cát,1029,Tỉnh Đồng Tháp
+2434,4598,BHX_BDU_TAN - Thửa 108 Bình Hòa,1027,Thành phố Hồ Chí Minh
+2435,4479,BHX_DON_BHO - 19 Tổ 13 Trảng Dài (Chợ Phú Thọ),1026,Tỉnh Đồng Nai
+2436,13986,BHX_KHH_VNI - 114 Nguyễn Huệ,1023,Tỉnh Khánh Hòa
+2437,7029,BHX_HCM_TDU - 3 Lý Tế Xuyên,1027,Thành phố Hồ Chí Minh
+2438,14942,BHX_HTI_KAN - Phong Bắc,1017,Tỉnh Hà Tĩnh
+2439,15759,BHX_QTR_PNH - Hà Lời,1018,Tỉnh Quảng Trị
+2440,10378,BHX_BRV_VTA - 5/19 Nguyễn Thái Học,1027,Thành phố Hồ Chí Minh
+2441,14438,BHX_HUE_HTH - 235 - 237 Nguyễn Tất Thành,1019,Thành phố Huế
+2442,3471,BHX_HCM_GVA - 330 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+2443,6073,BHX_DON_VCU - 338 Tỉnh Lộ 768,1026,Tỉnh Đồng Nai
+2444,14966,BHX_THO_YDI - Quán Lào,1015,Tỉnh Thanh Hóa
+2445,14499,BHX_HTI_KAN - Kỳ Liên,1017,Tỉnh Hà Tĩnh
+2446,14003,BHX_BTR_BTR - Kho Lạnh Trần Đại Nghĩa (HUB),1030,Tỉnh Vĩnh Long
+2447,6560,BHX_DON_LTH - Ấp 4 Long An,1026,Tỉnh Đồng Nai
+2448,15069,BHX_THO_QXU - Kho DC Thanh Hóa (Đổi -Trả NCC),1015,Tỉnh Thanh Hóa
+2449,29761,BHX_HCM_BHU - Chung cư CC8-9,1027,Thành phố Hồ Chí Minh
+2450,6402,BHX_HCM_TDU - 23 Đường Số 6 (Chợ Đại Đoàn Kết),1027,Thành phố Hồ Chí Minh
+2451,28724,BHX_CTH_NTO - Ngọc Tố,1032,Thành phố Cần Thơ
+2452,7317,BHX_LDO_DLI - Hòa Nam,1025,Tỉnh Lâm Đồng
+2453,2858,BHX_HCM_BCH - D11/4A Đoàn Nguyễn Tuấn,1027,Thành phố Hồ Chí Minh
+2454,7031,BHX_HCM_TDU - 34 Đường Số 4D,1027,Thành phố Hồ Chí Minh
+2455,29947,BHX_HCM_CKI - 149-151 Phan Đăng Lưu,1027,Thành phố Hồ Chí Minh
+2456,28138,BHX_HCM_THO - Khu DC Ấp 1,1027,Thành phố Hồ Chí Minh
+2457,13788,BHX_BLI_BLI - Phường 5,1033,Tỉnh Cà Mau
+2458,4389,BHX_DON_NTR - 376 Lý Thái Tổ (Phước Thiền),1026,Tỉnh Đồng Nai
+2459,8024,BHX_HCM_Q06 - Thửa 416 Phường 10,1027,Thành phố Hồ Chí Minh
+2460,28582,BHX_DNA_HXU - Nguyễn Phước Lan,1020,Thành phố Đà Nẵng
+2461,13385,BHX_CMA_CMA - HUB Cà Mau,1033,Tỉnh Cà Mau
+2462,6633,BHX_BRV_CDU - Gia Hòa Yên (Chợ Bình Giã),1027,Thành phố Hồ Chí Minh
+2463,2717,BHX_HCM_HMO - 54/1 Tân Hiệp (Thới Tây 2),1027,Thành phố Hồ Chí Minh
+2464,15711,BHX_THO_DQU - Đông Quang,1015,Tỉnh Thanh Hóa
+2465,9474,BHX_DON_VCU - Phú Lý,1026,Tỉnh Đồng Nai
+2466,5271,BHX_BDU_TAN - Thửa 183 Đồng An,1027,Thành phố Hồ Chí Minh
+2467,10151,BHX_HCM_TPH - 34 Lương Minh Nguyệt,1027,Thành phố Hồ Chí Minh
+2468,15567,BHX_NAN_YTH - Tràng Sơn,1016,Tỉnh Nghệ An
+2469,10446,BHX_HGI_CTA - Kho XLCL Châu Thành A,1032,Thành phố Cần Thơ
+2470,29945,BHX_HCM_NLO - 995 Hoàng Sa,1027,Thành phố Hồ Chí Minh
+2471,6923,BHX_BRV_PMY - Mỹ Thạnh (Mỹ Xuân),1027,Thành phố Hồ Chí Minh
+2472,28163,BHX_NBI_GLA - Chợ Na,1014,Tỉnh Ninh Bình
+2473,15730,BHX_DNA_HKH - Đà Sơn,1020,Thành phố Đà Nẵng
+2474,9509,BHX_HCM_CGI - Lý Nhơn,1027,Thành phố Hồ Chí Minh
+2475,14943,BHX_QTR_HHO - Lê Duẩn,1018,Tỉnh Quảng Trị
+2476,7777,BHX_CTH_TNO - Kho Lạnh Thốt Nốt,1032,Thành phố Cần Thơ
+2477,14515,BHX_THO_SSO - Trường Sơn,1015,Tỉnh Thanh Hóa
+2478,29912,BHX_HPH_THU - Thiên Hương,1012,Thành phố Hải Phòng
+2479,8223,BHX_HCM_GVA - 309 Thống Nhất,1027,Thành phố Hồ Chí Minh
+2480,14396,BHX_HCM_BTH - 352 Chu Văn An,1027,Thành phố Hồ Chí Minh
+2481,5488,BHX_HCM_TBI - 61 Nhất Chi Mai,1027,Thành phố Hồ Chí Minh
+2482,30112,BHX_TNI_LNI - Lộc Ninh,1028,Tỉnh Tây Ninh
+2483,7255,BHX_TGI_TPD - Phú Thạnh,1029,Tỉnh Đồng Tháp
+2484,6345,BHX_DLA_CMG - 44 Tỉnh Lộ 8 (Ea Pốk),1024,Tỉnh Đắk Lắk
+2485,30103,BHX_HCM_BHI - 10 Lê Trung Nghĩa,1027,Thành phố Hồ Chí Minh
+2486,9985,BHX_BPH_LNI - Lộc Thiện,1026,Tỉnh Đồng Nai
+2487,6202,BHX_LAN_CTH - Thửa 185 Thuận Mỹ,1028,Tỉnh Tây Ninh
+2488,4530,BHX_DON_BHO - 355-355B Long Bình Tân,1026,Tỉnh Đồng Nai
+2489,13714,BHX_HCM_TDU - Vinhomes Grand Park,1027,Thành phố Hồ Chí Minh
+2490,6483,BHX_KHH_CLA - Hương Lộ 39 (Suối Cát),1023,Tỉnh Khánh Hòa
+2491,5218,BHX_CTH_TLA - Thửa 1090 Đông Hòa (Chợ Kinh Ngang),1032,Thành phố Cần Thơ
+2492,6198,BHX_LAN_CGI - Long Thạnh (Chùa Bà Long Thượng),1028,Tỉnh Tây Ninh
+2493,1157,BHX_HCM_BTA - 175 Lê Đình Cẩn,1027,Thành phố Hồ Chí Minh
+2494,4970,BHX_HCM_GVA - 88 Đường Số 28,1027,Thành phố Hồ Chí Minh
+2495,28174,BHX_NAN_QLU - Quỳnh Hậu,1016,Tỉnh Nghệ An
+2496,14531,BHX_QTR_VLI - Hồ Xá,1018,Tỉnh Quảng Trị
+2497,14844,BHX_HCM_HMO - 104/3 Xuân Thới 5,1027,Thành phố Hồ Chí Minh
+2498,14623,BHX_HCM_GVA - 537 Nguyễn Oanh,1027,Thành phố Hồ Chí Minh
+2499,28222,BHX_AGI_VBI - Vĩnh Bình Nam,1031,Tỉnh An Giang
+2500,15745,BHX_HCM_ADO - Trần Tuấn Khải,1027,Thành phố Hồ Chí Minh
+2501,15467,BHX_HUE_PLO - Phú Lộc (chợ Cầu Hai),1019,Thành phố Huế
+2502,4429,BHX_TGI_CLA - Thửa 522 và 559 Mỹ Phước Tây,1029,Tỉnh Đồng Tháp
+2503,30182,BHX_LAN_DLA -Kho Đóng Gói Xuyên Á (HUB),1028,Tỉnh Tây Ninh
+2504,28279,BHX_HUE_KTR - Khe Tre,1019,Thành phố Huế
+2505,15007,BHX_KHH_NTR - Đường 2/4 (chợ Bầu),1023,Tỉnh Khánh Hòa
+2506,4842,BHX_DON_BHO - 19/40 Đường 643 (Chợ Điều),1026,Tỉnh Đồng Nai
+2507,8904,BHX_HCM_TPH - 359 Tân Hương,1027,Thành phố Hồ Chí Minh
+2508,13300,BHX_HCM_BCH - Thửa 655 Vĩnh Lộc A (HUB),1027,Thành phố Hồ Chí Minh
+2509,15059,BHX_GLA_IHR - Kho DC Gia Lai (Đổi -Trả NCC),1022,Tỉnh Gia Lai
+2510,28078,BHX_HCM_APH - Kho Đóng Gói Thuận An (HUB),1027,Thành phố Hồ Chí Minh
+2511,28764,BHX_DLA_BMT - Hoà Phú,1024,Tỉnh Đắk Lắk
+2512,9262,BHX_BDU_TDM - Phú Cường,1027,Thành phố Hồ Chí Minh
+2513,6143,BHX_BPH_BDO - ĐT759-B Thiện Hưng,1026,Tỉnh Đồng Nai
+2514,5166,BHX_BTR_BAT - Thửa 323 Tân Thủy,1030,Tỉnh Vĩnh Long
+2515,6158,BHX_DON_XLO - Số 0124 Xuân Hưng,1026,Tỉnh Đồng Nai
+2516,4837,BHX_DON_DQU - Số 1 Ấp Chợ Phú Túc,1026,Tỉnh Đồng Nai
+2517,15736,BHX_TNI_CGI - Long Hậu,1028,Tỉnh Tây Ninh
+2518,5761,BHX_KHH_NTR - Thái Thông (Chợ Vĩnh Thái),1023,Tỉnh Khánh Hòa
+2519,30008,BHX_HPH_LCH - 636 Thiên Lôi,1012,Thành phố Hải Phòng
+2520,28134,BHX_NBI_YMA - Ngọc Lâm,1014,Tỉnh Ninh Bình
+2521,14927,BHX_AGI_CMO - Nhơn Mỹ (Sôn Đốt),1031,Tỉnh An Giang
+2522,30072,BHX_HCM_COL - 115B1 Trần Đình Xu,1027,Thành phố Hồ Chí Minh
+2523,8026,BHX_TGI_MTH - 13 Ấp Bắc (Chợ Thạnh Trị),1029,Tỉnh Đồng Tháp
+2524,6281,BHX_BLI_HBI - 404 Thị Trấn A1,1033,Tỉnh Cà Mau
+2525,5216,BHX_DON_NTR - 420 Hùng Vương (Hiệp Phước),1026,Tỉnh Đồng Nai
+2526,2401,BHX_HCM_HMO - 27/10A Nguyễn Văn Bứa,1027,Thành phố Hồ Chí Minh
+2527,3857,BHX_DON_BHO - 11 Khu phố 3 Trảng Dài,1026,Tỉnh Đồng Nai
+2528,14683,BHX_NAN_THO - 74 Nguyễn Trãi,1016,Tỉnh Nghệ An
+2529,10296,BHX_TGI_CTH - Long Định,1029,Tỉnh Đồng Tháp
+2530,28021,BHX_HCM_APD - 46 Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+2531,14278,BHX_BDI_ANH - 87G Trần Phú,1022,Tỉnh Gia Lai
+2532,13904,BHX_HCM_BTA - Vĩnh Lộc (HUB),1027,Thành phố Hồ Chí Minh
+2533,7223,BHX_DNG_DSO - Đắk N'Drung,1025,Tỉnh Lâm Đồng
+2534,4817,BHX_HCM_TDU - 01 Bưng Ông Thoàn,1027,Thành phố Hồ Chí Minh
+2535,14784,BHX_HGI_VTH - 616 Trần Hưng Đạo,1032,Thành phố Cần Thơ
+2536,14410,BHX_TGI_CLA - Nhị Quý,1029,Tỉnh Đồng Tháp
+2537,14131,BHX_DNA_HVA - Đường ĐT 602,1020,Thành phố Đà Nẵng
+2538,15622,BHX_NAN_DCH - Diễn Trường,1016,Tỉnh Nghệ An
+2539,5658,BHX_KHH_CRA - Nghĩa Cam (Ngã 3 Chợ Mỹ Ca),1023,Tỉnh Khánh Hòa
+2540,14790,BHX_KGI_RGI - Chung Cư Sophia,1031,Tỉnh An Giang
+2541,9938,BHX_DON_DQU - Thanh Sơn,1026,Tỉnh Đồng Nai
+2542,3774,BHX_BDU_TDM - 141 Trần Văn Ơn,1027,Thành phố Hồ Chí Minh
+2543,14981,BHX_DON_BHO - 556 Huỳnh Văn Nghệ,1026,Tỉnh Đồng Nai
+2544,27996,BHX_DON_THU - An Qúy,1026,Tỉnh Đồng Nai
+2545,29749,BHX_HCM_PLO - Nguyễn Thị Minh Khai,1027,Thành phố Hồ Chí Minh
+2546,3248,BHX_HCM_TDU - 22 Đường 339,1027,Thành phố Hồ Chí Minh
+2547,9950,BHX_TNI_GDA - Phước Đức A,1028,Tỉnh Tây Ninh
+2548,9468,BHX_BPH_PRI - Phú Riềng,1026,Tỉnh Đồng Nai
+2549,28594,BHX_AGI_TPH - Tây Phú,1031,Tỉnh An Giang
+2550,6304,BHX_TGI_CLA - Bình Tịnh (Bình Phú),1029,Tỉnh Đồng Tháp
+2551,28569,BHX_NBI_KHO - Khánh Hội,1014,Tỉnh Ninh Bình
+2552,28022,BHX_HCM_GDI - 29A Hoàng Hoa Thám,1027,Thành phố Hồ Chí Minh
+2553,28693,BHX_HYE_DTN - Lục Nam ( Chợ Lục),1013,Tỉnh Hưng Yên
+2554,2405,BHX_HCM_HMO - 11/3D Bà Điểm 9,1027,Thành phố Hồ Chí Minh
+2555,14600,BHX_DON_TBO - Bắc Sơn ( Chợ Tạm Bắc Hợp),1026,Tỉnh Đồng Nai
+2556,15447,BHX_DNA_LCH - Hoà Hiệp Nam (chợ Nam Ô),1020,Thành phố Đà Nẵng
+2557,4907,BHX_DTH_CLA - Thửa 65 Bình Hàng Tây,1029,Tỉnh Đồng Tháp
+2558,7951,BHX_HCM_Q07 - 52 Đường Số 51,1027,Thành phố Hồ Chí Minh
+2559,28659,BHX_AGI_DHO - Chín Rưỡi,1031,Tỉnh An Giang
+2560,14518,BHX_QBI_BDO - Quang Trung,1018,Tỉnh Quảng Trị
+2561,14374,BHX_NTH_PRA - Số 251 Yên Ninh,1023,Tỉnh Khánh Hòa
+2562,15677,BHX_THO_TXU - Lam Sơn,1015,Tỉnh Thanh Hóa
+2563,28216,BHX_NBI_HLU -  Hải Thượng Lãn Ông,1014,Tỉnh Ninh Bình
+2564,30167,BHX_DTH_HTH - Hưng Thạnh,1029,Tỉnh Đồng Tháp
+2565,15084,BHX_BPH_DPH - Thuận Phú,1026,Tỉnh Đồng Nai
+2566,7254,BHX_LDO_LDU - 76 Langbiang,1025,Tỉnh Lâm Đồng
+2567,28104,BHX_NBI_TSO - Núi Vàng,1014,Tỉnh Ninh Bình
+2568,14520,BHX_KHH_NTR - 171A Đường 2/4,1023,Tỉnh Khánh Hòa
+2569,6347,BHX_VLO_VLI - Ấp 8 Tân An Luông,1030,Tỉnh Vĩnh Long
+2570,28681,BHX_DNA_NHS - Mỹ An,1020,Thành phố Đà Nẵng
+2571,5261,BHX_BPH_DXO - Thửa 01 Phạm Ngọc Thạch,1026,Tỉnh Đồng Nai
+2572,6890,BHX_LDO_DDU - Nam Hiệp 1 (Ka Đô),1025,Tỉnh Lâm Đồng
+2573,14165,BHX_QNA_DBA - Kho Điện Bàn (HUB),1020,Thành phố Đà Nẵng
+2574,28301,BHX_LDO_NTH - Đa Kai 4,1025,Tỉnh Lâm Đồng
+2575,9448,BHX_BPH_BDO - Hưng Phước,1026,Tỉnh Đồng Nai
+2576,4972,BHX_HGI_PHI - Thửa 2440 Mỹ Quới (Vòng Xoay Cây Dương),1032,Thành phố Cần Thơ
+2577,3841,BHX_HCM_BCH - Kho Lạnh Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+2578,3387,BHX_HCM_GVA - 415 Đường số 10,1027,Thành phố Hồ Chí Minh
+2579,4415,BHX_HGI_PHI - Thửa 953 Cầu Xáng (Chợ Kinh Cùng),1032,Thành phố Cần Thơ
+2580,4086,BHX_DON_BHO - 10 Phùng Hưng,1026,Tỉnh Đồng Nai
+2581,14799,BHX_LAN_THO - Thạnh Hoá,1028,Tỉnh Tây Ninh
+2582,6473,BHX_DLA_CMG - 165 Thôn Hiệp Tiến,1024,Tỉnh Đắk Lắk
+2583,5456,BHX_TNI_TBA - An Quới (Chợ An Hòa),1028,Tỉnh Tây Ninh
+2584,5484,BHX_HCM_GVA - 39A Đường Số 59,1027,Thành phố Hồ Chí Minh
+2585,30068,BHX_DTH_LDI - Nhị Bình,1029,Tỉnh Đồng Tháp
+2586,14801,BHX_QNA_DLO - 37 - 39 Đỗ Đăng Tuyển,1020,Thành phố Đà Nẵng
+2587,6287,BHX_DLA_BMT - 152 Mai Hắc Đế,1024,Tỉnh Đắk Lắk
+2588,6387,BHX_DON_NTR - Ấp 2 Phước Khánh,1026,Tỉnh Đồng Nai
+2589,14324,BHX_BDI_QNH - 363 Hoàng Văn Thụ,1022,Tỉnh Gia Lai
+2590,5038,BHX_TGI_CBE - Thửa 1009 Hậu Phú 1,1029,Tỉnh Đồng Tháp
+2591,3322,BHX_HCM_Q08 - 61A Phú Định,1027,Thành phố Hồ Chí Minh
+2592,15041,BHX_THO_HLO - Minh Lộc,1015,Tỉnh Thanh Hóa
+2593,28310,BHX_HYE_DHU - Đông Xuân,1013,Tỉnh Hưng Yên
+2594,3989,BHX_HCM_Q12 - 77 Bùi Văn Ngữ,1027,Thành phố Hồ Chí Minh
+2595,14618,BHX_TVI_TVI - Phường 08,1030,Tỉnh Vĩnh Long
+2596,6388,BHX_DON_NTR - Phước Lý (Đại Phước),1026,Tỉnh Đồng Nai
+2597,14128,BHX_HCM_Q08 - 1-3-5 đường số 6,1027,Thành phố Hồ Chí Minh
+2598,14959,BHX_DLA_KAN - Ea Na,1024,Tỉnh Đắk Lắk
+2599,3750,BHX_HCM_TDU - 182 Đỗ Xuân Hợp,1027,Thành phố Hồ Chí Minh
+2600,4596,BHX_DON_BHO - G14 Phạm Thị Nghĩa (Tân Hiệp),1026,Tỉnh Đồng Nai
+2601,14529,BHX_QBI_LTH - Kiến Giang,1018,Tỉnh Quảng Trị
+2602,5233,BHX_BLI_PLO - 17A Phước Thành,1033,Tỉnh Cà Mau
+2603,8041,BHX_DNG_DMI - DT683 Đức Minh,1025,Tỉnh Lâm Đồng
+2604,8746,BHX_LDO_DLA - 67 Mê Linh,1025,Tỉnh Lâm Đồng
+2605,3761,BHX_HCM_GVA - 111 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+2606,3974,BHX_LAN_DHO - Thuận Hòa 1,1028,Tỉnh Tây Ninh
+2607,28737,BHX_AGI_VHH - Vĩnh Hoà Hưng Bắc,1031,Tỉnh An Giang
+2608,8666,BHX_LAN_TTH - Thủ Thừa,1028,Tỉnh Tây Ninh
+2609,30148,BHX_LDO_DTR - Kho Đóng Gói Đức Trọng (HUB),1025,Tỉnh Lâm Đồng
+2610,6588,BHX_HCM_BTH - 45B Đường D5,1027,Thành phố Hồ Chí Minh
+2611,14769,BHX_HUE_PLO - Lộc Bổn,1019,Thành phố Huế
+2612,10663,BHX_HCM_BCH - Kho trung chuyển rau củ Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+2613,28187,BHX_DLA_ELY - Tân Yên,1024,Tỉnh Đắk Lắk
+2614,28210,BHX_NBI_HLU - Hoa Lư (chợ Ninh Mỹ),1014,Tỉnh Ninh Bình
+2615,15024,BHX_QBI_BDO - Quảng Hoà,1018,Tỉnh Quảng Trị
+2616,3326,BHX_HCM_GVA - 390 Nguyễn Oanh,1027,Thành phố Hồ Chí Minh
+2617,6221,BHX_CMA_CMA - 367 Nguyễn Công Trứ,1033,Tỉnh Cà Mau
+2618,6131,BHX_TNI_GDA - Đá Hàng (Hiệp Thạnh),1028,Tỉnh Tây Ninh
+2619,1942,BHX_HCM_BTA - 46 Tên Lửa,1027,Thành phố Hồ Chí Minh
+2620,14172,BHX_QNA_DXU - Khối Phố Long Xuyên 3,1020,Thành phố Đà Nẵng
+2621,10184,BHX_LAN_TAN - 230 Châu Thị Kim,1028,Tỉnh Tây Ninh
+2622,10038,BHX_LAN_TTR - Tân Bình,1028,Tỉnh Tây Ninh
+2623,14794,BHX_QBI_BTR - Thanh Trạch (Chợ Thanh Hà),1018,Tỉnh Quảng Trị
+2624,8542,BHX_DNG_DMI - Thửa 433 Nguyễn Tất Thành,1025,Tỉnh Lâm Đồng
+2625,15520,BHX_CTH_NKI - 30/4,1032,Thành phố Cần Thơ
+2626,10299,BHX_HCM_TPH -  131-133 Văn Cao,1027,Thành phố Hồ Chí Minh
+2627,28576,BHX_HUE_PXU - Lê Huân,1019,Thành phố Huế
+2628,7013,BHX_HCM_CCH - 73 Đường Số 78,1027,Thành phố Hồ Chí Minh
+2629,6404,BHX_BTH_PTH - Khu phố 5 Đức Long (Chợ Bia Đài),1025,Tỉnh Lâm Đồng
+2630,5234,BHX_TNI_GDA - Thửa 292 Bến Mương,1028,Tỉnh Tây Ninh
+2631,7801,BHX_DON_BHO - Thửa 200 Hóa An,1026,Tỉnh Đồng Nai
+2632,5313,BHX_BDU_TAN - Thửa 202 Bình Thuận 1,1027,Thành phố Hồ Chí Minh
+2633,6428,BHX_HGI_LMY - Khu vực Long An (Trà Lồng),1032,Thành phố Cần Thơ
+2634,15648,BHX_HCM_CCH - 33 Nguyễn Thị Lừa,1027,Thành phố Hồ Chí Minh
+2635,4570,BHX_BTR_GTR - Thửa 194 Mỹ Thạnh,1030,Tỉnh Vĩnh Long
+2636,5289,BHX_DTH_LVO - Thửa 166 Vĩnh Thạnh,1029,Tỉnh Đồng Tháp
+2637,27999,BHX_DTH_MHI - Mỹ Hiệp,1029,Tỉnh Đồng Tháp
+2638,6773,BHX_TGI_GCT - Thuận Trị (Bình Tân),1029,Tỉnh Đồng Tháp
+2639,4077,BHX_BDU_DAN - 66 Đường D1 Tân Đông Hiệp,1027,Thành phố Hồ Chí Minh
+2640,8913,BHX_DON_NTR - Phú Hội,1026,Tỉnh Đồng Nai
+2641,13831,BHX_BTH_PTH - Phú Trinh,1025,Tỉnh Lâm Đồng
+2642,5312,BHX_DON_BHO - A2/285 Tân Vạn,1026,Tỉnh Đồng Nai
+2643,6250,BHX_DLA_CMG - 49 Hùng Vương,1024,Tỉnh Đắk Lắk
+2644,30099,BHX_AGI_BMY - Vàm Sáng Cây Dương,1031,Tỉnh An Giang
+2645,9210,BHX_BRV_DDO - Lộc An,1027,Thành phố Hồ Chí Minh
+2646,14536,BHX_STR_MXU - TT Mỹ Xuyên,1032,Thành phố Cần Thơ
+2647,2403,BHX_HCM_BCH - E1/2 Ấp 5 (Vĩnh Lộc B),1027,Thành phố Hồ Chí Minh
+2648,6234,BHX_DNG_DMI - 52 Xuân Phong (Đức Minh),1025,Tỉnh Lâm Đồng
+2649,14488,BHX_CTH_CDO - Thới Thuận,1032,Thành phố Cần Thơ
+2650,3427,BHX_HCM_Q08 - 162 An Dương Vương,1027,Thành phố Hồ Chí Minh
+2651,9103,BHX_LDO_DRO - Đạ RSal,1025,Tỉnh Lâm Đồng
+2652,6420,BHX_HCM_BTH - 138 Nguyễn Xí,1027,Thành phố Hồ Chí Minh
+2653,14957,BHX_HCM_CCH - Tân Thạnh Tây,1027,Thành phố Hồ Chí Minh
+2654,6562,BHX_CMA_PTA - Khóm 1 Cái Đôi Vàm,1033,Tỉnh Cà Mau
+2655,6771,BHX_BTR_BAT - Nhơn Hòa (Chợ Mỹ Nhơn),1030,Tỉnh Vĩnh Long
+2656,3751,BHX_HCM_TDU - 190 Quốc Lộ 13,1027,Thành phố Hồ Chí Minh
+2657,9037,BHX_DLA_EHL - Ea Nam,1024,Tỉnh Đắk Lắk
+2658,14982,BHX_HTI_NXU - Xuân An,1017,Tỉnh Hà Tĩnh
+2659,28211,BHX_LDO_DLI - chợ Vũ Hoà,1025,Tỉnh Lâm Đồng
+2660,14538,BHX_QBI_QTR - Cảnh Dương,1018,Tỉnh Quảng Trị
+2661,5036,BHX_BPH_BDA - Thửa 533 Bom Bo,1026,Tỉnh Đồng Nai
+2662,5300,BHX_BDU_TUY - Thửa 197 Phú Trung,1027,Thành phố Hồ Chí Minh
+2663,8536,BHX_DTH_CLA - Thửa 436 Thiên Hộ Dương,1029,Tỉnh Đồng Tháp
+2664,2643,BHX_HCM_HMO - 23/9A Trịnh Thị Miếng,1027,Thành phố Hồ Chí Minh
+2665,6041,BHX_DON_LTH - Ấp 3 Bình Sơn,1026,Tỉnh Đồng Nai
+2666,28939,BHX_HCM_PHD - 1340 Tỉnh lộ 8,1027,Thành phố Hồ Chí Minh
+2667,3972,BHX_HCM_Q11 - 17 Dương Đình Nghệ,1027,Thành phố Hồ Chí Minh
+2668,4937,BHX_HCM_TDU - 61 Nguyễn Duy Trinh,1027,Thành phố Hồ Chí Minh
+2669,6297,BHX_LAN_THU - Thửa 120 Tân Hưng,1028,Tỉnh Tây Ninh
+2670,9432,BHX_HCM_Q06 - Phạm Phú Thứ,1027,Thành phố Hồ Chí Minh
+2671,10452,BHX_CTH_TNO - Kho XLCL Thốt Nốt,1032,Thành phố Cần Thơ
+2672,4462,BHX_TGI_MTH - Thửa 151 Phường 6 Mỹ Tho,1029,Tỉnh Đồng Tháp
+2673,28221,BHX_CMA_KLA - Khánh Lâm,1033,Tỉnh Cà Mau
+2674,28851,BHX_NAN_VHI - Quang Sơn,1016,Tỉnh Nghệ An
+2675,6563,BHX_CMA_CMA - Hải Thượng Lãn Ông,1033,Tỉnh Cà Mau
+2676,5037,BHX_TGI_CTH - Thửa 41 Vĩnh Thạnh,1029,Tỉnh Đồng Tháp
+2677,8910,BHX_HCM_BCH - Thửa 132 Vĩnh Lộc B,1027,Thành phố Hồ Chí Minh
+2678,14331,BHX_BDI_TPH - Tuy Phước,1022,Tỉnh Gia Lai
+2679,6098,BHX_LDO_BLO - 616 Nguyễn Văn Cừ,1025,Tỉnh Lâm Đồng
+2680,6986,BHX_DON_DQU - 40/4 La Ngà,1026,Tỉnh Đồng Nai
+2681,15852,BHX_DNA_HKH - Nguyễn Huy Tưởng,1020,Thành phố Đà Nẵng
+2682,14962,BHX_THO_YDI - Yên Trường ( Phố Kiểu),1015,Tỉnh Thanh Hóa
+2683,8108,BHX_DON_NTR - Thửa 67 Phước Thiền,1026,Tỉnh Đồng Nai
+2684,4537,BHX_BRV_LDI - Số 9 Phước Lộc (Chợ Long Hải),1027,Thành phố Hồ Chí Minh
+2685,15109,BHX_HUE_PLO - Lộc Sơn,1019,Thành phố Huế
+2686,6511,BHX_DLA_EKA - Thôn 8 Ea Ô,1024,Tỉnh Đắk Lắk
+2687,5663,BHX_NTH_NSO - Khu Phố 3 Tân Sơn (Chợ Song Mỹ),1023,Tỉnh Khánh Hòa
+2688,10497,BHX_BLI_PLO - Phước Long,1033,Tỉnh Cà Mau
+2689,15806,BHX_DNA_HKH - Mẹ Suốt,1020,Thành phố Đà Nẵng
+2690,5079,BHX_CTH_TNO - Thửa 444 Thới Hòa 1 (Ngã Ba Lộ Tẻ),1032,Thành phố Cần Thơ
+2691,6521,BHX_KHH_CLA - Quốc Lộ 1A (Cam Đức),1023,Tỉnh Khánh Hòa
+2692,28053,BHX_HCM_CCH - 92 Liêu Bình Hương,1027,Thành phố Hồ Chí Minh
+2693,28893,BHX_HCM_BLO - C5/173/A Vườn Thơm,1027,Thành phố Hồ Chí Minh
+2694,27959,BHX_THO_BSO - 94 Trần Phú,1015,Tỉnh Thanh Hóa
+2695,8916,BHX_BDU_DAN - Đông Hòa,1027,Thành phố Hồ Chí Minh
+2696,5229,BHX_HCM_TPH - 60 Nguyễn Cửu Đàm,1027,Thành phố Hồ Chí Minh
+2697,5455,BHX_HCM_BTH - 125/7 Bùi Đình Túy,1027,Thành phố Hồ Chí Minh
+2698,28114,BHX_HCM_HMO - 37/3A Ấp Chánh 2,1027,Thành phố Hồ Chí Minh
+2699,6553,BHX_CMA_NCA - Khóm 2 Năm Căn,1033,Tỉnh Cà Mau
+2700,13771,BHX_DON_LTH - HUB Long Thành,1026,Tỉnh Đồng Nai
+2701,14336,BHX_HUE_HTR - Tứ Hạ,1019,Thành phố Huế
+2702,28235,BHX_LDO_THA - Thuận Hạnh,1025,Tỉnh Lâm Đồng
+2703,8945,BHX_CTH_NKI - 30A Mậu Thân,1032,Thành phố Cần Thơ
+2704,9972,BHX_LAN_CGI - Phước Lâm,1028,Tỉnh Tây Ninh
+2705,4878,BHX_CTH_NKI - 132/3 Đường 3 Tháng 2,1032,Thành phố Cần Thơ
+2706,7950,BHX_HCM_BTA - 541A An Dương Vương,1027,Thành phố Hồ Chí Minh
+2707,28139,BHX_DON_LBI - Kho Đóng Gói Long Bình (HUB),1026,Tỉnh Đồng Nai
+2708,30095,BHX_HCM_TNH - Láng Le Bầu Cò,1027,Thành phố Hồ Chí Minh
+2709,3251,BHX_HCM_BTH - 860/42 Xô Viết Nghệ Tĩnh,1027,Thành phố Hồ Chí Minh
+2710,9126,BHX_TVI_DHA - Ngũ Lạc,1030,Tỉnh Vĩnh Long
+2711,7714,BHX_DON_TBO - Thửa 434 Bắc Sơn,1026,Tỉnh Đồng Nai
+2712,30066,BHX_HCM_HPH - 1684 Lê Văn Lương,1027,Thành phố Hồ Chí Minh
+2713,3207,BHX_HCM_Q07 - 769A Trần Xuân Soạn,1027,Thành phố Hồ Chí Minh
+2714,8154,BHX_LDO_DDU - Thửa 317 Dran,1025,Tỉnh Lâm Đồng
+2715,14658,BHX_HGI_NBA - Hùng Vương,1032,Thành phố Cần Thơ
+2716,3615,BHX_BDU_DAN - 117 Nguyễn Trãi,1027,Thành phố Hồ Chí Minh
+2717,4903,BHX_BRV_LDI - Tổ 21/6 Hải Điền (Vòng Xoay Mũi Tàu),1027,Thành phố Hồ Chí Minh
+2718,28299,BHX_NBI_NTR - Nam Trực,1014,Tỉnh Ninh Bình
+2719,29942,BHX_HCM_GVA - 424 Nguyễn Oanh,1027,Thành phố Hồ Chí Minh
+2720,8844,BHX_BLI_BLI - 206 Cách Mạng,1033,Tỉnh Cà Mau
+2721,2823,BHX_HCM_HMO - 55 Đông Thạnh,1027,Thành phố Hồ Chí Minh
+2722,8882,BHX_LAN_DHO - Thửa 30 Mỹ Hạnh Nam,1028,Tỉnh Tây Ninh
+2723,4551,BHX_TNI_TNI - Thửa 37 Ninh Sơn,1028,Tỉnh Tây Ninh
+2724,8364,BHX_BRV_VTA - Thửa 100 Cầu Rạch Bà,1027,Thành phố Hồ Chí Minh
+2725,4502,BHX_DON_BHO - 405 Bùi Văn Hòa,1026,Tỉnh Đồng Nai
+2726,5055,BHX_DTH_HNG - Thửa 272 Thường Thới Tiền,1029,Tỉnh Đồng Tháp
+2727,28809,BHX_AGI_VTR - Vĩnh Khánh,1031,Tỉnh An Giang
+2728,14773,BHX_HUE_PDI - Phong An,1019,Thành phố Huế
+2729,14411,BHX_TNI_TBA - Phước Bình,1028,Tỉnh Tây Ninh
+2730,3258,BHX_HCM_BCH - C13/9 Đinh Đức Thiện,1027,Thành phố Hồ Chí Minh
+2731,6363,BHX_BPH_BGM - ĐT741 Đăk Ơ,1026,Tỉnh Đồng Nai
+2732,5278,BHX_KGI_GQU - Thửa 144 Định An (Sóc Ven),1031,Tỉnh An Giang
+2733,28850,BHX_DON_TBI - Bữu Long,1026,Tỉnh Đồng Nai
+2734,30052,BHX_TNI_PLY - Phước Lý,1028,Tỉnh Tây Ninh
+2735,14450,BHX_QBI_DHO - 168 Lý Thái Tổ,1018,Tỉnh Quảng Trị
+2736,6785,BHX_STR_KSA - Ninh Thới (Thới An Hội),1032,Thành phố Cần Thơ
+2737,14344,BHX_GLA_AKH - An Khê,1022,Tỉnh Gia Lai
+2738,6193,BHX_TGI_MTH - Mỹ Thạnh (Mỹ Phong),1029,Tỉnh Đồng Tháp
+2739,6111,BHX_KHH_NTR - 158 Chính Hữu (Vĩnh Lương),1023,Tỉnh Khánh Hòa
+2740,28036,BHX_DNA_AKH - Bắc Sơn,1020,Thành phố Đà Nẵng
+2741,3971,BHX_BDU_TAN - KDC An Phú (Chợ Thông Dụng),1027,Thành phố Hồ Chí Minh
+2742,27961,BHX_HCM_LXU - 729-731 Kha Vạn Cân,1027,Thành phố Hồ Chí Minh
+2743,2842,BHX_HCM_BCH - A3/38 Liên Ấp 123,1027,Thành phố Hồ Chí Minh
+2744,5460,BHX_DTH_TBI - Ấp Thị (Chợ An Phong),1029,Tỉnh Đồng Tháp
+2745,15033,BHX_AGI_LXU - Bình Đức,1031,Tỉnh An Giang
+2746,8284,BHX_HCM_TDU - 141 Đỗ Xuân Hợp,1027,Thành phố Hồ Chí Minh
+2747,14525,BHX_DNA_CLE -  Hà Tông Quyền,1020,Thành phố Đà Nẵng
+2748,4501,BHX_TNI_TBI - Thửa 169 Thanh Hòa (Chợ Mỏ Công),1028,Tỉnh Tây Ninh
+2749,4935,BHX_BDU_TAN - 95 Nguyễn Văn Tiết,1027,Thành phố Hồ Chí Minh
+2750,4255,BHX_LAN_BLU - 271 và 277 DT835 Phước Lợi,1028,Tỉnh Tây Ninh
+2751,6744,BHX_BDU_TDM - 461 Phú Lợi,1027,Thành phố Hồ Chí Minh
+2752,5453,BHX_HCM_TDU - D1/1 Đường 385,1027,Thành phố Hồ Chí Minh
+2753,6797,BHX_BRV_CDU - Liên Lộc (Xà Bang),1027,Thành phố Hồ Chí Minh
+2754,7586,BHX_LAN_DHO - Bình Tả 2 (Chợ Chiều),1028,Tỉnh Tây Ninh
+2755,5177,BHX_DTH_TNO - Thửa 216 Tràm Chim,1029,Tỉnh Đồng Tháp
+2756,6257,BHX_DON_NTR - Đoàn Kết (Vĩnh Thanh),1026,Tỉnh Đồng Nai
+2757,15731,BHX_HCM_TTH - 296-298 Đường số 8,1027,Thành phố Hồ Chí Minh
+2758,9295,BHX_HCM_TDU - 615 Tô Ngọc Vân,1027,Thành phố Hồ Chí Minh
+2759,2308,BHX_HCM_HMO - 37B Hậu Lân,1027,Thành phố Hồ Chí Minh
+2760,9761,BHX_HGI_PHI - Tân Long (Cầu Trắng),1032,Thành phố Cần Thơ
+2761,5405,BHX_STR_TTR - Ấp 3 Phú Lộc,1032,Thành phố Cần Thơ
+2762,4000,BHX_LAN_DHO - Thửa 586 Đức Hòa Đông,1028,Tỉnh Tây Ninh
+2763,3646,BHX_HCM_TBI - 8 Dương Vân Nga,1027,Thành phố Hồ Chí Minh
+2764,14012,BHX_STR_NNA - Phường 2,1032,Thành phố Cần Thơ
+2765,15517,BHX_HGI_LMY - Thuận An,1032,Thành phố Cần Thơ
+2766,14593,BHX_BLI_HBI - Vĩnh Thịnh,1033,Tỉnh Cà Mau
+2767,14970,BHX_THO_TXU - Thường Xuân,1015,Tỉnh Thanh Hóa
+2768,3098,BHX_HCM_BTH - 265B Nguyễn Văn Đậu,1027,Thành phố Hồ Chí Minh
+2769,9460,BHX_BRV_TTH - Phước Hòa,1027,Thành phố Hồ Chí Minh
+2770,4722,BHX_BPH_BDA - Thửa 608 Nghĩa Trung,1026,Tỉnh Đồng Nai
+2771,15657,BHX_VLO_PKH - Nguyễn Huệ,1030,Tỉnh Vĩnh Long
+2772,5948,BHX_DON_DQU - 222 Nguyễn Trãi,1026,Tỉnh Đồng Nai
+2773,14961,BHX_THO_VLO - Vĩnh Thịnh,1015,Tỉnh Thanh Hóa
+2774,1832,BHX_HCM_BTA - 1732 Tỉnh Lộ 10,1027,Thành phố Hồ Chí Minh
+2775,27902,BHX_HCM_TPH - Chung cư RichStar 2,1027,Thành phố Hồ Chí Minh
+2776,6577,BHX_TVI_TCU - Khóm 4 (Chợ Trà Cú),1030,Tỉnh Vĩnh Long
+2777,2442,BHX_HCM_BCH - 225 Hưng Nhơn,1027,Thành phố Hồ Chí Minh
+2778,4950,BHX_TNI_TCH - Thửa 180 Suối Dây,1028,Tỉnh Tây Ninh
+2779,5283,BHX_CTH_CRA - Lô G7A-5 Bùi Quang Trinh (Chợ Phú Thứ),1032,Thành phố Cần Thơ
+2780,5156,BHX_KGI_CTH - Thửa 2393 QL63 An Bình (Tắc Cậu),1031,Tỉnh An Giang
+2781,10297,BHX_LAN_CDU - Tân Trạch,1028,Tỉnh Tây Ninh
+2782,6873,BHX_HCM_TPH - 44 Đường D9,1027,Thành phố Hồ Chí Minh
+2783,9433,BHX_CMA_TBI - Thới Bình,1033,Tỉnh Cà Mau
+2784,14303,BHX_HUE_THO - 63 Chế Lan Viên,1019,Thành phố Huế
+2785,28810,BHX_VLO_TNG - Lò Ngò,1030,Tỉnh Vĩnh Long
+2786,27955,BHX_LDO_BBI - Phan Rí Thành,1025,Tỉnh Lâm Đồng
+2787,9152,BHX_HGI_VTH - Nàng Mau,1032,Thành phố Cần Thơ
+2788,14408,BHX_BDI_HNH - 135 Trần Hưng Đạo,1022,Tỉnh Gia Lai
+2789,9034,BHX_NTH_TNA - Cà Ná,1023,Tỉnh Khánh Hòa
+2790,28055,BHX_HTI_TCA - Thiên Cầm,1017,Tỉnh Hà Tĩnh
+2791,14936,BHX_QTR_DHA - Hàm Nghi,1018,Tỉnh Quảng Trị
+2792,4978,BHX_CTH_TNO - 451 QL91 Long Thạnh 2 (Mũi Tàu),1032,Thành phố Cần Thơ
+2793,15649,BHX_QNA_TBI - Bình Triều,1020,Thành phố Đà Nẵng
+2794,8810,BHX_DLA_ESU - Ea Rốk,1024,Tỉnh Đắk Lắk
+2795,5745,BHX_BTR_BDA - Thửa 324 Châu Hưng,1030,Tỉnh Vĩnh Long
+2796,14458,BHX_TTH_HTH - 02 Đường 2/9,1019,Thành phố Huế
+2797,14299,BHX_HUE_PXU - 71 Nguyễn Trãi,1019,Thành phố Huế
+2798,6380,BHX_BLI_VLO - Long Thạnh,1033,Tỉnh Cà Mau
+2799,28243,BHX_NBI_RDO - Rạng Đông,1014,Tỉnh Ninh Bình
+2800,6539,BHX_AGI_TCH - Long Thị C (Long Hưng),1031,Tỉnh An Giang
+2801,14806,BHX_BDI_TPH - Phước Hòa (Chợ Gò Bồi),1022,Tỉnh Gia Lai
+2802,14805,BHX_BTH_BBI - Phan Thanh,1025,Tỉnh Lâm Đồng
+2803,14514,BHX_THO_THO - 57 Nguyễn Doãn Chấp,1015,Tỉnh Thanh Hóa
+2804,28229,BHX_NBI_NDI - Điện Biên,1014,Tỉnh Ninh Bình
+2805,8360,BHX_DON_NTR - Thửa 248 Vĩnh Thanh,1026,Tỉnh Đồng Nai
+2806,15810,BHX_GLA_IHR - Kho Gia Lai (HUB),1022,Tỉnh Gia Lai
+2807,5242,BHX_BRV_LDI - 91C Long Tân (Long Điền),1027,Thành phố Hồ Chí Minh
+2808,4823,BHX_HCM_Q05 - 10-12 Nhiêu Tâm,1027,Thành phố Hồ Chí Minh
+2809,14792,BHX_GLA_PLK - 186 -188 Phạm Văn Đồng,1022,Tỉnh Gia Lai
+2810,6328,BHX_BRV_PMY - Tân Phú (Châu Pha),1027,Thành phố Hồ Chí Minh
+2811,9966,BHX_LAN_TAN - Phường 03,1028,Tỉnh Tây Ninh
+2812,7221,BHX_TNI_DMC - Phước Ninh,1028,Tỉnh Tây Ninh
+2813,29924,BHX_HCM_BCH - Trịnh Như Khuê,1027,Thành phố Hồ Chí Minh
+2814,2217,BHX_HCM_Q12 - 77H/1 Nguyễn Ảnh Thủ,1027,Thành phố Hồ Chí Minh
+2815,4371,BHX_TGI_MTH - 48A Ấp Bắc,1029,Tỉnh Đồng Tháp
+2816,6795,BHX_DLA_BMT - 259 Ngô Quyền,1024,Tỉnh Đắk Lắk
+2817,14850,BHX_HCM_Q06 - 1002-1004 Hậu Giang,1027,Thành phố Hồ Chí Minh
+2818,5247,BHX_VLO_VLO - 145 Tân Quới Đông (Chợ Trường An),1030,Tỉnh Vĩnh Long
+2819,13725,BHX_LAN_ĐHO - 51 Tỉnh Lộ 10,1028,Tỉnh Tây Ninh
+2820,14494,BHX_NAN_VIN - Nghi Xuân,1016,Tỉnh Nghệ An
+2821,15588,BHX_GLA_PLK - An Phú,1022,Tỉnh Gia Lai
+2822,7717,BHX_CMA_TVT - Đá Bạc (Khánh Bình Tây),1033,Tỉnh Cà Mau
+2823,28550,BHX_HYE_LDA - Kho SC Thịt Cá (AJHY),1013,Tỉnh Hưng Yên
+2824,7171,BHX_AGI_CMO - Hòa Bình,1031,Tỉnh An Giang
+2825,7687,BHX_HCM_TDU - 40A Đường 147,1027,Thành phố Hồ Chí Minh
+2826,7716,BHX_LDO_DLA - Thửa 416 Phường 11,1025,Tỉnh Lâm Đồng
+2827,3070,BHX_HCM_TBI - 171 Võ Thành Trang,1027,Thành phố Hồ Chí Minh
+2828,2247,BHX_HCM_BCH - A6/71P Liên Ấp 123,1027,Thành phố Hồ Chí Minh
+2829,14103,BHX_DNA_STR - 78 - 80 Nguyễn Duy Hiệu,1020,Thành phố Đà Nẵng
+2830,28026,BHX_AGI_RGI - Mạc Cửu,1031,Tỉnh An Giang
+2831,28284,BHX_DLA_TAN - Tân An,1024,Tỉnh Đắk Lắk
+2832,6451,BHX_DLA_BMT - Kho DC Buôn Ma Thuột (Đổi -Trả NCC),1024,Tỉnh Đắk Lắk
+2833,28105,BHX_HCM_PHD - 159 Tỉnh Lộ 15,1027,Thành phố Hồ Chí Minh
+2834,4370,BHX_BDU_TAN - Thửa 322 Hòa Lân 2,1027,Thành phố Hồ Chí Minh
+2835,7993,BHX_HCM_Q12 - 437 Hà Huy Giáp,1027,Thành phố Hồ Chí Minh
+2836,7284,BHX_DNG_CJU - Nam Dong,1025,Tỉnh Lâm Đồng
+2837,7158,BHX_DON_BHO - Thửa 327 Tân Biên,1026,Tỉnh Đồng Nai
+2838,6314,BHX_DTH_LVU - Tân Bình (Chợ Ngã 3 Phong Hòa),1029,Tỉnh Đồng Tháp
+2839,8764,BHX_BDU_TUY - Thửa 655 Thạnh Phước,1027,Thành phố Hồ Chí Minh
+2840,8919,BHX_HCM_Q12 - Tân Hưng Thuận,1027,Thành phố Hồ Chí Minh
+2841,5077,BHX_AGI_TSO - Thửa 01 Núi Sập,1031,Tỉnh An Giang
+2842,5228,BHX_DTH_CLA - Thửa 1871 Mỹ Long,1029,Tỉnh Đồng Tháp
+2843,6565,BHX_NTH_NHA - Nhơn Hải (Chợ Mỹ Tường),1023,Tỉnh Khánh Hòa
+2844,9302,BHX_BPH_LNI - Lộc Quang,1026,Tỉnh Đồng Nai
+2845,6253,BHX_DNG_DRL - QL14 Kiến Đức,1025,Tỉnh Lâm Đồng
+2846,7549,BHX_HCM_BCH - 2Z Đường Số 10 (Bình Hưng),1027,Thành phố Hồ Chí Minh
+2847,9667,BHX_BDU_BBA - Long Nguyên,1027,Thành phố Hồ Chí Minh
+2848,14733,BHX_TVI_TCA - Cầu Quan,1030,Tỉnh Vĩnh Long
+2849,6292,BHX_BTH_PTH - Huỳnh Thúc Kháng (Chợ Mũi Né),1025,Tỉnh Lâm Đồng
+2850,14808,BHX_BLI_GRA - Phong Thạnh,1033,Tỉnh Cà Mau
+2851,28058,BHX_NAN_TTR - Thuận Sơn,1016,Tỉnh Nghệ An
+2852,14802,BHX_HTI_HSO - TT Phố Châu,1017,Tỉnh Hà Tĩnh
+2853,5004,BHX_HCM_BCH - D1/10C Nguyễn Thị Tú,1027,Thành phố Hồ Chí Minh
+2854,6858,BHX_BRV_XMO - Bưng Riềng,1027,Thành phố Hồ Chí Minh
+2855,4834,BHX_HCM_TDU - 61/16 Đường Số 48,1027,Thành phố Hồ Chí Minh
+2856,14939,BHX_HUE_ALU - Hồng Thượng (Bốt Đỏ) OFF,1019,Thành phố Huế
+2857,28197,BHX_HTI_CDA - Cổ Đạm,1017,Tỉnh Hà Tĩnh
+2858,2024,BHX_HCM_BTA - 36 Đường số 8,1027,Thành phố Hồ Chí Minh
+2859,14491,BHX_KHH_NTR - Phong Châu,1023,Tỉnh Khánh Hòa
+2860,5176,BHX_BRV_BRI - 188 Nguyễn Văn Cừ,1027,Thành phố Hồ Chí Minh
+2861,14986,BHX_STR_MXU - Thạnh Quới,1032,Thành phố Cần Thơ
+2862,8654,BHX_CTH_CDO - Thạnh Lộc,1032,Thành phố Cần Thơ
+2863,4953,BHX_BDU_TAN - Thửa 180 Bình Giao,1027,Thành phố Hồ Chí Minh
+2864,8362,BHX_KGI_VTH - Thửa 01 Bình Minh,1031,Tỉnh An Giang
+2865,6371,BHX_VLO_TON - 64/4B Thống Chế Điều Bát,1030,Tỉnh Vĩnh Long
+2866,15749,BHX_DTH_TSO - Thới Sơn,1029,Tỉnh Đồng Tháp
+2867,3969,BHX_HCM_GVA - 43/1A Đường Số 10,1027,Thành phố Hồ Chí Minh
+2868,8678,BHX_HCM_NBE - 1415 Nguyễn Văn Tạo,1027,Thành phố Hồ Chí Minh
+2869,7278,BHX_HCM_BCH - D10/25 Dân Công Hỏa Tuyến,1027,Thành phố Hồ Chí Minh
+2870,5182,BHX_BDU_TDM - 333/3 Đường 30/4,1027,Thành phố Hồ Chí Minh
+2871,29925,BHX_LDO_PTH - 404 Thủ Khoa Huân,1025,Tỉnh Lâm Đồng
+2872,14800,BHX_BDU_TUY - Tân Vĩnh Hiệp,1027,Thành phố Hồ Chí Minh
+2873,4460,BHX_BTR_CLA - Thửa 2669 Tây Lộc (Chợ Cái Mơn),1030,Tỉnh Vĩnh Long
+2874,14219,BHX_HUE_THO - 52 Phan Bội Châu,1019,Thành phố Huế
+2875,3418,BHX_HCM_BCH - 3A73/1 Ấp 3 Phạm Văn Hai,1027,Thành phố Hồ Chí Minh
+2876,8109,BHX_DON_CMY - Thửa 68 Xuân Mỹ,1026,Tỉnh Đồng Nai
+2877,5396,BHX_STR_STR - 481 Trần Hưng Đạo,1032,Thành phố Cần Thơ
+2878,28276,BHX_HCM_BTR -  4A Nguyễn Thị Định,1027,Thành phố Hồ Chí Minh
+2879,14502,BHX_HTI_NXU - Nghi Xuân,1017,Tỉnh Hà Tĩnh
+2880,27947,BHX_HTI_HKH - Chợ Mới Hương Khê,1017,Tỉnh Hà Tĩnh
+2881,9951,BHX_BDU_TUY - 406 Lê Quang Định,1027,Thành phố Hồ Chí Minh
+2882,9908,BHX_CTH_CRA - Hưng Thạnh,1032,Thành phố Cần Thơ
+2883,6583,BHX_KHH_DKH - 94 Tỉnh Lộ 2 (Diên Phước),1023,Tỉnh Khánh Hòa
+2884,14785,BHX_THO_NSO - Nga Yên,1015,Tỉnh Thanh Hóa
+2885,14989,BHX_PYE_DXU - La Hai,1024,Tỉnh Đắk Lắk
+2886,14812,BHX_HUE_PXU - Kho Thịt Cá ITL Đà Nẵng (HUB),1019,Thành phố Huế
+2887,15023,BHX_NAN_DLU - Yên Sơn,1016,Tỉnh Nghệ An
+2888,5258,BHX_HCM_Q08 - 108 An Dương Vương,1027,Thành phố Hồ Chí Minh
+2889,30189,BHX_HYE_DHO - Đức Quang,1013,Tỉnh Hưng Yên
+2890,28616,BHX_CMA_LVL - Bà Điều,1033,Tỉnh Cà Mau
+2891,7006,BHX_LDO_BLO - 1134 QL20 Đại Lào,1025,Tỉnh Lâm Đồng
+2892,6741,BHX_DON_NTR - Long Thọ,1026,Tỉnh Đồng Nai
+2893,14573,BHX_HTI_CXU - Cẩm Xuyên,1017,Tỉnh Hà Tĩnh
+2894,15629,BHX_BLI_DHA - Định Thành,1033,Tỉnh Cà Mau
+2895,28031,BHX_HCM_CCH - 122A Tỉnh Lộ 2,1027,Thành phố Hồ Chí Minh
+2896,27939,BHX_HCM_BTR - Chung cư Imperia,1027,Thành phố Hồ Chí Minh
+2897,7040,BHX_LDO_DLA - Thửa 40 Phường 5,1025,Tỉnh Lâm Đồng
+2898,29983,BHX_HPH_AHA - An Đồng ( Máng Nước),1012,Thành phố Hải Phòng
+2899,14997,BHX_GLA_PLK - 123 Lê Thánh Tôn,1022,Tỉnh Gia Lai
+2900,28096,BHX_HCM_LBI - BS701. S03-04 Chung Cư Vinhomes Grand Park,1027,Thành phố Hồ Chí Minh
+2901,4946,BHX_HCM_TDU - 60 Đường Số 39,1027,Thành phố Hồ Chí Minh
+2902,15744,BHX_DNA_STR - Trần Nhân Tông,1020,Thành phố Đà Nẵng
+2903,7237,BHX_LDO_DLI - Phú Hiệp 3 (Gia Hiệp),1025,Tỉnh Lâm Đồng
+2904,14409,BHX_KHH_NTR - Đường A1,1023,Tỉnh Khánh Hòa
+2905,6154,BHX_HCM_Q05 - 286 Trần Hưng Đạo,1027,Thành phố Hồ Chí Minh
+2906,9731,BHX_LDO_DTR - Liên Nghĩa (Thửa đất số 1643),1025,Tỉnh Lâm Đồng
+2907,6597,BHX_KGI_THI - Đập Đá (Tân Hội),1031,Tỉnh An Giang
+2908,5003,BHX_BRV_PMY - Tổ 1 Hắc Dịch,1027,Thành phố Hồ Chí Minh
+2909,10106,BHX_DON_VCU - Vĩnh Tân,1026,Tỉnh Đồng Nai
+2910,13653,BHX_BPH_DPH - Kho Lạnh Trần Đại Nghĩa (HUB),1026,Tỉnh Đồng Nai
+2911,3388,BHX_HCM_PNH - 123 Trần Hữu Trang,1027,Thành phố Hồ Chí Minh
+2912,4411,BHX_TNI_TNI - Thửa 01 Khu Phố 1 Phường 4,1028,Tỉnh Tây Ninh
+2913,6696,BHX_CTH_PDI - Tân Long (Tân Thới),1032,Thành phố Cần Thơ
+2914,6495,BHX_CMA_UMI - Ấp 3 Khánh Hội,1033,Tỉnh Cà Mau
+2915,4073,BHX_DON_BHO - 79B Khu phố 10 Tân Biên,1026,Tỉnh Đồng Nai
+2916,2794,BHX_HCM_BCH - B11B/13F Võ Văn Vân,1027,Thành phố Hồ Chí Minh
+2917,28458,BHX_NBI_YMO - Ngã Ba Lồng,1014,Tỉnh Ninh Bình
+2918,5237,BHX_LAN_DHO - 97 Hiệp Hòa,1028,Tỉnh Tây Ninh
+2919,4245,BHX_BDU_DAN - 01/8 Quốc Lộ 1K Tân Hòa,1027,Thành phố Hồ Chí Minh
+2920,14108,BHX_QNA_TKY - 842 Phan Châu Trinh,1020,Thành phố Đà Nẵng
+2921,4448,BHX_HCM_Q04 - 116-118 Vĩnh Hội,1027,Thành phố Hồ Chí Minh
+2922,1837,BHX_HCM_BTA - 964 Hương Lộ 2,1027,Thành phố Hồ Chí Minh
+2923,28077,BHX_NAN_KBA - Võ Liệt ( Chợ Rộ),1016,Tỉnh Nghệ An
+2924,6132,BHX_CMA_CNU - Thửa 53 Phấn Thạnh,1033,Tỉnh Cà Mau
+2925,1865,BHX_HCM_BTA - 4525 Nguyễn Cửu Phú,1027,Thành phố Hồ Chí Minh
+2926,5181,BHX_BRV_VTA - 176 Trương Công Định,1027,Thành phố Hồ Chí Minh
+2927,4768,BHX_TVI_DHA - Thửa 31 Duyên Hải,1030,Tỉnh Vĩnh Long
+2928,28207,BHX_NBI_YMO - Yên Mô ( Chợ Ngò),1014,Tỉnh Ninh Bình
+2929,15006,BHX_THO_TSO - Triệu Sơn,1015,Tỉnh Thanh Hóa
+2930,7865,BHX_DON_LKH - 80 Hồ Thị Hương,1026,Tỉnh Đồng Nai
+2931,13785,BHX_HCM_GVA - 884 Lê Đức Thọ,1027,Thành phố Hồ Chí Minh
+2932,6309,BHX_DON_LTH - Ấp 2 Phước Bình,1026,Tỉnh Đồng Nai
+2933,4246,BHX_DON_BHO - 170 Đinh Quang Ân,1026,Tỉnh Đồng Nai
+2934,4870,BHX_BDU_TAN - Thửa 747 Bình Phước B (Chợ Bình Thuận 2),1027,Thành phố Hồ Chí Minh
+2935,14675,BHX_NAN_VIN - Kho DC Vinh,1016,Tỉnh Nghệ An
+2936,15741,BHX_NAN_DTH - Đô Thành,1016,Tỉnh Nghệ An
+2937,15792,BHX_AGI_LXU - Triệu Quang Phục,1031,Tỉnh An Giang
+2938,8255,BHX_VLO_TON - Thửa 28 Trà Ôn,1030,Tỉnh Vĩnh Long
+2939,2108,BHX_HCM_BCH - D11/5 Quách Điêu,1027,Thành phố Hồ Chí Minh
+2940,28249,BHX_QTR_PTR - Phú Trạch,1018,Tỉnh Quảng Trị
+2941,2046,BHX_HCM_BTA - 54 Trần Đại Nghĩa,1027,Thành phố Hồ Chí Minh
+2942,28056,BHX_HTI_LHA - Lộc Hà,1017,Tỉnh Hà Tĩnh
+2943,29922,BHX_HCM_TNP -  524/1 Lê Văn Việt,1027,Thành phố Hồ Chí Minh
+2944,15632,BHX_DTH_TNO - Phú Hiệp,1029,Tỉnh Đồng Tháp
+2945,9964,BHX_HCM_TDU - 169 Đường 154,1027,Thành phố Hồ Chí Minh
+2946,4487,BHX_CTH_PDI - Thửa 230 Phong Điền,1032,Thành phố Cần Thơ
+2947,5246,BHX_BPH_LNI - Thửa 111 Hiệp Tâm A,1026,Tỉnh Đồng Nai
+2948,28691,BHX_NBI_BMY - 119 Trần Tử Bình,1014,Tỉnh Ninh Bình
+2949,4783,BHX_BPH_CTH - Thửa 164 Nguyễn Huệ,1026,Tỉnh Đồng Nai
+2950,3645,BHX_HCM_Q07 - 122 Lâm Văn Bền,1027,Thành phố Hồ Chí Minh
+2951,9079,BHX_HCM_GVA - Thửa 506 Quang Trung,1027,Thành phố Hồ Chí Minh
+2952,3673,BHX_HCM_Q08 - 3425 Phạm Thế Hiển,1027,Thành phố Hồ Chí Minh
+2953,15733,BHX_CMA_DMU - ấp Kinh Đào,1033,Tỉnh Cà Mau
+2954,14609,BHX_DNA_HVA - Hoà Phước,1020,Thành phố Đà Nẵng
+2955,14924,BHX_AGI_CPH - Kho Lạnh Thốt Nốt (HUB),1031,Tỉnh An Giang
+2956,5290,BHX_BDU_BCA - Thửa 676 Chánh Phú Hòa,1027,Thành phố Hồ Chí Minh
+2957,15572,BHX_HGI_CTA - Tân Phú Thạnh,1032,Thành phố Cần Thơ
+2958,9450,BHX_HCM_BCH - Lê Minh Xuân,1027,Thành phố Hồ Chí Minh
+2959,28572,BHX_DON_NTR - Trạm Điện,1026,Tỉnh Đồng Nai
+2960,13592,BHX_HCM_TDU - 520 Nguyễn Xiển,1027,Thành phố Hồ Chí Minh
+2961,4583,BHX_HCM_HMO - 89/7 Tây Lân,1027,Thành phố Hồ Chí Minh
+2962,6116,BHX_TVI_CLO - Thửa 116 Càng Long (Chợ Mỹ Huê),1030,Tỉnh Vĩnh Long
+2963,10460,BHX_BPH_DPH - Kho XLCL Đồng Phú,1026,Tỉnh Đồng Nai
+2964,3692,BHX_HCM_TDU - 23 Đường Số 3 Hiệp Bình Chánh,1027,Thành phố Hồ Chí Minh
+2965,9149,BHX_LDO_DRO - Rômen,1025,Tỉnh Lâm Đồng
+2966,28589,BHX_TNI_BLU - Kho Nhập Khẩu NECS,1028,Tỉnh Tây Ninh
+2967,7337,BHX_CMA_CMA - Thửa 97 Tắc Vân,1033,Tỉnh Cà Mau
+2968,6074,BHX_DON_XLO - 232 Hùng Vương (Gia Ray),1026,Tỉnh Đồng Nai
+2969,4719,BHX_DON_TBO - 97 Hùng Vương,1026,Tỉnh Đồng Nai
+2970,3261,BHX_HCM_TDU - 11 Tô Vĩnh Diện,1027,Thành phố Hồ Chí Minh
+2971,6145,BHX_KHH_NTR - 288 Đường 2/4,1023,Tỉnh Khánh Hòa
+2972,7014,BHX_BDU_BTU - Thửa 188 Bình Mỹ,1027,Thành phố Hồ Chí Minh
+2973,6526,BHX_HCM_TPH - 2 Hồ Đắc Di,1027,Thành phố Hồ Chí Minh
+2974,15596,BHX_BPH_DXO - Tân Đồng,1026,Tỉnh Đồng Nai
+2975,14585,BHX_CTH_OMO - Long Hưng,1032,Thành phố Cần Thơ
+2976,8017,BHX_LAN_DHU - Ấp 4 Mỹ Quý Tây,1028,Tỉnh Tây Ninh
+2977,28855,BHX_QTR_BGI - Minh Lợi,1018,Tỉnh Quảng Trị
+2978,10345,BHX_HCM_BCH - Vĩnh Lộc A (Thửa đất 686),1027,Thành phố Hồ Chí Minh
+2979,2835,BHX_HCM_BTA - 63 Đường Số 29,1027,Thành phố Hồ Chí Minh
+2980,14370,BHX_TVI_TVI - Long Đức,1030,Tỉnh Vĩnh Long
+2981,13645,BHX_HCM_Q03 - 84 Nguyễn Thông,1027,Thành phố Hồ Chí Minh
+2982,28057,BHX_NAN_QMA - Quỳnh Phương,1016,Tỉnh Nghệ An
+2983,28195,BHX_NAN_TVI - Chợ Đông Vĩnh,1016,Tỉnh Nghệ An
+2984,30141,BHX_HCM_VLO - A8B/46 Đường 1A,1027,Thành phố Hồ Chí Minh
+2985,14133,BHX_DNA_HVA - Hoà Tiến,1020,Thành phố Đà Nẵng
+2986,28074,BHX_THO_XHO - Chợ Hương,1015,Tỉnh Thanh Hóa
+2987,14421,BHX_DON_TNH - Quang Trung,1026,Tỉnh Đồng Nai
+2988,15057,BHX_NAN_VIN - 24 Nguyễn Sinh Sắc,1016,Tỉnh Nghệ An
+2989,7715,BHX_DON_DQU - Tổ 3 Hiệp Quyết,1026,Tỉnh Đồng Nai
+2990,3588,BHX_HCM_TDU - 83 Đặng Văn Bi,1027,Thành phố Hồ Chí Minh
+2991,9762,BHX_KHH_NTR - 173 Thống Nhất,1023,Tỉnh Khánh Hòa
+2992,7665,BHX_STR_STR - 10 Nguyễn Trung Trực,1032,Thành phố Cần Thơ
+2993,30125,BHX_DNA_AHA - 95 Lê Hữu Trác,1020,Thành phố Đà Nẵng
+2994,8865,BHX_HCM_TDU - 2/14 Đường số 20,1027,Thành phố Hồ Chí Minh
+2995,3555,BHX_HCM_GVA - 26 Nguyễn Thượng Hiền,1027,Thành phố Hồ Chí Minh
+2996,6059,BHX_BTH_TLI - Thôn 5 Huy Khiêm (Chợ Cũ),1025,Tỉnh Lâm Đồng
+2997,10000,BHX_BPH_CTH - Minh Long,1026,Tỉnh Đồng Nai
+2998,28147,BHX_NBI_DHL - Kho XLCL DC Ninh Bình,1014,Tỉnh Ninh Bình
+2999,5385,BHX_LAN_KTU - Số 5 Hùng Vương,1028,Tỉnh Tây Ninh
+3000,2023,BHX_HCM_TPH - 28 Đường số 27,1027,Thành phố Hồ Chí Minh
+3001,9467,BHX_DTH_TMU - Mỹ Quí(Chợ Đường Thét),1029,Tỉnh Đồng Tháp
+3002,7841,BHX_HCM_NBE - 2635 Huỳnh Tấn Phát,1027,Thành phố Hồ Chí Minh
+3003,8650,BHX_BRV_VTA - 39 Trần Đồng,1027,Thành phố Hồ Chí Minh
+3004,6485,BHX_TGI_CBE - Khu 2 Cái Bè,1029,Tỉnh Đồng Tháp
+3005,6307,BHX_BDU_TDM - Thửa 1443 Phú Lợi,1027,Thành phố Hồ Chí Minh
+3006,6788,BHX_BTH_HTN - Minh Tiến (Chợ Hàm Minh),1025,Tỉnh Lâm Đồng
+3007,15104,BHX_BTR_BDA - Long Hoà,1030,Tỉnh Vĩnh Long
+3008,30092,BHX_TNI_ATI - An Khương,1028,Tỉnh Tây Ninh
+3009,30071,BHX_HCM_BCO - 518/2 Nguyễn Đình Chiểu,1027,Thành phố Hồ Chí Minh
+3010,6671,BHX_TNI_CTH - An Lộc (An Cơ),1028,Tỉnh Tây Ninh
+3011,6406,BHX_DLA_BDO - 75 Tỉnh Lộ 1 (Tân Hòa),1024,Tỉnh Đắk Lắk
+3012,12402,BHX_HCM_TDU - 190 Quốc Lộ 13 (HUB),1027,Thành phố Hồ Chí Minh
+3013,28203,BHX_NAN_TPH - Tân Phú (chợ Cừa),1016,Tỉnh Nghệ An
+3014,8920,BHX_HCM_HMO - 52/23 Thái Thị Giữ,1027,Thành phố Hồ Chí Minh
+3015,15611,BHX_DLA_KPA - Ea Kly,1024,Tỉnh Đắk Lắk
+3016,6804,BHX_KHH_NTR - 129 Dương Hiến Quyền,1023,Tỉnh Khánh Hòa
