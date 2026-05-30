@@ -17,6 +17,3 @@ config.py
 # File tạm
 *.log
 .env
-
-# Claude Code local settings
-.claude/
