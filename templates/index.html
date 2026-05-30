@@ -333,7 +333,7 @@ async function runForecast() {
   } finally {
     document.getElementById('loading').style.display = 'none';
     btn.disabled = false;
-    btn.textContent = 'Du bao';
+    btn.textContent = 'Dự báo';
   }
 }
 
@@ -342,9 +342,9 @@ function renderResults(data) {
   const info = document.getElementById('rolling_info');
   if (data.is_rolling) {
     warn.style.display = 'block';
-    info.textContent   = `Du bao cuon ${data.rollout_days} ngay tu data thuc `
+    info.textContent   = `Dự báo cuốn ${data.rollout_days} ngày từ data thực `
                        + `(31/03/2026 → ${data.forecast_date}). `
-                       + `Sai so tich luy tang ~${(data.rollout_days * 2).toFixed(0)}% so voi du bao 1 ngay.`;
+                       + `Sai so tích lũy tăng ~${(data.rollout_days * 2).toFixed(0)}% so với dự báo 1 ngày.`;
   } else {
     warn.style.display = 'none';
   }
@@ -358,16 +358,16 @@ function renderResults(data) {
   document.getElementById('m_import').textContent = imp.toLocaleString('vi-VN');
   document.getElementById('m_safety').textContent = data.safety_factor_pct || '—';
 
-  document.getElementById('m_qty_ctx').textContent = `Du bao cho ngay ${data.forecast_date}`;
+  document.getElementById('m_qty_ctx').textContent = `Dự báo cho ngày ${data.forecast_date}`;
 
   if (inv > 0 && qty > 0) {
     const days = Math.round(inv / qty);
-    document.getElementById('m_inv_ctx').textContent = `Du dung khoang ${days} ngay`;
+    document.getElementById('m_inv_ctx').textContent = `Đủ dùng khoảng ${days} ngay`;
   } else {
-    document.getElementById('m_inv_ctx').textContent = 'Ton kho am - can nhap ngay';
+    document.getElementById('m_inv_ctx').textContent = 'Tồn kho âm - cần nhập ngay';
   }
 
-  document.getElementById('m_import_ctx').textContent = imp === 0 ? 'Khong can nhap hom nay' : '';
+  document.getElementById('m_import_ctx').textContent = imp === 0 ? 'Không cần nhập hôm nay' : '';
 
   const chart = document.getElementById('bar_chart');
   chart.innerHTML = '';
@@ -393,7 +393,7 @@ function renderResults(data) {
   rows.forEach(r => {
     const rimp = r.import_suggestion || 0;
     const rqty = r.predicted_qty || 0;
-    let tag = '<span class="tag-ok">Du hang</span>';
+    let tag = '<span class="tag-ok">Đủ hàng</span>';
     if (rimp > rqty * 0.5) tag = '<span class="tag-alert">Thieu hang - can nhap ngay</span>';
     else if (rimp > 0)      tag = '<span class="tag-warn">Sap thieu - nen nhap them</span>';
 

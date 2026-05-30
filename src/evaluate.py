@@ -1,6 +1,6 @@
 #  Đánh giá mô hình
 #  Chỉ số: RMSE, MAPE, MAE, PRED(25), MBRE, MIBRE
-#  Chỉ số nghiệp vụ: Overstock Rate, Stockout Rate
+#  Chỉ số nghiệp vụ: MBRE, MIBRE
 
 import os
 import sys
@@ -56,20 +56,6 @@ def mibre(actual, predicted, eps=1e-6):
     return np.mean(np.abs(predicted[mask] - actual[mask]) / denom[mask]) * 100
 
 
-def overstock_rate(actual, predicted):
-    mask = actual > 0
-    if mask.sum() == 0:
-        return np.nan
-    return (((predicted[mask] - actual[mask]) / actual[mask]) > 0.20).mean() * 100
-
-
-def stockout_rate(actual, predicted):
-    mask = actual > 0
-    if mask.sum() == 0:
-        return np.nan
-    return (((actual[mask] - predicted[mask]) / actual[mask]) > 0.20).mean() * 100
-
-
 def evaluate_all(all_results):
     rows = []
     for level_name, level_results in all_results.items():
@@ -85,8 +71,6 @@ def evaluate_all(all_results):
                 'PRED(25) (%)':       round(pred25(actual, predicted),      2),
                 'MBRE (%)':           round(mbre(actual, predicted),        2),
                 'MIBRE (%)':          round(mibre(actual, predicted),       2),
-                'Overstock Rate (%)': round(overstock_rate(actual, predicted), 1),
-                'Stockout Rate (%)':  round(stockout_rate(actual, predicted),  1),
                 'N test':             len(actual),
             })
     return pd.DataFrame(rows)
