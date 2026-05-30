@@ -43,17 +43,15 @@ def pred25(actual, predicted, eps=1e-6):
 
 def mbre(actual, predicted, eps=1e-6):
     mask = actual > eps
-    if mask.sum() == 0:
-        return np.nan
-    return np.mean((predicted[mask] - actual[mask]) / actual[mask]) * 100
-
+    denom = np.minimum(actual[mask], predicted[mask])
+    denom = np.where(denom < eps, eps, denom)
+    return np.mean(np.abs(predicted[mask] - actual[mask]) / denom) * 100
 
 def mibre(actual, predicted, eps=1e-6):
-    denom = (np.abs(actual) + np.abs(predicted)) / 2
-    mask  = denom > eps
-    if mask.sum() == 0:
-        return np.nan
-    return np.mean(np.abs(predicted[mask] - actual[mask]) / denom[mask]) * 100
+    mask = actual > eps
+    denom = np.maximum(actual[mask], predicted[mask])
+    denom = np.where(denom < eps, eps, denom)
+    return np.mean(np.abs(predicted[mask] - actual[mask]) / denom) * 100
 
 
 def evaluate_all(all_results):
